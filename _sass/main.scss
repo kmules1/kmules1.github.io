@@ -1,0 +1,90 @@
+$bgcol:					#000000;
+$col:					#FFFFFF;
+$high:					#87C1FC;
+$warn:					#FFAA00;
+$err:					#DA691F;
+$good:					#91E964;
+
+html {
+	line-height:		1.15;
+	background-color:	$bgcol;
+	color:				$col;
+	font-family:		'Roboto', sans-serif;
+}
+
+body {
+	margin:				0;
+	display:			flex;
+	flex-direction:		column;
+}
+
+main {
+	display:			block;
+	width:				800px;
+	margin:				0 auto;
+}
+
+h1,h2,h3,h4,h5 {
+	font-family:		'Michroma', sans-serif;
+	text-transform:		uppercase;
+	color:				$high;
+}
+
+h1 {
+	font-size:			2em;
+	margin:				0.67em 0;
+}
+
+nav {
+	display:			flex;
+	flex-direction:		row;
+	justify-content:	center;
+	font-family:		'Michroma', sans-serif;
+	font-size:			small;
+	font-weight:		bold;
+	text-transform:		uppercase;
+	border:				2px solid $col;
+	border-radius:		1em;
+	margin:				1em;
+}
+
+nav a {
+	display:			flex;
+	flex-direction:		column;
+	justify-content:	center;
+	width:				100px;
+	height:				50px;
+	border-radius:		1em;
+	margin:				1em;
+	text-align:			center;
+	color:				$bgcol;
+	opacity:			0.75;
+	text-decoration:	none;
+	transform:			opacity .25s;
+}
+nav a:link, nav a:visited {
+	background-color:	$high;
+}
+nav a:hover, nav a.current:hover {
+	background-color:	$warn;
+	opacity:			1;
+}
+nav a.current, nav a:active {
+	background-color:	$good;
+}
+nav p {
+	text-align:			center;
+}
+
+main a {
+	background-color:	transparent;
+}
+main a:link, main a:visited {
+	color:				$high;
+}
+main a:active {
+	color:				$good;
+}
+main a:hover {
+	color:				$warn;
+}
