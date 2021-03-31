@@ -5,4 +5,4 @@ title: Home
 
 # Cadmium
 
-Chemical element with symbol **Cd** and atomic number 48.
+Chemical element with symbol **Cd** and atomic number **48**.
