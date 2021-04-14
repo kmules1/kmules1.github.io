@@ -152,3 +152,15 @@ dd.configuration, dd.oxidation {
 	flex-direction:			column;
 	justify-content:		end;
 }
+
+.name-rotate {
+	margin:					5rem auto;
+	text-align:				center;
+	font-size:				x-large;
+}
+.name-rotate hidden {
+	display:				none;
+}
+.name-rotate * {
+	margin-left:			0;
+}
