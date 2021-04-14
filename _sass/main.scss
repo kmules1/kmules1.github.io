@@ -110,8 +110,8 @@ dl.element {
 }
 dl.element::before {
 	content:				"";
-	background-color:		silver;
-	background-image:		linear-gradient(to bottom right, gray, silver, gray);
+	background-color:		#c8c4d2;
+	background-image:		linear-gradient(to bottom right, #8e8b95, #c8c4d2, #8e8b95);
 	background-size:		cover;
 	position:				absolute;
 	top:					0px;
