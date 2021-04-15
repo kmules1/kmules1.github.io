@@ -8,7 +8,8 @@ Cadmium
 : {: .at-weight} 112.411
 : {: .symbol} Cd
 : {: .ground-state} <span><sup>1</sup>S<sub>0</sub></span>
-: {: .density} 8.65 g/cm<sup>3</sup>
+: {: .electronegativity} <span>2.2</span>
+: {: .density} <span>8.65 g/cm<sup>3</sup></span>
 : {: .ionization} 8.9938
 : {: .melting-point} 594.22 K
 : {: .boiling-point} 1040 K
@@ -67,8 +68,8 @@ Cadmium
         rotaterator: function(options) {
  
             var defaults = {
-                fadeSpeed: 1000,
-                pauseSpeed: 0,
+                fadeSpeed: 500,
+                pauseSpeed: 100,
 				child:null
             };
              

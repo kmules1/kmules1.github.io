@@ -106,6 +106,7 @@ dl.element {
 	padding:				2rem;
 	display:				grid;
 	grid-template-columns:	auto auto;
+	grid-template-rows:		2rem 1fr repeat(6, 2rem);
 }
 dl.element::before {
 	content:				"";
@@ -126,32 +127,26 @@ dl.element dt {
 }
 dl.element dd {
 	margin:					0;
+	display:				flex;
+	flex-direction:			column;
 }
 dd.at-number {
 	font-size:				xx-large;
 }
-dd.at-weight, dd.ground-state, dd.ionization, dd.boiling-point, dd.crystal {
+dd.at-weight, dd.ground-state, dd.electronegativity, dd.ionization, dd.boiling-point, dd.crystal {
 	text-align:				right;
 }
 dd.symbol {
-	font-size:				120px;
+	grid-row-end:			span 2;
+	font-size:				147px;
 }
-dd.ground-state {
-	display:				flex;
-	flex-direction:			column;
+dd.ground-state, dd.electronegativity, dd.density, dd.ionization, dd.melting-point, dd.boiling-point, dd.at-radius, dd.crystal, dd.configuration, dd.oxidation {
 	justify-content:		end;
-}
-dd.ground-state span {
-	margin-bottom:			1rem;
 }
 dd.configuration, dd.oxidation {
 	grid-column:			1 / 3;
 	text-align:				center;
-	display:				flex;
-	flex-direction:			column;
-	justify-content:		end;
 }
-
 .name-rotate {
 	margin:					5rem auto;
 	text-align:				center;
