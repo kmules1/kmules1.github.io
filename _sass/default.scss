@@ -29,14 +29,12 @@ main {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family:			'Michroma', sans-serif;
-	text-transform:			uppercase;
+	font-family:			'Jura', sans-serif;
 	color:					$high;
 }
 
 nav {
-	font-family:			'Michroma', sans-serif;
-	font-size:				small;
+	font-family:			'Jura', sans-serif;
 	font-weight:			bold;
 	text-transform:			uppercase;
 	border-radius:			2rem;
@@ -107,7 +105,7 @@ dl.card:hover {
 
 dl.elem {
 	float:					left;
-	margin:					0;
+	margin:					0 2rem 0 0;
 	padding:				.5rem;
 	width:					10rem;
 	font-size:				.75rem;

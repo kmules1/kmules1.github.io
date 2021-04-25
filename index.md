@@ -3,7 +3,44 @@ layout: default
 title: Home
 ---
 
-<h1><div style="">Cadmium</div><div style="display:none">Cadmiu</div><div style="display:none">Kadmiyu</div><div style="display:none">كادميوم</div><div style="display:none">Кадми</div><div style="display:none">Kadmio</div><div style="display:none">Кадмий</div><div style="display:none">कैडमियम</div><div style="display:none">ကတ်မီယမ်</div><div style="display:none">کادمیم</div><div style="display:none">Kaadmium</div><div style="display:none">Cadmio</div><div style="display:none">કેડમિયમ</div><div style="display:none">കാഡ്മിയം</div><div style="display:none">Κάδμιο</div><div style="display:none">Kadmín</div><div style="display:none">Cadmiwm</div><div style="display:none">Kadm</div><div style="display:none">Càdmiu</div><div style="display:none">კადმიუმი</div><div style="display:none">Kadmijum</div><div style="display:none">Kadmijs</div><div style="display:none">केडमियम्</div><div style="display:none">Cadimi</div><div style="display:none">鎘</div><div style="display:none">Caidmiam</div><div style="display:none">Kadmiumi</div><div style="display:none">Kadɩmɩyɔm</div><div style="display:none">カドミウム</div><div style="display:none">ཁེ་ཌི་ནིམ།</div><div style="display:none">Cadmi</div><div style="display:none">Kadmij</div><div style="display:none">Kadmium</div><div style="display:none">קדמיום</div><div style="display:none">Կադմիում</div><div style="display:none">Кадмій</div><div style="display:none">Cádmio</div><div style="display:none">Kadmii</div><div style="display:none">Kadmis</div><div style="display:none">카드뮴</div><div style="display:none">Кадм</div><div style="display:none">காட்மியம்</div></h1>
+<h1>
+<div style="">Cadmium</div>
+<div style="display:none">Cadmiu</div>
+<div style="display:none">Kadmiyu</div>
+<div style="display:none">كادميوم</div>
+<div style="display:none">Кадми</div>
+<div style="display:none">Cadmiwm</div>
+<div style="display:none">Кадмий</div>
+<div style="display:none">कैडमियम</div>
+<div style="display:none">ကတ်မီယမ်</div>
+<div style="display:none">کادمیم</div>
+<div style="display:none">Kaadmium</div>
+<div style="display:none">Cadmio</div>
+<div style="display:none">કેડમિયમ</div>
+<div style="display:none">കാഡ്മിയം</div>
+<div style="display:none">Κάδμιο</div>
+<div style="display:none">Kadmín</div>
+<div style="display:none">Kadm</div>
+<div style="display:none">კადმიუმი</div>
+<div style="display:none">Kadmij</div>
+<div style="display:none">Kadmijs</div>
+<div style="display:none">Cađimi</div>
+<div style="display:none">鎘</div>
+<div style="display:none">Caidmiam</div>
+<div style="display:none">Kadmiumi</div>
+<div style="display:none">カドミウム</div>
+<div style="display:none">ཁེ་ཌི་ནིམ།</div>
+<div style="display:none">Kadmij</div>
+<div style="display:none">קדמיום</div>
+<div style="display:none">Kadmium</div>
+<div style="display:none">Կադմիում</div>
+<div style="display:none">Кадмій</div>
+<div style="display:none">காட்மியம்</div>
+<div style="display:none">Kadmii</div>
+<div style="display:none">Kadmis</div>
+<div style="display:none">카드뮴</div>
+
+</h1>
 {: .name-rotate} 
 
 {: .hide} Symbol
@@ -31,13 +68,19 @@ Oxidation State
 : +2
 {: .card .elem}
 
+Ein weiches silbriges Metall mit einer Dichte von 8,65 g/cm<sup>3</sup>. Es ist weich, schneidbar, verformbar, und duktil. Es ist beständig gegen Korrosion und unlöslich in Wasser. Wie ein Kristall, es erstarrt in der hexagonal dichteste Kugelpackung.
+
+Chemisch gleicht es dem Zink. Im Sauerstoff bildet es eine Verdunklung der Oberfläche. Im Kohlenstoffdioxid bildet es einen grauweißen Überzug. Es ist äußerst toxisch.
+
+Acht Isotopen kommen in der Natur vor. Drei Isotopen sind stabil, <sup>110</sup>Cd, <sup>111</sup>Cd, und <sup>112</sup>Cd. Zwei sind radioaktiv, <sup>113</sup>Cd und <sup>116</sup>Cd. Drei können radioaktiv sein, <sup>106</sup>Cd, <sup>108</sup>Cd, und <sup>114</sup>, aber die Halbwertszeiten wurden nicht bestimmt. Es sind acht Kernisomere bekannt; das stabilste ist <sup>113m</sup>Cd mit einer Halbwertszeit von 14,1 Jahren.
+
 <script>
 	(function($) {
 		$.fn.extend({
 			rotaterator: function(options) {
 				var defaults = {
-					fadeSpeed: 5000,
-					pauseSpeed: 5000,
+					fadeSpeed: 500,
+					pauseSpeed: 100,
 					child:null
 				};
 				
@@ -73,7 +116,7 @@ Oxidation State
 	})(jQuery);
 	
 	$(document).ready(function() {
-		$('.name-rotate').rotaterator({fadeSpeed:500, pauseSpeed:100});
+		$('.name-rotate').rotaterator({fadeSpeed:500, pauseSpeed:1000});
 		$('.name-rotate').removeClass('hidden');
 	});
 </script>
