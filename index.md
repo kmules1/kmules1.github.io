@@ -72,7 +72,7 @@ Ein weiches silbriges Metall mit einer Dichte von 8,65 g/cm<sup>3</sup>. Es ist 
 
 Chemisch gleicht es dem Zink. Im Sauerstoff bildet es eine Verdunklung der Oberfläche. Im Kohlenstoffdioxid bildet es einen grauweißen Überzug. Es ist äußerst toxisch.
 
-Acht Isotopen kommen in der Natur vor. Drei Isotopen sind stabil, <sup>110</sup>Cd, <sup>111</sup>Cd, und <sup>112</sup>Cd. Zwei sind radioaktiv, <sup>113</sup>Cd und <sup>116</sup>Cd. Drei können radioaktiv sein, <sup>106</sup>Cd, <sup>108</sup>Cd, und <sup>114</sup>, aber die Halbwertszeiten wurden nicht bestimmt. Es sind acht Kernisomere bekannt; das stabilste ist <sup>113m</sup>Cd mit einer Halbwertszeit von 14,1 Jahren.
+Acht Isotopen kommen in der Natur vor. Drei Isotopen sind stabil, <sup class="at-weight">110</sup>Cd, <sup class="at-weight">111</sup>Cd, und <sup class="at-weight">112</sup>Cd. Zwei sind radioaktiv, <sup class="at-weight">113</sup>Cd und <sup class="at-weight">116</sup>Cd. Drei können radioaktiv sein, <sup class="at-weight">106</sup>Cd, <sup class="at-weight">108</sup>Cd, und <sup class="at-weight">114</sup>Cd, aber die Halbwertszeiten wurden nicht bestimmt. Es sind acht Kernisomere bekannt; das stabilste ist <sup class="at-weight">113m</sup>Cd mit einer Halbwertszeit von 14,1 Jahren.
 
 <script>
 	(function($) {
