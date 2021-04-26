@@ -1,11 +1,16 @@
 /*! default.css v0.1.0 |  */
 
-$bgcol:						#000000;
-$col:						#FFFFFF;
-$high:						#87C1FC;
-$warn:						#FFAA00;
-$err:						#DA691F;
-$good:						#91E964;
+$bgcol:						#17182B;
+$col:						#DCEDFF;
+
+$highlight:					#E30022;
+
+$elem_dt:					#0A1195;
+$elem_dd:					#FFF600;
+
+$link:						#DCEDFF;
+$link_current:				#ADF7B6;
+$link_active:				#F4D35E;
 
 
 * {
@@ -21,16 +26,19 @@ html {
 body {
 	display:				flex;
 	flex-direction:			column;
+	min-height:				100vh;
 }
 
 main {
-	width:					800px;
+	width:					90%;
+	max-width:				800px;
 	margin:					0 auto;
+	flex:					1;
 }
 
 h1,h2,h3,h4,h5,h6 {
 	font-family:			'Jura', sans-serif;
-	color:					$high;
+	color:					$highlight;
 }
 
 nav {
@@ -61,37 +69,35 @@ nav a {
 	margin:					.5rem;
 	text-align:				center;
 	color:					$bgcol;
-	opacity:				0.75;
 	text-decoration:		none;
 	transition:				all .25s;
 }
 nav a:link, nav a:visited {
-	background-color:		$high;
+	background-color:		$link;
 }
 nav a:hover, nav a.current:hover {
-	background-color:		$warn;
+	background-color:		$link_active;
 	opacity:				1;
 }
 nav a.current, nav a:active {
-	background-color:		$good;
+	background-color:		$link_current;
 }
 
 main a {
 	background-color:		transparent;
 }
 main a:link, main a:visited {
-	color:					$high;
+	color:					$link;
 }
 main a:active {
-	color:					$good;
+	color:					$link_active;
 }
 main a:hover {
-	color:					$warn;
+	color:					$link_active;
 }
 
 dl.card {
 	display:				inline-block;
-	background-color:		royalblue;
 	padding:				1rem;
 	border-radius:			1rem;
 	border-width:			2px;
@@ -109,14 +115,19 @@ dl.elem {
 	padding:				.5rem;
 	width:					10rem;
 	font-size:				.75rem;
+	background-color:		$highlight;
+}
+dl.elem:hover {
+	border-color:			$elem_dd;
 }
 dl.elem dt {
 	float:					left;
-	color:					black;
+	color:					$elem_dt;
 }
 dl.elem dd {
 	margin:					0;
 	text-align:				right;
+	color:					$elem_dd;
 }
 dl.elem dd.symbol {
 	font-size:				7rem;
