@@ -31,7 +31,7 @@ body {
 
 main {
 	width:					90%;
-	max-width:				800px;
+	max-width:				50rem;
 	margin:					0 auto;
 	flex:					1;
 }
@@ -61,12 +61,12 @@ nav ul {
 
 nav a {
 	display:				flex;
-	flex-direction:			column;
-	justify-content:		center;
-	width:					100px;
-	height:					50px;
+	flex-direction:			row;
+	justify-content:		space-between;
+	width:					8rem;
 	border-radius:			1rem;
 	margin:					.5rem;
+	padding:				.5rem;
 	text-align:				center;
 	color:					$bgcol;
 	text-decoration:		none;
