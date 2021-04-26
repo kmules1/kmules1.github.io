@@ -68,7 +68,7 @@ Oxidation State
 : +2
 {: .card .elem}
 
-Ein weiches silbriges Metall mit einer Dichte von 8,65 g/cm<sup>3</sup>. Es ist weich, schneidbar, verformbar, und duktil. Es ist beständig gegen Korrosion und unlöslich in Wasser. Wie ein Kristall, es erstarrt in der hexagonal dichteste Kugelpackung.
+Dieses Element ist ein silbriges Metall mit einer Dichte von 8,65 g/cm<sup>3</sup>. Es ist weich, schneidbar, verformbar, und duktil. Es ist beständig gegen Korrosion und unlöslich in Wasser. Als ein Kristall, es erstarrt in der hexagonal dichteste Kugelpackung.
 
 Chemisch gleicht es dem Zink. Im Sauerstoff bildet es eine Verdunklung der Oberfläche. Im Kohlenstoffdioxid bildet es einen grauweißen Überzug. Es ist äußerst toxisch.
 

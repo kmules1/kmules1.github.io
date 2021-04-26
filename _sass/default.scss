@@ -29,16 +29,10 @@ body {
 	min-height:				100vh;
 }
 
-main {
-	width:					90%;
-	max-width:				50rem;
-	margin:					0 auto;
-	flex:					1;
-}
-
 h1,h2,h3,h4,h5,h6 {
 	font-family:			'Jura', sans-serif;
 	color:					$highlight;
+	margin-left:			-2rem;
 }
 
 nav {
@@ -83,6 +77,14 @@ nav a.current, nav a:active {
 	background-color:		$link_current;
 }
 
+main {
+	width:					90%;
+	max-width:				50rem;
+	margin:					0 auto;
+	padding-left:			2rem;
+	flex:					1;
+}
+
 main a {
 	background-color:		transparent;
 }
@@ -103,15 +105,15 @@ dl.card {
 	border-width:			2px;
 	border-style:			solid;
 	border-color:			transparent;
-	transition:				border-color .25s;
+	transition:				all .25s;
 }
 dl.card:hover {
-	border-color:			white;
+	border-color:			$col;
 }
 
 dl.elem {
 	float:					left;
-	margin:					0 2rem 0 0;
+	margin:					0 2rem 2rem -2rem;
 	padding:				.5rem;
 	width:					10rem;
 	font-size:				.75rem;
@@ -119,6 +121,7 @@ dl.elem {
 }
 dl.elem:hover {
 	border-color:			$elem_dd;
+	transform:				scale(1.05);
 }
 dl.elem dt {
 	float:					left;
