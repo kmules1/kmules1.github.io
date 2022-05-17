@@ -1,0 +1,17 @@
+---
+---
+
+$bgcol:						#17182B;
+$col:						#DCEDFF;
+$highlight:					#E30022;
+
+$elem_dt:					$bgcol;
+$elem_dd:					#FFF600;
+
+$link:						$col;
+$link_current:				#A3E0B8;
+$link_active:				#F4D35E;
+$link_text:					$bgcol;
+
+@import "normalize";
+@import "default";

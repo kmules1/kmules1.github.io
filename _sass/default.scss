@@ -1,18 +1,5 @@
 /*! default.css v0.1.0 |  */
 
-$bgcol:						#17182B;
-$col:						#DCEDFF;
-
-$highlight:					#E30022;
-
-$elem_dt:					#0A1195;
-$elem_dd:					#FFF600;
-
-$link:						#DCEDFF;
-$link_current:				#ADF7B6;
-$link_active:				#F4D35E;
-
-
 * {
 	box-sizing:				border-box;
 }
@@ -62,7 +49,7 @@ nav a {
 	margin:					.5rem;
 	padding:				.5rem;
 	text-align:				center;
-	color:					$bgcol;
+	color:					$link_text;
 	text-decoration:		none;
 	transition:				all .25s;
 }
@@ -96,6 +83,10 @@ main a:active {
 }
 main a:hover {
 	color:					$link_active;
+}
+
+main ul {
+	padding-left:			2em;
 }
 
 dl.card {
@@ -144,5 +135,42 @@ dl.elem span {
 
 sup.at-weight {
 	opacity:				0.8;
+	font-style:				italic;
+}
+
+table.phonology td {
+	text-align:				center;
+}
+table.phonology td:first-child {
+	font-weight:			bold;
+	text-align:				right;
+}
+
+th.sorted.ascending:after {
+	content:				" \25BC";
+}
+
+th.sorted.descending:after {
+	content:				"  \25B2";
+}
+
+figure {
+	float:					right;
+	background-color:		white;
+	width:					10rem;
+	padding:				1rem;
+	border:					2px solid $link;
+	border-radius:			1rem;
+	margin:					0 0 1rem 1rem;
+}
+figure.left {
+	float:					left;
+	margin:					0 1rem 1rem 0;
+}
+figure img {
+	width:					100%;
+}
+figcaption {
+	font-size:				x-small;
 	font-style:				italic;
 }
