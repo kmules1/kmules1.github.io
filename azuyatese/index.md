@@ -12,16 +12,19 @@ title: Äzüyätese
 ## Introduction
 
 {% include figure.html url="/assets/img/flag.svg" description="Flag of the Azuyat State" %}
-Chancery Speech is the standard language variety used by the governing authority in Äzüyät, an island country that dominates the Bend of the Archipelago. This country had long been divided into a complex network of chiefdoms, which allowed for the development of a diverse family of dialects.
+Chancery is the standard language variety used by the governing authority in Äzüyät, an island country that dominates the Bend of the Archipelago. This country had long been divided into a complex network of chiefdoms, which allowed for the development of a diverse family of dialects.
 
 Äzüyätese dialects have been grouped into four zones:
 - Central
 	- Central North
 	- Central West
+		- Chancery
 	- Central East
+		- Trade
 - Southern
 	- Near Southern
 	- Far Southern
+	- Early Trade†
 
 Upon the establishment of a unified government, a standardized variety was developed from within the Central West dialect zone: Chancery. Early records that document contact between Azuyat and Uuiihinellun (*The Land of Great Princes*) are in a now extinct Southern variety, which has contributed significant vocabulary to the inter-regional Trade speech. This Trade Speech is otherwise categorized as a Central East dialect.
 
