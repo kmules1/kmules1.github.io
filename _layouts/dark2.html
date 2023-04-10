@@ -10,16 +10,19 @@
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jura&family=Roboto&display=swap">
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+		<script src="/assets/js/toc.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$('#toc').toc();
+			});
+		</script>
 	</head>
 	<body>
 		<header>
 			{% include navigation.html %}
 			<h1>{{page.title}}</h1>
 			<p class="tagline">{{page.subtitle}}</p>
-			<div id="inline_toc" markdown="1">
-				* TOC
-				{:toc}
-			</div>
+			<div id="toc"></div>
 		</header>
 		<main>
 			{{ content }}
