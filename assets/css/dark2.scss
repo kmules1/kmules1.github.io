@@ -1,20 +1,44 @@
 ---
 ---
 
-$bgcol:						#17182B;
-$col:						#DCEDFF;
-$highlight:					#E30022;
-
-$elem_dt:					$bgcol;
-$elem_dd:					#FFF600;
-
-$link:						$col;
-$link_current:				#A3E0B8;
-$link_active:				#F4D35E;
-$link_text:					$bgcol;
+$background:			#fff;
+$text:				#3b3b3c;
+$accent:			#e7e6d6;
+$highlighta:			#ff5f41;
+$highlightb:			#486b6c;
 
 @import "normalize";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,900;1,900&family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+	font-size:		2vw;
+	line-height:		1.5;
+}
+
+html {
+	background-color:	$background;
+	color:			$text;
+	font-family:		"Noto Sans";
+}
 
 body {
-  max-width: 80ch;
+	max-width:		80ch;
+	margin-inline:		auto;
+}
+
+h1, h2 {
+	font-family:		"Montserrat";
+	color:			$highlighta;
+}
+
+a {
+	color:			$highlighta;
+	text-decoration-color:	$hightlightb;
+	text-underline-offset:	1px;
+	transition:		all 0.25s;
+}
+a:hover {
+	color:			$highlightb;
+	text-decoration-color:	$highlighta;
+	text-underline-offset:	2px;
 }
