@@ -15,13 +15,13 @@ $highlightb:			#486b6c;
 	line-height:		1.5;
 }
 
-html {
+body {
 	background-color:	$background;
 	color:			$text;
 	font-family:		"Noto Sans";
 }
 
-body {
+body > * {
 	max-width:		80ch;
 	margin-inline:		auto;
 }
