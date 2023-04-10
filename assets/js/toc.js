@@ -7,7 +7,7 @@
       minimumHeaders: 3,
       headers: 'h1, h2, h3, h4, h5, h6',
       listType: 'ul', // values: [ol|ul]
-      showEffect: 'show', // values: [show|slideDown|fadeIn|none]
+      showEffect: 'none', // values: [show|slideDown|fadeIn|none]
       showSpeed: '0', // set to 0 to deactivate effect
       classes: { list: '',
                  item: '',
