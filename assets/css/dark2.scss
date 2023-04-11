@@ -10,42 +10,88 @@ $highlightb:			#486b6c;
 @import "normalize";
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Oswald:wght@600&display=swap');
 
+/*
+ *	GLOBAL
+ */
+
 :root {
-	font-size:		calc(1vw + 1vh + .5vmin);
-	line-height:		1.5;
+	font-size:				calc(1vw + 1vh + .5vmin);
+	line-height:			1.5;
 }
 
 body {
-	background-color:	$background;
-	color:			$text;
-	font-family:		"Noto Sans";
+	background-color:		$background;
+	color:					$text;
+	font-family:			"Noto Sans";
 }
 
 body > * {
-	max-width:		60ch;
-	margin-inline:		auto;
+	max-width:				60ch;
+	margin-inline:			auto;
 }
 
 h1, h2, h3, h4 {
-	font-family:		"Oswald";
-	line-height:		1.3;
+	font-family:			"Oswald";
+	line-height:			1.3;
 }
 
 h1,h2 {
-	color:			$highlighta;
+	color:					$highlighta;
 }
 h3, h4 {
-	color:			$highlightb;
+	color:					$highlightb;
 }
 
 a {
-	color:			$highlighta;
+	color:					$highlighta;
 	text-decoration-color:	$highlightb;
 	text-underline-offset:	1px;
-	transition:		all 0.25s;
+	transition:				all 0.25s;
 }
 a:hover {
-	color:			$highlightb;
+	color:					$highlightb;
 	text-decoration-color:	$highlighta;
 	text-underline-offset:	2px;
+}
+
+/*
+ *	HEADER
+ */
+
+p.tagline {
+	font-size:				1.25rem;
+}
+
+header nav {
+	font-weight:			bold;
+	text-transform:			uppercase;
+	margin:					1rem auto;
+}
+
+header nav ul {
+	display:				flex;
+	flex-direction:			row;
+	justify-content:		center;
+	margin:					0;
+	padding:				0;
+	list-style-type:		none;
+}
+
+header nav a {
+	display:				flex;
+	flex-direction:			row;
+	justify-content:		space-between;
+	width:					5rem;
+	border-radius:			1rem;
+	padding:				0.5rem;
+	text-decoration:		none;
+}
+
+header nav a:link, header nav a:visited {
+	color:					$text;
+	background-color:		$highlighta;
+}
+header nav a:hover {
+	color:					$highlighta;
+	background-color:		$text;
 }
