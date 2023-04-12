@@ -15,7 +15,7 @@ aside p {
 
 aside div.doodle {
 	background-color:	black;
-	font-size:			16px;
+	font-size:			.7em;
 	width:				4em;
 	aspect-ratio:		1 / 1;
 	border-radius:		1em;
@@ -172,7 +172,7 @@ aside div.doodle {
 	left:				0.25em;
 	top:				0;
 }
-#infobox-ecumene .moon:after {
+#infobox-ecumene .moon:before {
 	content:			'';
 	position:			absolute;
 	width:				.8em;
@@ -182,6 +182,17 @@ aside div.doodle {
 	left:				.5em;
 	top:				.6em;
 	box-shadow:			-1em -0.6em #5B4C30;
+}
+#infobox-ecumene .moon:after {
+    content: "";
+    position: absolute;
+    background-color: #ffca;
+    width: 0.5em;
+    height: 0.125em;
+    border-radius: 1em;
+    left: 0.25em;
+    top: 0.4em;
+    box-shadow: -0.2em -0.4em #ffca, 0.4em 0.25em #ffca, -0.35em 0.15em #ffca, 0.4em -0.2em #ffca, 0.1em 0.425em #ffca;
 }
 
 #infobox-maranthisa .surface {
