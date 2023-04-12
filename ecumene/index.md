@@ -13,7 +13,7 @@ subtitle: A worldbuilding exercise intended to serve as a low-fantasy TTRPG sett
 	.tree aside {
 		width: 20em;
 		display: grid;
-		grid-template-columns: auto 3rem;
+		grid-template-columns: 1fr auto;
 		position: absolute;
 		display: none;
 		background-color: white;
