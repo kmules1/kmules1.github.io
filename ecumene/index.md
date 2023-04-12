@@ -6,17 +6,139 @@ subtitle: A worldbuilding exercise intended to serve as a low-fantasy TTRPG sett
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed arcu non odio euismod lacinia at quis. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus a. Quam viverra orci sagittis eu volutpat odio. Ipsum dolor sit amet consectetur adipiscing elit duis tristique. Dui ut ornare lectus sit amet est. Amet mattis vulputate enim nulla aliquet. Nibh mauris cursus mattis molestie a iaculis. Neque aliquam vestibulum morbi blandit cursus. Ullamcorper eget nulla facilisi etiam dignissim diam. Fames ac turpis egestas integer eget aliquet nibh. Tincidunt lobortis feugiat vivamus at augue eget arcu dictum varius. Eleifend donec pretium vulputate sapien nec. Sit amet nulla facilisi morbi tempus iaculis urna. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. Ut sem nulla pharetra diam sit amet nisl suscipit adipiscing.
+Inspired by [Dungeon23](https://seanmccoy.substack.com/p/dungeon23) and its spinoffs (e.g. [Hex23](https://www.youtube.com/watch?v=eDZcY_PYvrk), [World23](https://www.reddit.com/r/worldbuilding/comments/zx7jtp/world23_a_daily_worldbuilding_challenge_for_2023/), etc), the Ecumene is my attempt at creating a campaign setting that may be used in the future in a TTRPG. It isn't intended to comport to any particular regular development schedule, but rather to explore the different fields of worldbuilding in a freeform manner, developing from first principles and developing depth in each field over time.
 
-Turpis tincidunt id aliquet risus feugiat in ante. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Amet nisl purus in mollis nunc sed id semper. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. Aliquet eget sit amet tellus cras. Nisl condimentum id venenatis a condimentum vitae sapien. A lacus vestibulum sed arcu non odio euismod lacinia. Vitae tortor condimentum lacinia quis vel eros. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Nunc id cursus metus aliquam. Massa sapien faucibus et molestie ac feugiat. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. At volutpat diam ut venenatis tellus in. Vulputate eu scelerisque felis imperdiet proin fermentum. Fusce ut placerat orci nulla pellentesque. Et netus et malesuada fames ac turpis egestas maecenas. Gravida neque convallis a cras semper auctor neque. Nisi porta lorem mollis aliquam ut porttitor leo. Leo vel orci porta non pulvinar neque laoreet suspendisse.
+Key concepts behind designing The Ecumene:
+- doppelganger worlds with divergent fates
+- duality of light and dark (and interrogating the assumption that it maps to good and evil)
+- low fantasy, with casting ability confined to certain ancestries and heritages
+- relics of advanced technology from an ancient non-human civilization
 
 ## Cosmology
 
 ### Ador & Ayn: Twin Suns
 
-### Ecumene & Maranthisa
+The Ecumene is located within a binary star system, in which both stars have their own inhabited planets. The Ecumene is the sole inhabited world orbiting Ador (though its twin had once been inhabitable)
 
-## Geography
+<ul class="tree">
+	<li><a style="font-weight:bold">Ador-Ayn System</a>
+		<ul>
+			<li>
+				<a>Ador</a>
+				<aside><h3>Ador</h3><p>G9V Yellow-Orange Main Sequence Dwarf Star</p></aside>
+				<ul>
+					<li>
+						<a>Iubar</a>
+						<aside>
+							<h3>Iubar</h3>
+							<p>Terrestrial, Uninhabitable (0.29M🜨)</p>
+							<p>Pearlescent Clouds over dark-grey basalt surface</p>
+						</aside>
+					</li>
+					<li>
+						<a>The Ecumene</a>
+						<aside>
+							<h3>The Ecumene</h3>
+							<p>Terrestrial, Habitable (0.472M🜨)</p>
+							<p>Wispy White Clouds over Water Surface with Brown-to-Green Land</p>
+						</aside>
+						<span>&</span>
+						<a>Maranthisa</a>
+						<aside>
+							<h3>Maranthisa</h3>
+							<p>Terrestrial, No Longer Habitable (0.099M🜨)</p>
+							<p>Khaki-Grey Land with Brown Seas pocked with white-rayed craters</p>
+						</aside>
+						<ul>
+							<li>
+								<a>Elder Sister</a>
+								<aside>
+									<h3>Elder Sister</h3>
+									<p>Spheroidal Planetoid</p>
+									<p>Beige</p>
+								</aside>
+							</li>
+							<li>
+								<a>Middle Sister</a>
+								<aside>
+									<h3>Middle Sister</h3>
+									<p>Semi-Spheroidal Planetoid</p>
+									<p>Ash Grey</p>
+								</aside>
+							</li>
+							<li>
+								<a>Younger Sister</a>
+								<aside>
+									<h3>Younger Sister</h3>
+									<p>Irregularly-Spheroidal Planetoid</p>
+									<p>Copper Grey</p>
+								</aside>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a>Mellete</a>
+						<aside>
+							<h3>Mellete</h3>
+							<p>Terrestrial, Uninhabitable (0.2M🜨)</p>
+							<p>Minimal atmosphere over an old Light-Grey Silicate Surface</p>
+						</aside>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a>Ayn</a>
+				<aside>
+					<h3>Ayn</h3>
+					<p>M0V Orange-Red Main Sequence Dwarf Star</p>
+				</aside>
+				<ul>
+					<li>
+						<a>Ninurta</a>
+						<aside>
+							<h3>Ninurta</h3>
+							<p>Terrestrial, Marginally Habitable, Tide-Locked to Ayn (1.2M🜨)</p>
+							<p>Eyeball World: Sand (Day), Seas & Lush Land (Twilight), Ice (Night)</p>
+						</aside>
+					</li>
+					<li>
+						<a>Marduk</a>
+						<aside>
+							<h3>Marduk</h3>
+							<p>Gas Giant (~15M🜨)</p>
+							<p>Banded Blue and White (Class II: Water Clouds)</p>
+						</aside>
+						<ul>
+							<li>
+								<a>Nabu</a>
+								<aside>
+									<h3>Nabu</h3>
+									<p>Terrestrial, Habitable Moon, Tide-Locked to Marduk (0.6M🜨)</p>
+									<p>High volcanism, thick atmosphere keeps it warm</p>
+								</aside>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a>Asteroid Belt</a>
+					</li>
+					<li>
+						<a>Nergal</a>
+						<aside>
+							<h3>Nergal</h3>
+							<p>Gas Dwarf (4-5M🜨)</p>
+							<p>Banded Yellows (Class I: Ammonia Clouds)</p>
+						</aside>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+
+### Ecumene & Maranthisa: Twin Worlds
+
+## Geography of the Ecumene
 
 Lacus luctus accumsan tortor posuere ac ut consequat semper. Auctor neque vitae tempus quam pellentesque nec nam aliquam sem. Erat nam at lectus urna duis convallis. Faucibus nisl tincidunt eget nullam non nisi. Est pellentesque elit ullamcorper dignissim cras. Duis ultricies lacus sed turpis tincidunt id aliquet. Congue nisi vitae suscipit tellus mauris a diam maecenas. Quis lectus nulla at volutpat diam ut venenatis tellus. Luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Aliquet bibendum enim facilisis gravida neque convallis a. In tellus integer feugiat scelerisque. Posuere morbi leo urna molestie at elementum eu facilisis. Turpis egestas pretium aenean pharetra. Cursus in hac habitasse platea. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Lorem sed risus ultricies tristique nulla. Eget gravida cum sociis natoque penatibus et magnis. Aenean pharetra magna ac placerat vestibulum lectus mauris ultrices eros. In mollis nunc sed id semper risus.
 
