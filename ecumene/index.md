@@ -181,11 +181,21 @@ The Ecumene is located within a binary star system, in which both stars have the
 	</li>
 </ul>
 
+Ador and Ayn have an orbital period of 96.26 Ecumene years and a moderately eccentric orbit. During close approaches, the planets of each star undergo a period of warming, distorting prevailing weather patterns.
+
 ### Ecumene & Maranthisa: Twin Worlds
+
+The Ecumene and the Maranthisa form a double planet system (the Maranthisa is 2/3 the radius and 2/5 the mass of the Ecumene), with three moons orbiting their barycenter. The Ecumene and the Maranthisa are mutually tidally locked, resulting in an unusually long rotational period of 65.784 hours. The Ecumene is currently habitable; the Maranthisa used to be habitable, but a cataclysm rendered it uninhabitable over four thousand three hundred years ago.
+
+Due to being mutually tidally locked, each world has a "light side" and a "dark side", that is, a side which faces the other world and a side which faces away. Because of their relative size and relatively high albedo, night on the light side is more akin a perpetual twilight. The two worlds are close enough that large geographic features are visible with the naked eye.
+
+### The Three Sisters
+
+The Three Sisters are the moons of Ecumene-Maranthisa. The three are locked in orbital resonance with one another and with Ecumene-Maranthisa.
 
 ## Geography of the Ecumene
 
-Lacus luctus accumsan tortor posuere ac ut consequat semper. Auctor neque vitae tempus quam pellentesque nec nam aliquam sem. Erat nam at lectus urna duis convallis. Faucibus nisl tincidunt eget nullam non nisi. Est pellentesque elit ullamcorper dignissim cras. Duis ultricies lacus sed turpis tincidunt id aliquet. Congue nisi vitae suscipit tellus mauris a diam maecenas. Quis lectus nulla at volutpat diam ut venenatis tellus. Luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Aliquet bibendum enim facilisis gravida neque convallis a. In tellus integer feugiat scelerisque. Posuere morbi leo urna molestie at elementum eu facilisis. Turpis egestas pretium aenean pharetra. Cursus in hac habitasse platea. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Lorem sed risus ultricies tristique nulla. Eget gravida cum sociis natoque penatibus et magnis. Aenean pharetra magna ac placerat vestibulum lectus mauris ultrices eros. In mollis nunc sed id semper risus.
+The Ecumene is a wet, inhabitable world similar to Earth. To contrast with Earth, the Ecumene is smaller (0.766 Earth Radii, 0.471 Earth Masses), has more of its surface covered with water (22/25 vs 18/25), and significantly less arid and semi-arid land.
 
 ## Peoples & Politics
 
