@@ -4,6 +4,8 @@ title: The Ecumene
 subtitle: A worldbuilding exercise intended to serve as a low-fantasy TTRPG setting.
 ---
 
+<link rel="stylesheet" href="/assets/css/world-doodles.css">
+
 ## Introduction
 
 Inspired by [Dungeon23](https://seanmccoy.substack.com/p/dungeon23) and its spinoffs (e.g. [Hex23](https://www.youtube.com/watch?v=eDZcY_PYvrk), [World23](https://www.reddit.com/r/worldbuilding/comments/zx7jtp/world23_a_daily_worldbuilding_challenge_for_2023/), etc), the Ecumene is my attempt at creating a campaign setting that may be used in the future in a TTRPG. It isn't intended to comport to any particular regular development schedule, but rather to explore the different fields of worldbuilding in a freeform manner, developing from first principles and developing depth in each field over time.
@@ -25,27 +27,45 @@ The Ecumene is located within a binary star system, in which both stars have the
 		<ul>
 			<li>
 				<a>Ador</a>
-				<aside><h3>Ador</h3><p>G9V Yellow-Orange Main Sequence Dwarf Star</p></aside>
+				<aside id="infobox-ador">
+					<h3>Ador</h3>
+					<div class="doodle">
+						<div class="surface"></div>
+						<div class="companion"></div>
+					</div>
+					<p>G9V Yellow-Orange Main Sequence Dwarf Star</p>
+				</aside>
 				<ul>
 					<li>
 						<a>Iubar</a>
-						<aside>
+						<aside id="infobox-iubar">
 							<h3>Iubar</h3>
+							<div class="doodle">
+								<div class="surface"></div>
+							</div>
 							<p>Terrestrial, Uninhabitable (0.29M🜨)</p>
 							<p>Pearlescent Clouds over dark-grey basalt surface</p>
 						</aside>
 					</li>
 					<li>
 						<a>The Ecumene</a>
-						<aside>
+						<aside id="infobox-ecumene">
 							<h3>The Ecumene</h3>
+							<div class="doodle">
+								<div class="surface"></div>
+								<div class="moon"></div>
+							</div>
 							<p>Terrestrial, Habitable (0.472M🜨)</p>
 							<p>Wispy White Clouds over Water Surface with Brown-to-Green Land</p>
 						</aside>
 						<span>&</span>
 						<a>Maranthisa</a>
-						<aside>
+						<aside id="infobox-maranthisa">
 							<h3>Maranthisa</h3>
+							<div class="doodle">
+								<div class="surface"></div>
+								<div class="moon"></div>
+							</div>
 							<p>Terrestrial, No Longer Habitable (0.099M🜨)</p>
 							<p>Khaki-Grey Land with Brown Seas pocked with white-rayed craters</p>
 						</aside>
@@ -88,8 +108,12 @@ The Ecumene is located within a binary star system, in which both stars have the
 			</li>
 			<li>
 				<a>Ayn</a>
-				<aside>
+				<aside id="infobox-ayn">
 					<h3>Ayn</h3>
+					<div class="doodle">
+						<div class="surface"></div>
+						<div class="companion"></div>
+					</div>
 					<p>M0V Orange-Red Main Sequence Dwarf Star</p>
 				</aside>
 				<ul>
@@ -103,8 +127,12 @@ The Ecumene is located within a binary star system, in which both stars have the
 					</li>
 					<li>
 						<a>Marduk</a>
-						<aside>
+						<aside id="infobox-marduk">
 							<h3>Marduk</h3>
+							<div class="doodle">
+								<div class="surface"></div>
+								<div class="moon"></div>
+							</div>
 							<p>Gas Giant (~15M🜨)</p>
 							<p>Banded Blue and White (Class II: Water Clouds)</p>
 						</aside>
