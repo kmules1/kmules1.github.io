@@ -122,13 +122,13 @@ header nav a:hover {
 #toc > ul > li:before {
 	content:		counter(toc-headers, decimal-leading-zero);
 }
-#toc > ul > ul {
+#toc > ul > li > ul {
 	counter-reset:		toc-subheaders;
 }
-#toc > ul > ul > li {
+#toc > ul > li > ul > li {
 	counter-increment:	toc-subheaders;	
 }
-#toc > ul > ul > li:before {
+#toc > ul > li > ul > li:before {
 	content:		counter(toc-headers, decimal-leading-zero) "." counter(nav-subheaders, lower-alpha);
 }
 /*
