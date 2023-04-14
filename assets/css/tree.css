@@ -65,12 +65,10 @@ ul.tree>li:first-child::after {
 }
 
 .tree aside {
-	position: absolute;
 	display: none;
-	flex-direction: column;
-	justify-content: space-between;
+	position: absolute;
 	background-color: white;
-	border: 1px solid grey;
+	border: 1px solid #ccc;
 	border-radius: 0 1em;
 	padding: 1em;
 	z-index: 1;
@@ -80,5 +78,5 @@ ul.tree>li:first-child::after {
 }
 .tree a:hover+aside, .tree a:focus+aside,
 .tree aside:hover, .tree aside:focus {
-	display: flex;
+	display: grid;
 }
