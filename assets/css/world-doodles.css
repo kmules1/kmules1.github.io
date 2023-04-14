@@ -3,8 +3,9 @@ aside {
 	display: grid;
 	grid-template-columns: auto 4em;
 }
-aside h3 {
+aside h4 {
 	grid-column: 1 / 2;
+	margin: 0;
 }
 aside div.doodle {
 	grid-column: 2 / 3;
