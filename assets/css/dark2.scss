@@ -150,5 +150,5 @@ main h2 {
 }
 main h2:before {
 	display:		block;
-	content:		content: counter(headers, decimal-leading-zero);
+	content:		counter(headers, decimal-leading-zero);
 }
