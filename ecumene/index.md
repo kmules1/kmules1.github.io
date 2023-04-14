@@ -28,7 +28,7 @@ The Ecumene is located within a binary star system, in which both stars have the
 			<li>
 				<a>Ador</a>
 				<aside id="infobox-ador">
-					<h3>Ador</h3>
+					<h4>Ador</h4>
 					<div class="doodle">
 						<div class="surface"></div>
 						<div class="companion"></div>
@@ -39,7 +39,7 @@ The Ecumene is located within a binary star system, in which both stars have the
 					<li>
 						<a>Iubar</a>
 						<aside id="infobox-iubar">
-							<h3>Iubar</h3>
+							<h4>Iubar</h4>
 							<div class="doodle">
 								<div class="surface"></div>
 							</div>
@@ -50,7 +50,7 @@ The Ecumene is located within a binary star system, in which both stars have the
 					<li>
 						<a>The Ecumene</a>
 						<aside id="infobox-ecumene">
-							<h3>The Ecumene</h3>
+							<h4>The Ecumene</h4>
 							<div class="doodle">
 								<div class="surface"></div>
 								<div class="moon"></div>
@@ -61,7 +61,7 @@ The Ecumene is located within a binary star system, in which both stars have the
 						<span>&</span>
 						<a>Maranthisa</a>
 						<aside id="infobox-maranthisa">
-							<h3>Maranthisa</h3>
+							<h4>Maranthisa</h4>
 							<div class="doodle">
 								<div class="surface"></div>
 								<div class="moon"></div>
@@ -73,7 +73,7 @@ The Ecumene is located within a binary star system, in which both stars have the
 							<li>
 								<a>Elder Sister</a>
 								<aside>
-									<h3>Elder Sister</h3>
+									<h4>Elder Sister</h4>
 									<p>Spheroidal Planetoid</p>
 									<p>Beige</p>
 								</aside>
@@ -81,7 +81,7 @@ The Ecumene is located within a binary star system, in which both stars have the
 							<li>
 								<a>Middle Sister</a>
 								<aside>
-									<h3>Middle Sister</h3>
+									<h4>Middle Sister</h4>
 									<p>Semi-Spheroidal Planetoid</p>
 									<p>Ash Grey</p>
 								</aside>
@@ -89,7 +89,7 @@ The Ecumene is located within a binary star system, in which both stars have the
 							<li>
 								<a>Younger Sister</a>
 								<aside>
-									<h3>Younger Sister</h3>
+									<h4>Younger Sister</h4>
 									<p>Irregularly-Spheroidal Planetoid</p>
 									<p>Copper Grey</p>
 								</aside>
@@ -99,7 +99,7 @@ The Ecumene is located within a binary star system, in which both stars have the
 					<li>
 						<a>Mellete</a>
 						<aside>
-							<h3>Mellete</h3>
+							<h4>Mellete</h4>
 							<p>Terrestrial, Uninhabitable (0.2M🜨)</p>
 							<p>Minimal atmosphere over an old Light-Grey Silicate Surface</p>
 						</aside>
@@ -109,7 +109,7 @@ The Ecumene is located within a binary star system, in which both stars have the
 			<li>
 				<a>Ayn</a>
 				<aside id="infobox-ayn">
-					<h3>Ayn</h3>
+					<h4>Ayn</h4>
 					<div class="doodle">
 						<div class="surface"></div>
 						<div class="companion"></div>
@@ -120,7 +120,7 @@ The Ecumene is located within a binary star system, in which both stars have the
 					<li>
 						<a>Ninurta</a>
 						<aside>
-							<h3>Ninurta</h3>
+							<h4>Ninurta</h4>
 							<p>Terrestrial, Marginally Habitable, Tide-Locked to Ayn (1.2M🜨)</p>
 							<p>Eyeball World: Sand (Day), Seas & Lush Land (Twilight), Ice (Night)</p>
 						</aside>
@@ -128,7 +128,7 @@ The Ecumene is located within a binary star system, in which both stars have the
 					<li>
 						<a>Marduk</a>
 						<aside id="infobox-marduk">
-							<h3>Marduk</h3>
+							<h4>Marduk</h4>
 							<div class="doodle">
 								<div class="surface"></div>
 								<div class="moon"></div>
@@ -140,7 +140,7 @@ The Ecumene is located within a binary star system, in which both stars have the
 							<li>
 								<a>Nabu</a>
 								<aside>
-									<h3>Nabu</h3>
+									<h4>Nabu</h4>
 									<p>Terrestrial, Habitable Moon, Tide-Locked to Marduk (0.6M🜨)</p>
 									<p>High volcanism, thick atmosphere keeps it warm</p>
 								</aside>
@@ -153,7 +153,7 @@ The Ecumene is located within a binary star system, in which both stars have the
 					<li>
 						<a>Nergal</a>
 						<aside>
-							<h3>Nergal</h3>
+							<h4>Nergal</h4>
 							<p>Gas Dwarf (4-5M🜨)</p>
 							<p>Banded Yellows (Class I: Ammonia Clouds)</p>
 						</aside>
