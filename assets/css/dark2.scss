@@ -98,3 +98,21 @@ header nav a:hover {
 	color:						$highlighta;
 	background-color:			$text;
 }
+
+/*
+ *	MAIN BODY
+ */
+
+main {
+	counter-reset: 		headers;
+}
+main h2 {
+	display:		grid;
+	grid-column-gap:	2ch;
+	grid-template-columns:	auto 1fr;
+	counter-increment:	headers;
+}
+main h2:before {
+	display:		block;
+	content:		"0" counter(headers);
+}
