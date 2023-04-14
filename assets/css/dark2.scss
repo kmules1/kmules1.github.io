@@ -99,6 +99,38 @@ header nav a:hover {
 	background-color:			$text;
 }
 
+#toc {
+	margin-inline-start:	2em;
+}
+#toc ul {
+	padding-left:		unset;
+}
+#toc ul li {
+	display:		grid;
+	grid-column-gap:	2ch;
+	grid-template-columns:	auto 1fr;
+}
+#toc ul li:before {
+	display:		block;
+}
+#toc > ul {
+	counter-reset:		toc-headers;
+}
+#toc > ul > li {
+	counter-increment:	toc-headers;	
+}
+#toc > ul > li:before {
+	content:		counter(toc-headers, decimal-leading-zero);
+}
+#toc > ul > ul {
+	counter-reset:		toc-subheaders;
+}
+#toc > ul > ul > li {
+	counter-increment:	toc-subheaders;	
+}
+#toc > ul > ul > li:before {
+	content:		counter(toc-headers, decimal-leading-zero) "." counter(nav-subheaders, lower-alpha);
+}
 /*
  *	MAIN BODY
  */
@@ -114,5 +146,5 @@ main h2 {
 }
 main h2:before {
 	display:		block;
-	content:		"0" counter(headers);
+	content:		content: counter(headers, decimal-leading-zero);
 }
