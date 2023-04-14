@@ -5,23 +5,6 @@ subtitle: A worldbuilding exercise intended to serve as a low-fantasy TTRPG sett
 ---
 
 <link rel="stylesheet" href="/assets/css/world-doodles.css">
-<style>
-	.tree a:hover+aside, .tree aside:hover,
-	.tree a:focus+aside, .tree asside:focus {
-		display: grid;
-	}
-	.tree aside {
-		width: 20em;
-		display: grid;
-		grid-template-columns: 1fr auto;
-		position: absolute;
-		display: none;
-		background-color: white;
-		border: 2px solid grey;
-		padding: 1rem;
-		border-radius: 0 2rem;
-	}
-</style>
 
 ## Introduction
 
