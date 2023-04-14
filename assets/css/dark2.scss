@@ -130,7 +130,7 @@ header nav a:hover {
 	counter-increment:	toc-subheaders;	
 }
 #toc > ul > li > ul > li:before {
-	content:		counter(toc-headers, decimal-leading-zero) "." counter(nav-subheaders, lower-alpha);
+	content:		counter(toc-headers, decimal-leading-zero) "." counter(toc-subheaders, lower-alpha);
 }
 /*
  *	MAIN BODY
