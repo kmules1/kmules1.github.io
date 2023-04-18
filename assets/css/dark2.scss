@@ -15,7 +15,7 @@ $highlightb:					#486b6c;
  */
 
 :root {
-	font-size:					calc(1vw + 1vh + .5vmin);
+	font-size:					calc(1vw + 1vh);
 	line-height:				1.5;
 }
 
@@ -84,8 +84,8 @@ header nav a {
 	display:					flex;
 	flex-direction:				row;
 	justify-content:			space-between;
-	width:						5rem;
-	border-radius:				1rem;
+	width:						6rem;
+	border-radius:				2rem;
 	padding:					0.5rem;
 	text-decoration:			none;
 }
