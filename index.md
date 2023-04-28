@@ -3,44 +3,36 @@ layout: dark
 title: Home
 ---
 
-<h1>
+<h1 class="name-rotate">
 <div style="">Cadmium</div>
-<div style="display:none">Cadmiu</div>
-<div style="display:none">Kadmiyu</div>
-<div style="display:none">كادميوم</div>
-<div style="display:none">Кадми</div>
-<div style="display:none">Cadmiwm</div>
-<div style="display:none">Кадмий</div>
-<div style="display:none">कैडमियम</div>
-<div style="display:none">ကတ်မီယမ်</div>
-<div style="display:none">کادمیم</div>
-<div style="display:none">Kaadmium</div>
-<div style="display:none">Cadmio</div>
-<div style="display:none">કેડમિયમ</div>
-<div style="display:none">കാഡ്മിയം</div>
-<div style="display:none">Κάδμιο</div>
-<div style="display:none">Kadmín</div>
-<div style="display:none">Kadm</div>
-<div style="display:none">კადმიუმი</div>
-<div style="display:none">Kadmij</div>
-<div style="display:none">Kadmijs</div>
-<div style="display:none">Cađimi</div>
-<div style="display:none">鎘</div>
-<div style="display:none">Caidmiam</div>
-<div style="display:none">Kadmiumi</div>
-<div style="display:none">カドミウム</div>
-<div style="display:none">ཁེ་ཌི་ནིམ།</div>
-<div style="display:none">Kadmij</div>
-<div style="display:none">קדמיום</div>
-<div style="display:none">Kadmium</div>
-<div style="display:none">Կադմիում</div>
-<div style="display:none">Кадмій</div>
-<div style="display:none">காட்மியம்</div>
-<div style="display:none">Kadmii</div>
-<div style="display:none">Kadmis</div>
-<div style="display:none">카드뮴</div>
+<div style="display:none" name="qu">Kadmiyu</div>
+<div style="display:none" name="ar">كَادْمِيُوم</div>
+<div style="display:none" name="cy">Cadmiwm</div>
+<div style="display:none" name="ru">Кадмий</div>
+<div style="display:none" name="sa">कैडमियम</div>
+<div style="display:none" name="my">ကတ်မီယမ်</div>
+<div style="display:none" name="et">Kaadmium</div>
+<div style="display:none" name="es">Cadmio</div>
+<div style="display:none" name="gu">કેડમિયમ</div>
+<div style="display:none" name="ml">കാഡ്മിയം</div>
+<div style="display:none" name="el">Κάδμιο</div>
+<div style="display:none" name="is">Kadmín</div>
+<div style="display:none" name="pl">Kadm</div>
+<div style="display:none" name="ka">კადმიუმი</div>
+<div style="display:none" name="lt">Kadmis</div>
+<div style="display:none" name="vi">Cađimi</div>
+<div style="display:none" name="zh">鎘</div>
+<div style="display:none" name="ga">Caidmiam</div>
+<div style="display:none" name="sq">Kadmiumi</div>
+<div style="display:none" name="ja">カドミウム</div>
+<div style="display:none" name="bo">ཁེ་ཌི་ནིམ།</div>
+<div style="display:none" name="he">קדמיום</div>
+<div style="display:none" name="de">Kadmium</div>
+<div style="display:none" name="hy">Կադմիում</div>
+<div style="display:none" name="ta">காட்மியம்</div>
+<div style="display:none" name="ko">카드뮴</div>
+<div style="display:none" name="uk">Кадмій</div>
 </h1>
-{: .name-rotate} 
 
 {: .hide} Symbol
 : {: .symbol} Cd
@@ -71,7 +63,7 @@ Dieses Element ist ein silbriges Metall mit einer Dichte von 8,65 g/cm<sup>3</su
 
 Chemisch gleicht es dem Zink. Im Sauerstoff bildet es eine Verdunklung der Oberfläche. Im Kohlenstoffdioxid bildet es einen grauweißen Überzug. Es ist äußerst toxisch.
 
-Acht Isotopen kommen in der Natur vor. Drei Isotopen sind stabil, <sup class="at-weight">110</sup>Cd, <sup class="at-weight">111</sup>Cd, und <sup class="at-weight">112</sup>Cd. Zwei sind radioaktiv, <sup class="at-weight">113</sup>Cd und <sup class="at-weight">116</sup>Cd. Drei können radioaktiv sein, <sup class="at-weight">106</sup>Cd, <sup class="at-weight">108</sup>Cd, und <sup class="at-weight">114</sup>Cd, aber die Halbwertszeiten wurden nicht bestimmt. Es sind acht Kernisomere bekannt; das stabilste ist <sup class="at-weight">113m</sup>Cd mit einer Halbwertszeit von 14,1 [Jahren](404.html).
+Acht Isotopen kommen in der Natur vor. Drei Isotopen sind stabil, <sup class="at-weight">110</sup>Cd, <sup class="at-weight">111</sup>Cd, und <sup class="at-weight">112</sup>Cd. Zwei sind radioaktiv, <sup class="at-weight">113</sup>Cd und <sup class="at-weight">116</sup>Cd. Drei können radioaktiv sein, <sup class="at-weight">106</sup>Cd, <sup class="at-weight">108</sup>Cd, und <sup class="at-weight">114</sup>Cd, aber die Halbwertszeiten wurden nicht bestimmt. Es sind acht Kernisomere bekannt; das stabilste ist <sup class="at-weight">113m</sup>Cd mit einer Halbwertszeit von 14,1 Jahren.
 
 <script>
 	(function($) {
