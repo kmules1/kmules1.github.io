@@ -5,13 +5,14 @@
 }
 
 ::root {
-	font-size:				calc(1vw + 1vh);
+	
 }
 
 html {
 	background-color:		$bgcol;
 	color:					$col;
 	font-family:			'Roboto', sans-serif;
+	font-size:				calc(1vw + 1vh);
 }
 
 body {
@@ -127,11 +128,11 @@ dl.card:hover {
 
 dl.elem {
 	float:					left;
-	margin:					0 2rem 2rem -2rem;
-	padding:				.5rem;
-	width:					10rem;
-	font-size:				.75rem;
-	background-color:		$elem_dt;
+	margin:					0 2em 2em 0;
+	padding:				.5em;
+	width:					22ch;
+	font-size:				.75em;
+	background-color:		$elem_dl;
 }
 dl.elem:hover {
 	transform:				scale(1.05);
@@ -145,7 +146,7 @@ dl.elem dd {
 	text-align:				right;
 }
 dl.elem dd.symbol {
-	font-size:				rem;
+	font-size:				7em;
 }
 dl.elem span {
 	white-space:			nowrap;
