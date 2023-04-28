@@ -1,16 +1,19 @@
 ---
 ---
 
-$bgcol:						#17182B;
-$col:						#DCEDFF;
-$highlight:					#E30022;
+$bgcol:						#000;
+$col:						#fff;
+$highlight:					#c00;
+
+$detail1:					#036;
+$detail2:					#069;
 
 $elem_dt:					$bgcol;
-$elem_dd:					#FFF600;
+$elem_dl:					#099;
 
 $link:						$col;
-$link_current:				#A3E0B8;
-$link_active:				#F4D35E;
+$link_current:				#cdb;
+$link_active:				#0c9;
 $link_text:					$bgcol;
 
 @import "normalize";
