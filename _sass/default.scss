@@ -4,6 +4,10 @@
 	box-sizing:				border-box;
 }
 
+::root {
+	font-size:				calc(1vw + 1vh);
+}
+
 html {
 	background-color:		$bgcol;
 	color:					$col;
@@ -19,7 +23,6 @@ body {
 h1,h2,h3,h4,h5,h6 {
 	font-family:			'Jura', sans-serif;
 	color:					$highlight;
-	margin-left:			-2rem;
 }
 
 nav {
@@ -66,10 +69,30 @@ nav a.current, nav a:active {
 
 main {
 	width:					90%;
-	max-width:				50rem;
+	max-width:				60ch;
 	margin:					0 auto;
-	padding-left:			2rem;
 	flex:					1;
+}
+
+main::before,
+main::after {
+	content:				'';
+    height:					2em;
+    background-color:		$detail1;
+    border-inline:			2em solid;
+    border-block:			0;
+    border-radius:			2em;
+    box-shadow:				inset 1em 0 $bgcol, inset -1em 0 $bgcol;
+    margin-inline:			-3em;
+    display:				block;
+    border-left-color:		$detail2;
+    border-right-color:		$detail2;
+}
+main::before {
+	margin-block-end:		2em;
+}
+main::after {
+	margin-block-start:		2em;
 }
 
 main a {
@@ -91,9 +114,9 @@ main ul {
 
 dl.card {
 	display:				inline-block;
-	padding:				1rem;
-	border-radius:			1rem;
-	border-width:			2px;
+	padding:				1em;
+	border-radius:			1em;
+	border-width:			0.25em;
 	border-style:			solid;
 	border-color:			transparent;
 	transition:				all .25s;
@@ -108,23 +131,21 @@ dl.elem {
 	padding:				.5rem;
 	width:					10rem;
 	font-size:				.75rem;
-	background-color:		$highlight;
+	background-color:		$elem_dt;
 }
 dl.elem:hover {
-	border-color:			$elem_dd;
 	transform:				scale(1.05);
 }
 dl.elem dt {
 	float:					left;
-	color:					$elem_dt;
+	color:					$bgcol;
 }
 dl.elem dd {
 	margin:					0;
 	text-align:				right;
-	color:					$elem_dd;
 }
 dl.elem dd.symbol {
-	font-size:				7rem;
+	font-size:				rem;
 }
 dl.elem span {
 	white-space:			nowrap;
