@@ -1,5 +1,5 @@
 ---
-layout: light
+layout: dark2
 title: Äzüyätese
 ---
 
