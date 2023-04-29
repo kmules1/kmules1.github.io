@@ -4,11 +4,14 @@
 	box-sizing:				border-box;
 }
 
+:root {
+	font-size:				calc(16px + 6 * ((100vw - 320px) / 680));
+}
+
 html {
 	background-color:		$bgcol;
 	color:					$col;
 	font-family:			'Roboto', sans-serif;
-	font-size:				calc(1vw + 1vh);
 }
 
 body {
@@ -66,8 +69,8 @@ nav a.current, nav a:active {
 }
 
 main {
-	width:					90%;
-	max-width:				60ch;
+	width:					60ch;
+	max-width:				calc(100% - 8em);
 	margin:					0 auto;
 }
 
@@ -90,6 +93,10 @@ main::before {
 }
 main::after {
 	margin-block-start:		2em;
+}
+
+main p {
+	overflow:				hidden;
 }
 
 main a {
