@@ -1,5 +1,5 @@
 ---
-layout: dark2
+layout: ecumene
 title: The Ecumene
 subtitle: A worldbuilding exercise intended to serve as a low-fantasy TTRPG setting.
 ---

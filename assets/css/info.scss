@@ -10,6 +10,9 @@ $detail2:					#069;
 
 $aside:						#099;
 
+$a_link:					#9cf;
+$a_active:					#39c;
+
 @import "normalize";
 
 * {
@@ -37,6 +40,22 @@ h1 {
 	font-family:			'Jura', sans-serif;
 	color:					$highlight;
 	height:					1em;
+}
+
+a:link, a:visited {
+	color:						$a_link;
+	text-decoration-color:		$a_active;
+	text-underline-offset:		.05em;
+	transition:					all 0.25s;
+}
+a:hover {
+	color:						$a_active;
+	text-decoration-color:		$a_link;
+	text-underline-offset:		.125em;
+}
+a:active {
+	color:						$color;
+	text-decoration-color:		$a_active;
 }
 
 main {
@@ -109,6 +128,10 @@ aside dd {
 sup.at-weight {
 	opacity:				0.8;
 	font-style:				italic;
+}
+
+cite {
+	float:					right;
 }
 
 @media (min-width: 30em) {
