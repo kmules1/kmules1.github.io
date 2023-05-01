@@ -180,9 +180,22 @@ The Three Sisters are the moons of Ecumene-Maranthisa. The three are locked in o
 
 The Ecumene is a wet, inhabitable world similar to Earth. To contrast with Earth, the Ecumene is smaller (0.766 Earth Radii, 0.471 Earth Masses), has more of its surface covered with water (22/25 vs 18/25), and significantly less arid and semi-arid land.
 
+Six major continents, four minor continents, and countless islands. Most of the Ecumene's dry land is located in the southern hemisphere, with the northern hemisphere dominated by a massive ocean.
+
 ## Peoples & Politics
 
-Morbi tincidunt ornare massa eget egestas. Sit amet dictum sit amet justo. Duis ut diam quam nulla porttitor. At imperdiet dui accumsan sit. Aliquet bibendum enim facilisis gravida neque. Viverra aliquet eget sit amet tellus cras adipiscing enim eu. Bibendum arcu vitae elementum curabitur. Venenatis lectus magna fringilla urna porttitor rhoncus. Vel orci porta non pulvinar. Quis vel eros donec ac odio tempor orci. Mi eget mauris pharetra et ultrices neque ornare aenean. Semper viverra nam libero justo laoreet sit amet cursus sit. Magna ac placerat vestibulum lectus mauris ultrices. Erat nam at lectus urna duis convallis convallis tellus id. Nisl vel pretium lectus quam id leo in vitae turpis. Cursus metus aliquam eleifend mi in nulla posuere. Et netus et malesuada fames. Condimentum mattis pellentesque id nibh tortor id. Sed nisi lacus sed viverra tellus in hac habitasse.
+### Thinking Kinds
+
+The Ecumene is home to several sapient species, referred to as the Thinking Kinds. By far the most populous of these is Mankind, which is indigenous to the Ecumene and has a dominant role in its histories and societies. A significantly less populous but historically critical kind is Elfkind, whose first arrival to the Ecumene marks the beginning of the most common calendar era, (a.e. *ab Egressu* "since the Landing") and who evacuated to the Ecumene following the Cataclysm of 2791 a.e., when their homeworld became uninhabitable.
+
+Other notable kinds are:
+* Halflingkind, who are an offshoot of Mankind and are known for their short stature, pinkish skin, and talent for stealth.
+* Goblinkind, who claim to be indigenous to the Ecumene and are known for their invasiveness, disgusting habits, and talent for trouble.
+* Koboldkind, who originate from Ninurta, and are known for their cautiousness, devoted, and resilient.
+
+### Major Polities
+
+One of the most important polities within human history is that of the Imperium, a state which, at its high point, dominated two continents and whose cultural influence reached five continents. In the current year of 7130 a.e., the Imperium itself is significantly smaller but continues to be a center of cultural, political, and economic influence; areas touched by its influence and/or rule over the centuries continue to be governed in a manner emulating the Imperium.
 
 ## Culture
 
