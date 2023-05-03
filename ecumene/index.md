@@ -195,7 +195,7 @@ Six major continents, four minor continents, and countless islands. Most of the 
 
 ### Thinking Kinds
 
-The Ecumene is home to several sapient species, referred to as the Thinking Kinds. By far the most populous of these is Mankind, which is indigenous to the Ecumene and has a dominant role in its histories and societies. A significantly less populous but historically critical kind is Elfkind, whose first arrival to the Ecumene marks the beginning of the most common calendar era, (a.e. *ab Egressu* "since the Landing") and who evacuated to the Ecumene following the Cataclysm of *2791*{: .ae}, when their homeworld became uninhabitable.
+The Ecumene is home to several sapient species, referred to as the Thinking Kinds. By far the most populous of these is Mankind, which is indigenous to the Ecumene and has a dominant role in its histories and societies. A significantly less populous but historically critical kind is Elfkind, whose first arrival to the Ecumene marks the beginning of the most common calendar era, (AE *ab Egressu* "since the Landing") and who evacuated to the Ecumene following the Cataclysm of *2791*{: .ae}, when their homeworld became uninhabitable.
 
 Other notable kinds are:
 * Halflingkind, who are an offshoot of Mankind and are known for their short stature, pinkish skin, and talent for stealth.
@@ -204,7 +204,9 @@ Other notable kinds are:
 
 ### Major Polities
 
-One of the most important polities within human history is that of the Imperium, a state which, at its high point, dominated two continents and whose cultural influence reached five continents. In the current year of 7130 a.e., the Imperium itself is significantly smaller but continues to be a center of cultural, political, and economic influence; areas touched by its influence and/or rule over the centuries continue to be governed in a manner emulating the Imperium.
+One of the most important polities within human history is that of the Imperium, a state which, at its high point, dominated two continents and whose cultural influence reached five continents. In the current year of *7130*{: .ae}, the Imperium itself is significantly smaller but continues to be a center of cultural, political, and economic influence; areas touched by its influence and/or rule over the centuries continue to be governed in a manner emulating the Imperium.
+
+Other major polities include the Fourteen of Greenstone, an elven confederacy with a consociational mode of government designed mostly to regulate its intense internal divisions, prevent general conflict, and maintain elven authority on the continent in the face of intrusive settlement by other thinking kinds.
 
 ## Culture
 
