@@ -7,7 +7,7 @@ subtitle: A worldbuilding exercise intended to serve as a low-fantasy TTRPG sett
 <link rel="stylesheet" href="/assets/css/world-doodles.css">
 <script>
 $(document).ready(function() {
-	$.each($('i.ae'),function(k,v) {
+	$.each($('em.ae'),function(k,v) {
 		var date = v.html();
 		v.attr('title', date + ' ab egressūs (since The Landing), ' + (7130 - date) + ' years before present');
 		v.html(date + 'ae');
