@@ -155,7 +155,7 @@ main h2:before {
 	content:				counter(headers, decimal-leading-zero);
 }
 
-ae-date {
+span.ae-date {
 	display:				inline;
 	font-variant:			small-caps;
 }
