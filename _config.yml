@@ -35,10 +35,6 @@ plugins:
   #- jekyll-google-calendar
   - jemoji
 
-kramdown:
-  input: GFM
-  hard_wrap: false
-
 gcalendar: >
   key_file: jekyll-calendar-plugin-c8d2b13a8ecd.json
   calendars:
