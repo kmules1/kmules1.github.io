@@ -141,16 +141,21 @@ main {
 	counter-reset: 		headers;
 }
 main h2 {
-	display:		grid;
-	grid-column-gap:	2ch;
+	display:				grid;
+	grid-column-gap:		2ch;
 	grid-template-columns:	auto 1fr;
-	counter-increment:	headers;
+		counter-increment:	headers;
 	padding-block-start:	2em;
-	margin-block-start:	2em;
-	margin-inline:		-2em;
-	border-block-start:	1px solid $highlighta;
+	margin-block-start:		2em;
+	margin-inline:			-2em;
+	border-block-start:		1px solid $highlighta;
 }
 main h2:before {
-	display:		block;
-	content:		counter(headers, decimal-leading-zero);
+	display:				block;
+	content:				counter(headers, decimal-leading-zero);
+}
+
+ae-date {
+	display:				inline;
+	font-variant:			small-caps;
 }
