@@ -6,11 +6,10 @@ subtitle: A worldbuilding exercise intended to serve as a low-fantasy TTRPG sett
 
 <link rel="stylesheet" href="/assets/css/world-doodles.css">
 <script>
-$(document).ready(function() {
+$(document).ready(function() { 
 	$.each($('em.ae'),function(k,v) {
 		var em = $(v);
-		var date = em.html();
-		em.attr('title', date + ' ab egressūs (since The Landing), ' + (7130 - date) + ' years before present');
+		var date = em.html();em.attr('title', 'anno ' + date + ' ab egressū / ' + (7130 - date) + ' years before present');
 		em.html(date + 'ae');
 	});
 });
