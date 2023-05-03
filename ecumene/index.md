@@ -12,7 +12,7 @@ $(document).ready(function() {
 		v.attr('title', date + ' ab egressūs (since The Landing), ' + (7130 - date) + ' years before present');
 		v.html(date + 'ae');
 	});
-}
+});
 </script>
 
 ## Introduction
