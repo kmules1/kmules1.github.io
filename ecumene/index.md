@@ -9,7 +9,7 @@ subtitle: A worldbuilding exercise intended to serve as a low-fantasy TTRPG sett
 $(document).ready(function() {
 	$.each($('em.ae'),function(k,v) {
 		var em = $(v);
-		var date = v.html();
+		var date = em.html();
 		em.attr('title', date + ' ab egressūs (since The Landing), ' + (7130 - date) + ' years before present');
 		em.html(date + 'ae');
 	});
