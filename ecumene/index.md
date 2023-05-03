@@ -186,7 +186,7 @@ Six major continents, four minor continents, and countless islands. Most of the 
 
 ### Thinking Kinds
 
-The Ecumene is home to several sapient species, referred to as the Thinking Kinds. By far the most populous of these is Mankind, which is indigenous to the Ecumene and has a dominant role in its histories and societies. A significantly less populous but historically critical kind is Elfkind, whose first arrival to the Ecumene marks the beginning of the most common calendar era, (a.e. *ab Egressu* "since the Landing") and who evacuated to the Ecumene following the Cataclysm of 2791 a.e., when their homeworld became uninhabitable.
+The Ecumene is home to several sapient species, referred to as the Thinking Kinds. By far the most populous of these is Mankind, which is indigenous to the Ecumene and has a dominant role in its histories and societies. A significantly less populous but historically critical kind is Elfkind, whose first arrival to the Ecumene marks the beginning of the most common calendar era, (a.e. *ab Egressu* "since the Landing") and who evacuated to the Ecumene following the Cataclysm of {% include ae-date.html date=2791 %}, when their homeworld became uninhabitable.
 
 Other notable kinds are:
 * Halflingkind, who are an offshoot of Mankind and are known for their short stature, pinkish skin, and talent for stealth.
