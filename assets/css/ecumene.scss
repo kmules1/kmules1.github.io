@@ -119,6 +119,7 @@ header nav a:hover {
 }
 #toc ul ul a {
 	padding-left:				2em;
+	font-style:					italic;
 }
 #toc > ul > li {
 	counter-increment:			toc-headers;	
@@ -128,7 +129,6 @@ header nav a:hover {
 }
 #toc > ul > li > ul {
 	counter-reset:				toc-subheaders;
-	font-size:					0.8rem;
 }
 #toc > ul > li > ul > li {
 	counter-increment:			toc-subheaders;	
