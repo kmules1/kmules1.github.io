@@ -40,11 +40,6 @@
       return;
     }
     
-    //adding a link to top in each targetted header
-    headers.each(function() {
-        $(this).append('<a href="#" class="to-top">top</a>');
-    });
-    
     if (0 === settings.showSpeed) {
       settings.showEffect = 'none';
     }
@@ -100,5 +95,10 @@
     }
 
     render[settings.showEffect]();
+    
+    //adding a link to top in each targetted header
+    headers.each(function() {
+        $(this).append('<a href="#" class="to-top">top</a>');
+    });
   };
 })(jQuery);
