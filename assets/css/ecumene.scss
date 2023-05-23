@@ -147,7 +147,7 @@ main {
 main h2 {
 	display:					grid;
 	grid-column-gap:			2ch;
-	grid-template-columns:		auto 1fr;
+	grid-template-columns:		auto 1fr auto;
 		counter-increment:		headers;
 	padding-block-start:		2em;
 	margin-block-start:			2em;
@@ -157,6 +157,11 @@ main h2 {
 main h2:before {
 	display:					block;
 	content:					counter(headers, decimal-leading-zero);
+}
+
+main h3 {
+	display:					grid;
+	grid-template-columns:		1fr auto;
 }
 
 em.ae {
