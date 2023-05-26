@@ -27,10 +27,6 @@ Key concepts behind designing The Ecumene:
 
 ## Cosmology
 
-### Ador & Ayn: Twin Suns
-
-The Ecumene is located within a binary star system, in which both stars have their own inhabited planets. The Ecumene is the sole inhabited world orbiting Ador (though its twin had once been inhabitable)
-
 <ul class="tree">
 	<li><a style="font-weight:bold">Ador-Ayn System</a>
 		<ul>
@@ -106,9 +102,9 @@ The Ecumene is located within a binary star system, in which both stars have the
 						</ul>
 					</li>
 					<li>
-						<a>Mellete</a>
+						<a>Acusa</a>
 						<aside>
-							<h4>Mellete</h4>
+							<h4>Acusa</h4>
 							<p>Terrestrial, Uninhabitable (0.2M🜨)</p>
 							<p>Minimal atmosphere over an old Light-Grey Silicate Surface</p>
 						</aside>
@@ -173,21 +169,56 @@ The Ecumene is located within a binary star system, in which both stars have the
 	</li>
 </ul>
 
-Ador and Ayn have an orbital period of 96.26 Ecumene years and a moderately eccentric orbit. During close approaches, the planets of each star undergo a period of warming, distorting prevailing weather patterns.
+### Ador & Ayn: Twin Suns
 
-### Ecumene & Maranthisa: Twin Worlds
+The Ecumene is located within a binary star system. Each star has its own planetary system. Due to eccentricity, stable orbits are limited to within each star's frost line. Well beyond the two stars is an immense cloud of asteroids and cometary material. Gravitational perburbations from the two stars' eccentricity redirect comets into the inner system.
 
-The Ecumene and the Maranthisa form a double planet system (the Maranthisa is 2/3 the radius and 2/5 the mass of the Ecumene), with three moons orbiting their barycenter. The Ecumene and the Maranthisa are mutually tidally locked, resulting in an unusually long rotational period of 65.784 hours. The Ecumene is currently habitable; the Maranthisa used to be habitable, but a cataclysm rendered it uninhabitable over four thousand three hundred years ago.
+Ador and Ayn have an orbital period of 96.26 Ecumene years and an orbital eccentricity of 0.52. From the perspective of the Ecumene, Ayn is an especially bright wandering star, which grows as the stars approach periastron to become a faint junior sun that contributes as much light as a decent indoor lamp. During periastron, prevailing weather patterns become distorted due to the additional solar radiation received.
 
-Due to being mutually tidally locked, each world has a "light side" and a "dark side", that is, a side which faces the other world and a side which faces away. Because of their relative size and relatively high albedo, night on the light side is more akin a perpetual twilight. The two worlds are close enough that large geographic features are visible with the naked eye.
+### Planets of Ador
 
-### The Three Sisters
+#### Iubar: The Radiant World
 
-The Three Sisters are the moons of Ecumene-Maranthisa. The three are locked in orbital resonance with one another and with Ecumene-Maranthisa.
+Iubar is an uninhabitable planet, first in orbit around its star. Its orbital period is approximately ⅖ that of the Ecumene. Its bright white appearance is the result of its cloud layer, underneath which is a volcanic landscape of dark-grey basalt flats and a choking atmosphere. From the perspective of the Ecumene, Iubar is the morning an evening star, visible during dawn and dusk.
 
-## Geography of the Ecumene
+#### Ecumene: The Inhabited World
 
-The Ecumene is a wet, inhabitable world similar to Earth. To contrast with Earth, the Ecumene is smaller (0.766 Earth Radii, 0.471 Earth Masses), has more of its surface covered with water (22/25 vs 18/25), and significantly less arid and semi-arid land.
+The Ecumene is a habitable world, second in orbit around its star, and the primary world of this setting. Its surface is predominantly ocean, which takes up over four-fifths of its surface area. Additionally, due the distribution of land, largescale arid and semi-arid biomes are relatively rare. As a result, from space, it looks like a blue marble enveloped by wispy white clouds.
+
+The Ecumene is in a tidally-locked orbit with its twin world, the Maranthisa, which is two-thirds the radius and two-fifths the mass. As a result, both worlds have an unusually long rotational period of 65.784 hours. Three moons orbit the barycenter, which is located one-sixth the distance from the Ecumene to the Maranthisa.
+
+#### Maranthisa: The Withered World
+
+The Maranthisa is a formerly habitable world, having undergone a planetary cataclysm (in *2791*{: .ae}) which rendered its surface uninhabitable to all known life. Overall, its surface has a khaki-grey color. Lore indicates that the large dark brown splotches are seas, and that the pockmark craters, each with prominent white ray systems, mark the locations of great cities that were once populated by several millions. It continues to be referred to as the Great Mother among the Elves, and had once been referred to as *Didyme*, the Twin World.
+
+Despite its relatively dull color, its immense size within the Ecumene's sky (on average, an angular diameter of 2.744 degrees, i.e. 5.2 times as wide as Earth's Moon) means that the Maranthisa reflects sufficient light for outdoor activities at night. Due to the two worlds being tidally locked with one another, only one side of the Ecumene benefits from this effect; the far side of the Ecumene instead suffers from a lengthy and complete darkness (broken only when Ador and Ayn are near periastron, when Ayn provides a dim light just bright enough to read). The former is commonly called the *Light Side* and the latter the *Dark Side* due to this phenomenon.
+
+Reports from the few explorers who had attempted a landing on the post-cataclysm Great Mother report that the atmosphere has been burned away leaving a thin and unbreathable air. The soil and sea water is poisonous to both plants and animals. Visitation is extremely difficult, even with a fully-outfitted Crystal Ship, due to the need to avoid contamination. Nothing is left of the great cities, but the remains of minor settlements do exist. Corpses can still be found to this day, putrefied and desiccated but not decomposed despite the millennia of exposure.
+
+#### The Three Sisters
+
+The three moons of Ecumene-Maranthisa are in orbital resonance with one another. The largest and closest, called the Elder Sister, is also in orbital resonance with the Ecumene-Maranthisa orbital period, resulting in a complex interaction between the five worlds.
+
+| Relationship   | Resonance |
+|----------------|-----------|
+| Great-Elder    | 5:28      |
+| Elder-Middle   | 9:11      |
+| Elder-Younger  | 6:11      |
+| Middle-Younger | 2:3       |
+
+The Elder Sister's orbital period is precisely 5.6 days on the Ecumene, and is used as the basis for the month in most calendars.
+
+#### Acusa: The Reluctant World
+
+The outermost planet orbiting Ador is an unremarkable, uninhabitable, geologically inert body with minimal atmosphere and an ashen-grey surface. Pock-marked with craters that stretch into primordial times, its name comes from an ancient word for the reluctant one, on the basis that it orbits much more slowly than the Ecumene.
+
+## The Ecumene
+
+The Ecumene is the homeworld for Humans (its dominant species), Halflings, and Goblins. Due to its deep history, it has long become home for additional species that originate from the other worlds in the Ador-Ayn Star System, such as Elves, Kobolds, etc. It is the primary world for this setting. 
+
+### Geography of the Ecumene
+
+The Ecumene is smaller than Earth (0.766 Earth Radii, 0.471 Earth Masses), has a large ice cap on each pole, and more of its surface is covered with water than Earth (22/25 vs 18/25). This contributes to there being much less of either arid/semi-arid or taiga/tundra zones.
 
 Six major continents, four minor continents, and countless islands. Most of the Ecumene's dry land is located in the southern hemisphere, with the northern hemisphere dominated by a massive ocean.
 
