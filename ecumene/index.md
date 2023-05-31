@@ -4,17 +4,6 @@ title: The Ecumene
 subtitle: A worldbuilding exercise intended to serve as a low-fantasy TTRPG setting.
 ---
 
-<link rel="stylesheet" href="/assets/css/world-doodles.css">
-<script>
-$(document).ready(function() { 
-	$.each($('em.ae'),function(k,v) {
-		var em = $(v);
-		var date = em.html();em.attr('title', 'anno ' + date + ' ab egressū / ' + (7130 - date) + ' years before present');
-		em.html(date + 'ae');
-	});
-});
-</script>
-
 ## Introduction
 
 Inspired by [Dungeon23](https://seanmccoy.substack.com/p/dungeon23) and its spinoffs (e.g. [Hex23](https://www.youtube.com/watch?v=eDZcY_PYvrk), [World23](https://www.reddit.com/r/worldbuilding/comments/zx7jtp/world23_a_daily_worldbuilding_challenge_for_2023/), etc), the Ecumene is my attempt at creating a campaign setting that may be used in the future in a TTRPG. It isn't intended to comport to any particular regular development schedule, but rather to explore the different fields of worldbuilding in a freeform manner, developing from first principles and developing depth in each field over time.
