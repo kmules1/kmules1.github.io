@@ -216,17 +216,15 @@ The outermost planet orbiting Ador is an unremarkable, uninhabitable, geological
 
 The Ecumene is the homeworld for Humans (its dominant species), Halflings, and Goblins. Due to its deep history, it has long become home for additional species that originate from the other worlds in the Ador-Ayn Star System, such as Elves, Kobolds, etc. It is the primary world for this setting. 
 
-### Geography of the Ecumene
-
 The Ecumene is smaller than Earth (0.766 Earth Radii, 0.471 Earth Masses), has a large ice cap on each pole, and more of its surface is covered with water than Earth (22/25 vs 18/25). This contributes to there being much less of either arid/semi-arid or taiga/tundra zones.
+
+### Regions of the Ecumene
 
 Six major continents, four minor continents, and countless islands. Most of the Ecumene's dry land is located in the southern hemisphere, with the northern hemisphere dominated by a massive ocean.
 
-## Peoples & Politics
-
 ### Thinking Kinds
 
-The Ecumene is home to several sapient species, referred to as the Thinking Kinds. By far the most populous of these is Mankind, which is indigenous to the Ecumene and has a dominant role in its histories and societies. A significantly less populous but historically critical kind is Elfkind, whose first arrival to the Ecumene marks the beginning of the most common calendar era, (AE *ab Egressu* "since the Landing") and who evacuated to the Ecumene following the Cataclysm of *2791*{: .ae}, when their homeworld became uninhabitable.
+The Ecumene is home to several sapient species. By far the most populous of these is Mankind, which is indigenous to the Ecumene and has a dominant role in its histories and societies. A significantly less populous but historically critical kind is Elfkind, whose first arrival to the Ecumene marks the beginning of the most common calendar era, (AE *ab Egressu* "since the Landing") and who evacuated to the Ecumene following the Cataclysm of *2791*{: .ae}, when their homeworld became uninhabitable.
 
 Other notable kinds are:
 * Halflingkind, who are an offshoot of Mankind and are known for their short stature, pinkish skin, and talent for stealth.
@@ -239,10 +237,6 @@ One of the most important polities within human history is that of the Imperium,
 
 Other major polities include the Fourteen of Greenstone, an elven confederacy with a consociational mode of government designed mostly to regulate its intense internal divisions, prevent general conflict, and maintain elven authority on the continent in the face of intrusive settlement by other thinking kinds.
 
-## Culture
-
-Eu tincidunt tortor aliquam nulla facilisi. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Morbi leo urna molestie at elementum eu. Dignissim diam quis enim lobortis scelerisque fermentum. Morbi quis commodo odio aenean sed. Morbi non arcu risus quis. Nibh mauris cursus mattis molestie a. Pellentesque massa placerat duis ultricies lacus sed turpis tincidunt id. Ut placerat orci nulla pellentesque dignissim.
-
-## Technology
+### History
 
 Hac habitasse platea dictumst quisque sagittis purus sit amet. Sem viverra aliquet eget sit amet tellus cras adipiscing enim. Vitae purus faucibus ornare suspendisse sed nisi. Facilisis sed odio morbi quis commodo odio aenean sed. Sed risus ultricies tristique nulla aliquet enim. Facilisis sed odio morbi quis. Cras tincidunt lobortis feugiat vivamus at. Eget egestas purus viverra accumsan in nisl nisi scelerisque. Ut faucibus pulvinar elementum integer enim neque volutpat. Scelerisque eleifend donec pretium vulputate sapien. Dui sapien eget mi proin sed libero enim sed faucibus. Blandit cursus risus at ultrices. Malesuada pellentesque elit eget gravida cum sociis natoque penatibus et. Sed sed risus pretium quam vulputate dignissim suspendisse. Quis ipsum suspendisse ultrices gravida dictum fusce ut.
