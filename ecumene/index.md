@@ -14,7 +14,7 @@ Key concepts behind designing The Ecumene:
 - low fantasy, with casting ability confined to certain ancestries and heritages
 - relics of advanced technology from an ancient non-human civilization
 
-## Cosmology
+## The Ador-Ayn Star System
 
 <ul class="tree">
 	<li><a style="font-weight:bold">Ador-Ayn System</a>
@@ -158,8 +158,6 @@ Key concepts behind designing The Ecumene:
 	</li>
 </ul>
 
-### Ador & Ayn: Twin Suns
-
 The Ecumene is located within a binary star system. Each star has its own planetary system. Due to eccentricity, stable orbits are limited to within each star's frost line. Well beyond the two stars is an immense cloud of asteroids and cometary material. Gravitational perburbations from the two stars' eccentricity redirect comets into the inner system.
 
 Ador and Ayn have an orbital period of 96.26 Ecumene years and an orbital eccentricity of 0.52. From the perspective of the Ecumene, Ayn is an especially bright wandering star, which grows as the stars approach periastron to become a faint junior sun that contributes as much light as a decent indoor lamp. During periastron, prevailing weather patterns become distorted due to the additional solar radiation received.
@@ -174,11 +172,11 @@ Iubar is an uninhabitable planet, first in orbit around its star. Its orbital pe
 
 The Ecumene is a habitable world, second in orbit around its star, and the primary world of this setting. Its surface is predominantly ocean, which takes up over four-fifths of its surface area. Additionally, due the distribution of land, largescale arid and semi-arid biomes are relatively rare. As a result, from space, it looks like a blue marble enveloped by wispy white clouds.
 
-The Ecumene is in a tidally-locked orbit with its twin world, the Maranthisa, which is two-thirds the radius and two-fifths the mass. As a result, both worlds have an unusually long rotational period of 65.784 hours. Three moons orbit the barycenter, which is located one-sixth the distance from the Ecumene to the Maranthisa.
+The Ecumene is in a tidally-locked orbit with its twin world, the Maranthisa, which is two-thirds the radius and two-fifths the mass. As a result, both worlds have an unusually long rotational period of 65.784 hours. Three moons, the Three Sisters, orbit the Ecumene-Maranthisa barycenter, which is located one-sixth of the distance between them.
 
 #### Maranthisa: The Withered World
 
-The Maranthisa is a formerly habitable world, having undergone a planetary cataclysm (in *2791*{: .ae}) which rendered its surface uninhabitable to all known life. Overall, its surface has a khaki-grey color. Lore indicates that the large dark brown splotches are seas, and that the pockmark craters, each with prominent white ray systems, mark the locations of great cities that were once populated by several millions. It continues to be referred to as the Great Mother among the Elves, and had once been referred to as *Didyme*, the Twin World.
+The Maranthisa is a formerly habitable world, having undergone a planetary cataclysm (in *2791*{: .ae}) which rendered its surface uninhabitable to all known life. Overall, its surface has a khaki-grey color. Lore indicates that the large dark brown splotches are seas, and that the pockmark craters, each with prominent white ray systems, mark the locations of great cities that were once populated by several millions. It continues to be referred to as the Great Mother among the Elves, and had once been referred to instead variously as *Didyme* or *Toma*, the Twin World; *Luhan*, the Shining One, is sometimes heard as well.
 
 Despite its relatively dull color, its immense size within the Ecumene's sky (on average, an angular diameter of 2.744 degrees, i.e. 5.2 times as wide as Earth's Moon) means that the Maranthisa reflects sufficient light for outdoor activities at night. Due to the two worlds being tidally locked with one another, only one side of the Ecumene benefits from this effect; the far side of the Ecumene instead suffers from a lengthy and complete darkness (broken only when Ador and Ayn are near periastron, when Ayn provides a dim light just bright enough to read). The former is commonly called the *Light Side* and the latter the *Dark Side* due to this phenomenon.
 
@@ -222,10 +220,112 @@ Other notable kinds are:
 
 ### Major Polities
 
-One of the most important polities within human history is that of the Imperium, a state which, at its high point, dominated two continents and whose cultural influence reached five continents. In the current year of *7130*{: .ae}, the Imperium itself is significantly smaller but continues to be a center of cultural, political, and economic influence; areas touched by its influence and/or rule over the centuries continue to be governed in a manner emulating the Imperium.
+One of the most significant polities within human history has been the Imperium, a state which, at its peak, dominated two continents and whose cultural influence reached five. In the current year of *7130*{: .ae}, the Imperium itself is significantly smaller but continues to be a center of cultural, political, and economic influence; areas touched by its influence and/or rule over the centuries continue to be governed in a manner emulating the Imperium, and this larger region is referred to as the Greater Imperium.
 
 Other major polities include the Fourteen of Greenstone, an elven confederacy with a consociational mode of government designed mostly to regulate its intense internal divisions, prevent general conflict, and maintain elven authority on the continent in the face of intrusive settlement by other thinking kinds.
 
 ### History
 
-Hac habitasse platea dictumst quisque sagittis purus sit amet. Sem viverra aliquet eget sit amet tellus cras adipiscing enim. Vitae purus faucibus ornare suspendisse sed nisi. Facilisis sed odio morbi quis commodo odio aenean sed. Sed risus ultricies tristique nulla aliquet enim. Facilisis sed odio morbi quis. Cras tincidunt lobortis feugiat vivamus at. Eget egestas purus viverra accumsan in nisl nisi scelerisque. Ut faucibus pulvinar elementum integer enim neque volutpat. Scelerisque eleifend donec pretium vulputate sapien. Dui sapien eget mi proin sed libero enim sed faucibus. Blandit cursus risus at ultrices. Malesuada pellentesque elit eget gravida cum sociis natoque penatibus et. Sed sed risus pretium quam vulputate dignissim suspendisse. Quis ipsum suspendisse ultrices gravida dictum fusce ut.
+The history of the Ecumene is commonly divided into two periods: the Era of Elves and the Era of Humanity.
+
+The former is a primordial period for the Ecumene, while the Elves established their own global civilization, then bridged the distance between planets and taught civilization to the peoples of the worlds. Its high period ended in a sudden cataclysm, which forced the survivors to colonize the Ecumene more intensely. In doing so, the Elves further accelerated the civilizing of humanity and paved the road for their own displacement by the realms of mankind.
+
+The latter is the time period in which humanity took control of the tools of civilization and built their own realms; in doing so, they forced the Elves into enclaves where humanity could not establish a foothold. The early period of this era is marked by the rise and fall of warlords and petty kingdoms; the latter is dominated by the rise and eventual decline of the Imperium as well as similar patterns elsewhere on the Ecumene.
+
+## Calendars
+
+The Civic Calendar, which was established during the High Imperium, remains in use across much of the Ecumene. 
+
+### Mechanics
+
+Due to the Ecumene’s distinct cosmological arrangement, the Civic Calendar does not count days but rather quarter-days:
+- Forenoon (dawn to zenith)
+- Afternoon (zenith to dusk)
+- Waxing (night before the Full Moon)
+- Waning (night after the Full Moon)
+
+Instead of a year of 108.65 days, the Civic Calendar has a year of **434.61 quarter-days**. These quarter-days are organized into 19 months of between 22 (called "hollow" months) and 23 (called "full" months) quarter-days, in accordance with the movement of the Ecumene’s second moon, the Elder Sister. Since the Elder Sister’s orbital period is precisely 22.4 quarters (due to orbital resonance), month length follows a 5-month cycle, called a Quinary: 2 hollow, 1 full, 1 hollow, 1 full.
+This results in a calendar of 425 quarter-days to form a "common year". This is 9.61 quarter-days shorter than the solar year, and so an additional leap month is added regularly to form a 20-month "long year". The leap month is the last month repeated twice, with festivals celebrated on its second iteration. Due to the combination of the Quinary cycle and the Leap Year cycle, there are ten different possible arrangements for a given year. As a result, any given year can be described as a combination of where in the Quinary it begins (1, 2, 3, 4, 5) and whether that year is common or long.
+
+### Indiction
+
+During the height of the empire, the imperial administration maintained a 16-year indiction cycle, used to track the reassessment of taxation rates on land et al. and later extended to include other civil service documentation. Following the Late Imperium Period, the indiction was only retained within the imperial core and eventually dropped during the reforms that began the Post-Imperium Period.
+
+### Calendar Eras
+
+The primary calendar era of the Civic Calendar is Years *ab Egressu*, i.e. "Since the Landing". This calendar era was calculated using elven historical accounts that were still available at the dawn of the High Imperium, and it counts the years since the Elves landed on the Ecumene and began to teach humanity about civilization. Use of this calendar era is relegated to the inner sphere of the Greater Imperium, but may be comprehensible by scholars, merchants, and state officials well beyond this area; it may also be supplemented or displaced by a local, more culturally salient calendar era.
+
+### Civic Calendar, *7130*{: .ae } (Type 1, Common)
+
+<fieldset>
+	<label>Quinary 1</label>
+	
+	<table>
+		<tr><th colspan=4>1st Month</th></tr>
+		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
+		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
+		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
+		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
+		<tr><td>21</td><td>22</td></tr>
+	</table>
+	
+	<table>
+		<tr><th colspan=4>2nd Month</th></tr>
+		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
+		<tr>td colspan=2"></td><td>1</td><td>2</td></tr>
+		<tr><td>3</td><td>4</td><td>5</td><td>6</td></tr>
+		<tr><td>7</td><td>8</td><td>9</td><td>10</td></tr>
+		<tr><td>11</td><td>12</td><td>13</td><td>14</td></tr>
+		<tr><td>15</td><td>16</td><td>17</td><td>18</td></tr>
+		<tr><td>19</td><td>20</td><td>21</td><td>22</td></tr>
+	</table>
+	
+	<table>
+		<tr><th colspan=4>3rd Month</th></tr>
+		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
+		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
+		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
+		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td></tr>
+	</table>
+	
+	<table>
+		<tr><th colspan=4>4th Month</th></tr>
+		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
+		<tr><td colspan=3></td><td>1</td></tr>
+		<tr><td>2</td><td>3</td><td>4</td><td>5</td></tr>
+		<tr><td>6</td><td>7</td><td>8</td><td>9</td></tr>
+		<tr><td>10</td><td>11</td><td>12</td><td>13</td></tr>
+		<tr><td>14</td><td>15</td><td>16</td><td>17</td></tr>
+		<tr><td>18</td><td>19</td><td>20</td><td>21</td></tr>
+		<tr><td>22</td></tr>
+	</table>
+	
+	<table>
+		<tr><th colspan=4>5th Month</th></tr>
+		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
+		<tr><td></td><td>1</td><td>2</td><td>3</td></tr>
+		<tr><td>4</td><td>5</td><td>6</td><td>7</td></tr>
+		<tr><td>8</td><td>9</td><td>10</td><td>11</td></tr>
+		<tr><td>12</td><td>13</td><td>14</td><td>15</td></tr>
+		<tr><td>16</td><td>17</td><td>18</td><td>19</td></tr>
+		<tr><td>20</td><td>21</td><td>22</td><td>23</td></tr>
+	</table>
+</fieldset>
+
+## The Greater Imperium
+
+The Imperium has had a global influence in the Ecumene due to its large area, its position in global sea trade, and its extensive history and staying power throughout the centuries. By the present day (*7130*{: .ae}), its cultural sphere has expanded well beyond the territory held by the Imperium proper or even that within its largest territorial extent. The Imperium serves as the model for a state across five continents, and elites throughout this outer sphere look to the core of the Imperial sphere for cultural signifiers.
+
+### Social Class
+
+### Philosophy & Traditions
+
+### Government
+
+### Currency
+
