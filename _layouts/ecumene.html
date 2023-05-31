@@ -7,11 +7,18 @@
 		<link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
 		<link rel="stylesheet" href="/assets/css/ecumene.css">
 		<link rel="stylesheet" href="/assets/css/tree.css">
+		<link rel="stylesheet" href="/assets/css/world-doodles.css">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 		<script src="/assets/js/toc.js"></script>
 		<script type="text/javascript">
 			$(document).ready(function() {
 				$('#toc').toc();
+				
+				$.each($('em.ae'),function(k,v) {
+					var em = $(v);
+					var date = em.html();em.attr('title', 'anno ' + date + ' ab egressū / ' + (7130 - date) + ' years before present');
+					em.html(date + 'ae');
+				});
 			});
 		</script>
 	</head>
