@@ -261,7 +261,7 @@ The primary calendar era of the Civic Calendar is Years *ab Egressu*, i.e. "Sinc
 	<label>Quinary 1</label>
 	
 	<table>
-		<tr><th colspan=4>1st Month</th></tr>
+		<tr><th colspan=4>1<sup>st</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
 		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
 		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
@@ -273,7 +273,7 @@ The primary calendar era of the Civic Calendar is Years *ab Egressu*, i.e. "Sinc
 	</table>
 	
 	<table>
-		<tr><th colspan=4>2nd Month</th></tr>
+		<tr><th colspan=4>2<sup>nd</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
 		<tr><td colspan=2></td><td>1</td><td>2</td></tr>
 		<tr><td>3</td><td>4</td><td>5</td><td>6</td></tr>
@@ -285,7 +285,7 @@ The primary calendar era of the Civic Calendar is Years *ab Egressu*, i.e. "Sinc
 	</table>
 	
 	<table>
-		<tr><th colspan=4>3rd Month</th></tr>
+		<tr><th colspan=4>3<sup>rd</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
 		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
 		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
@@ -297,7 +297,7 @@ The primary calendar era of the Civic Calendar is Years *ab Egressu*, i.e. "Sinc
 	</table>
 	
 	<table>
-		<tr><th colspan=4>4th Month</th></tr>
+		<tr><th colspan=4>4<sup>th</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
 		<tr><td colspan=3></td><td>1</td></tr>
 		<tr><td>2</td><td>3</td><td>4</td><td>5</td></tr>
@@ -309,7 +309,7 @@ The primary calendar era of the Civic Calendar is Years *ab Egressu*, i.e. "Sinc
 	</table>
 	
 	<table>
-		<tr><th colspan=4>5th Month</th></tr>
+		<tr><th colspan=4>5<sup>th</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
 		<tr><td>&nbsp;</td><td>1</td><td>2</td><td>3</td></tr>
 		<tr><td>4</td><td>5</td><td>6</td><td>7</td></tr>
