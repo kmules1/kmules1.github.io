@@ -258,7 +258,6 @@ The primary calendar era of the Civic Calendar is Years *ab Egressu*, i.e. "Sinc
 ### Civic Calendar, *7130*{: .ae } (Type 1, Common)
 
 <fieldset>
-	<label>Quinary 1</label>
 	<table>
 		<tr><th colspan=4>1<sup>st</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
@@ -314,10 +313,6 @@ The primary calendar era of the Civic Calendar is Years *ab Egressu*, i.e. "Sinc
 		<tr><td>20</td><td>21</td><td>22</td><td>23</td></tr>
 		<tr><td colspan=4>&nbsp;</td></tr>
 	</table>
-</fieldset>
-
-<fieldset>
-	<label>Quinary 2</label>
 	<table>
 		<tr><th colspan=4>6<sup>th</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
@@ -373,10 +368,6 @@ The primary calendar era of the Civic Calendar is Years *ab Egressu*, i.e. "Sinc
 		<tr><td>20</td><td>21</td><td>22</td><td>23</td></tr>
 		<tr><td colspan=4>&nbsp;</td></tr>
 	</table>
-</fieldset>
-
-<fieldset>
-	<label>Quinary 2</label>
 	<table>
 		<tr><th colspan=4>6<sup>th</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
@@ -432,10 +423,6 @@ The primary calendar era of the Civic Calendar is Years *ab Egressu*, i.e. "Sinc
 		<tr><td>20</td><td>21</td><td>22</td><td>23</td></tr>
 		<tr><td colspan=4>&nbsp;</td></tr>
 	</table>
-</fieldset>
-
-<fieldset>
-	<label>Quinary 3</label>
 	<table>
 		<tr><th colspan=4>11<sup>th</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
@@ -491,10 +478,6 @@ The primary calendar era of the Civic Calendar is Years *ab Egressu*, i.e. "Sinc
 		<tr><td>20</td><td>21</td><td>22</td><td>23</td></tr>
 		<tr><td colspan=4>&nbsp;</td></tr>
 	</table>
-</fieldset>
-
-<fieldset>
-	<label>Quinary 4</label>
 	<table>
 		<tr><th colspan=4>16<sup>th</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
