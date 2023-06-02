@@ -40,7 +40,7 @@ Key concepts behind designing The Ecumene:
 							<dl>
 								<dd>Terrestrial, Uninhabitable</dd>
 								<dd>Mass: 0.616 M<sub>œ</sub></dd>
-								<dd>Orbital Period: 40.51d<sub>œ</sub></dd>
+								<dd>Orbital Period: 40.51 d<sub>œ</sub></dd>
 							</dl>
 							<p>Its bright white appearance results from a pearlescent cloud layer that mostly covers its surface, a volcanic landscape of dark-grey basalt flats.</p>
 							<p>From the perspective of the Ecumene, Iubar is the morning and evening star, visible during dawn and dusk.</p>
@@ -49,24 +49,34 @@ Key concepts behind designing The Ecumene:
 					<li>
 						<a>The Ecumene</a>
 						<aside id="infobox-ecumene">
-							<h4>The Ecumene</h4>
+							<h4>The Ecumene <span>(Ador IIa)</span></h4>
 							<div class="doodle">
 								<div class="surface"></div>
 								<div class="moon"></div>
 							</div>
-							<p>Terrestrial, Habitable (0.472M🜨)</p>
-							<p>Wispy White Clouds over Water Surface with Brown-to-Green Land</p>
+							<dl>
+								<dd>Terrestrial, Habitable</dd>
+								<dd>Mass: 1 M<sub>œ</sub></dd>
+								<dd>Orbital Period: 108.65 d<sub>œ</sub></dd>
+								<dd>Rotational Period: 65.784 h</dd>
+							</dl>
+							<p>Wispy White Clouds over Water Surface with Brown-to-Green Land.</p>
 						</aside>
 						<span>&</span>
 						<a>Maranthisa</a>
 						<aside id="infobox-maranthisa">
-							<h4>Maranthisa</h4>
+							<h4>Maranthisa <span>(Ador IIb)</span></h4>
 							<div class="doodle">
 								<div class="surface"></div>
 								<div class="moon"></div>
 							</div>
-							<p>Terrestrial, No Longer Habitable (0.099M🜨)</p>
-							<p>Khaki-Grey Land with Brown Seas pocked with white-rayed craters</p>
+							<dl>
+								<dd>Terrestrial, Formerly Habitable</dd>
+								<dd>Mass: 0.210 M<sub>œ</sub></dd>
+								<dd>Orbital Period: 1 d<sub>œ</sub></dd>
+								<dd>Rotational Period: 65.784 h</dd>
+							</dl>
+							<p>Khaki-Grey Land with Brown Seas pocked with white-rayed craters.</p>
 						</aside>
 						<ul>
 							<li>
@@ -98,9 +108,14 @@ Key concepts behind designing The Ecumene:
 					<li>
 						<a>Acusa</a>
 						<aside>
-							<h4>Acusa</h4>
-							<p>Terrestrial, Uninhabitable (0.2M🜨)</p>
+							<h4>Acusa <span>(Ador III)</span></h4>
+							<dl>
+								<dd>Terrestrial, Uninhabitable</dd>
+								<dd>Mass: 0.425 M<sub>œ</sub></dd>
+								<dd>Orbital Period: 299.02 d<sub>œ</sub></dd>
+							</dl>
 							<p>Minimal atmosphere over an old Light-Grey Silicate Surface</p>
+							<p>Geologically inert, pock-marked with old craters.</p>
 						</aside>
 					</li>
 				</ul>
@@ -119,19 +134,28 @@ Key concepts behind designing The Ecumene:
 					<li>
 						<a>Ninurta</a>
 						<aside>
-							<h4>Ninurta</h4>
-							<p>Terrestrial, Marginally Habitable, Tide-Locked to Ayn (1.2M🜨)</p>
+							<h4>Ninurta <span>(Ayn I)</span></h4>
+							<dl>
+								<dd>Terrestrial, Marginally Habitable</dd>
+								<dd>Mass: 2.55 M<sub>œ</sub></dd>
+								<dd>Orbital Period: 17.19 d<sub>œ</sub></dd>
+							</dl>
 							<p>Eyeball World: Sand (Day), Seas & Lush Land (Twilight), Ice (Night)</p>
 						</aside>
 					</li>
 					<li>
 						<a>Marduk</a>
 						<aside id="infobox-marduk">
-							<h4>Marduk</h4>
+							<h4>Marduk <span>(Ayn II)</span></h4>
 							<div class="doodle">
 								<div class="surface"></div>
 								<div class="moon"></div>
 							</div>
+							<dl>
+								<dd>Gas Giant</dd>
+								<dd>Mass: 31.85 M<sub>œ</sub></dd>
+								<dd>Orbital Period: 48.91 d<sub>œ</sub></dd>
+							</dl>
 							<p>Gas Giant (~15M🜨)</p>
 							<p>Banded Blue and White (Class II: Water Clouds)</p>
 						</aside>
@@ -140,8 +164,11 @@ Key concepts behind designing The Ecumene:
 								<a>Nabu</a>
 								<aside>
 									<h4>Nabu</h4>
-									<p>Terrestrial, Habitable Moon, Tide-Locked to Marduk (0.6M🜨)</p>
-									<p>High volcanism, thick atmosphere keeps it warm</p>
+									<dl>
+										<dd>Terrestrial, Habitable</dd>
+										<dd>Mass: 1.274 M<sub>œ</sub></dd>
+									</dl>
+									<p>High volcanism, thick atmosphere keeps it warm.</p>
 								</aside>
 							</li>
 						</ul>
@@ -152,7 +179,7 @@ Key concepts behind designing The Ecumene:
 					<li>
 						<a>Nergal</a>
 						<aside>
-							<h4>Nergal</h4>
+							<h4>Nergal <span>(Ayn III)</span></h4>
 							<p>Gas Dwarf (4-5M🜨)</p>
 							<p>Banded Yellows (Class I: Ammonia Clouds)</p>
 						</aside>
@@ -167,15 +194,15 @@ The Ecumene is located within a binary star system. Each star has its own planet
 
 Ador and Ayn have an orbital period of 96.26 Ecumene years and an orbital eccentricity of 0.52. From the perspective of the Ecumene, Ayn is an especially bright wandering star, which grows as the stars approach periastron to become a faint junior sun that contributes as much light as a decent indoor lamp. During periastron, prevailing weather patterns become distorted due to the additional solar radiation received.
 
-### Planets of Ador
+## The Ecumene
 
-#### Ecumene: The Inhabited World
+The Ecumene is a habitable world, second in orbit around its star, and the primary world of this setting.
 
-The Ecumene is a habitable world, second in orbit around its star, and the primary world of this setting. Its surface is predominantly ocean, which takes up over four-fifths of its surface area. Additionally, due the distribution of land, largescale arid and semi-arid biomes are relatively rare. As a result, from space, it looks like a blue marble enveloped by wispy white clouds.
+Its surface is predominantly ocean, which takes up over four-fifths of its surface area. Additionally, due the distribution of land, largescale arid and semi-arid biomes are relatively rare. As a result, from space, it looks like a blue marble enveloped by wispy white clouds.
 
 The Ecumene is in a tidally-locked orbit with its twin world, the Maranthisa, which is two-thirds the radius and two-fifths the mass. As a result, both worlds have an unusually long rotational period of 65.784 hours. Three moons, the Three Sisters, orbit the Ecumene-Maranthisa barycenter, which is located one-sixth of the distance between them.
 
-#### Maranthisa: The Withered World
+### The Maranthisa
 
 The Maranthisa is a formerly habitable world, having undergone a planetary cataclysm (in *2791*{: .ae}) which rendered its surface uninhabitable to all known life. Overall, its surface has a khaki-grey color. Lore indicates that the large dark brown splotches are seas, and that the pockmark craters, each with prominent white ray systems, mark the locations of great cities that were once populated by several millions. It continues to be referred to as the Great Mother among the Elves, and had once been referred to instead variously as *Didyme* or *Toma*, the Twin World; *Luhan*, the Shining One, is sometimes heard as well.
 
@@ -183,7 +210,7 @@ Despite its relatively dull color, its immense size within the Ecumene's sky (on
 
 Reports from the few explorers who had attempted a landing on the post-cataclysm Great Mother report that the atmosphere has been burned away leaving a thin and unbreathable air. The soil and sea water is poisonous to both plants and animals. Visitation is extremely difficult, even with a fully-outfitted Crystal Ship, due to the need to avoid contamination. Nothing is left of the great cities, but the remains of minor settlements do exist. Corpses can still be found to this day, putrefied and desiccated but not decomposed despite the millennia of exposure.
 
-#### The Three Sisters
+### The Three Sisters
 
 The three moons of Ecumene-Maranthisa are in orbital resonance with one another. The largest and closest, called the Elder Sister, is also in orbital resonance with the Ecumene-Maranthisa orbital period, resulting in a complex interaction between the five worlds.
 
@@ -196,25 +223,19 @@ The three moons of Ecumene-Maranthisa are in orbital resonance with one another.
 
 The Elder Sister's orbital period is precisely 5.6 days on the Ecumene, and is used as the basis for the month in most calendars.
 
-#### Acusa: The Reluctant World
-
-The outermost planet orbiting Ador is an unremarkable, uninhabitable, geologically inert body with minimal atmosphere and an ashen-grey surface. Pock-marked with craters that stretch into primordial times, its name comes from an ancient word for the reluctant one, on the basis that it orbits much more slowly than the Ecumene.
-
-## The Ecumene
-
-The Ecumene is the homeworld for Humans (its dominant species), Halflings, and Goblins. Due to its deep history, it has long become home for additional species that originate from the other worlds in the Ador-Ayn Star System, such as Elves, Kobolds, etc. It is the primary world for this setting. 
-
-The Ecumene is smaller than Earth (0.766 Earth Radii, 0.471 Earth Masses), has a large ice cap on each pole, and more of its surface is covered with water than Earth (22/25 vs 18/25). This contributes to there being much less of either arid/semi-arid or taiga/tundra zones.
-
 ### Regions of the Ecumene
 
 Six major continents, four minor continents, and countless islands. Most of the Ecumene's dry land is located in the southern hemisphere, with the northern hemisphere dominated by a massive ocean.
 
 ### Thinking Kinds
 
-The Ecumene is home to several sapient species. By far the most populous of these is Mankind, which is indigenous to the Ecumene and has a dominant role in its histories and societies. A significantly less populous but historically critical kind is Elfkind, whose first arrival to the Ecumene marks the beginning of the most common calendar era, (AE *ab Egressu* "since the Landing") and who evacuated to the Ecumene following the Cataclysm of *2791*{: .ae}, when their homeworld became uninhabitable.
+The Ecumene is home to several sapient species. By far the most populous of these is Mankind, which is indigenous to the Ecumene and has a dominant role in its histories and societies. Other indigenous Thinking Kinds include Halflings and Goblins.
 
-Other notable kinds are:
+Due to its deep history, it has long become home for additional species that originate from the other worlds in the Ador-Ayn Star System. A significantly less populous but historically critical kind is Elfkind, whose first arrival to the Ecumene marks the beginning of the most common calendar era, (AE *ab Egressu* "since the Landing") and who evacuated to the Ecumene following the Cataclysm of *2791*{: .ae}, when their homeworld became uninhabitable.
+
+Types of Thinking Kinds:
+* Mankind
+* Elfkind
 * Halflingkind, who are an offshoot of Mankind and are known for their short stature, pinkish skin, and talent for stealth.
 * Goblinkind, who claim to be indigenous to the Ecumene and are known for their invasiveness, disgusting habits, and talent for trouble.
 * Koboldkind, who originate from Ninurta, and are known for their cautiousness, devoted, and resilient.
