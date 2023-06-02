@@ -70,10 +70,11 @@ ul.tree>li:first-child::after {
 	background-color: white;
 	border: 1px solid #ccc;
 	border-radius: 0 1em;
-	padding: 1em;
+	padding: 1rem;
+	width: 20rem;
 	z-index: 1;
 }
-.tree aside h3 {
+.tree aside h4 {
 	margin: 0
 }
 .tree a:hover+aside, .tree a:focus+aside,
