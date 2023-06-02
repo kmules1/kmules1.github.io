@@ -88,7 +88,6 @@ ul.tree>li:first-child::after {
 	font-style:				italic;
 	font-size:				smaller;
 }
-
 .tree div.doodle {
 	background-color:		black;
 	font-size:				1em;
@@ -96,4 +95,7 @@ ul.tree>li:first-child::after {
 	aspect-ratio:			1 / 1;
 	border-radius:			1em;
 	float:					right;
+}
+.tree dl, .tree dd {
+	margin:			0;
 }
