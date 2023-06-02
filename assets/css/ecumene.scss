@@ -166,3 +166,20 @@ main h3 {
 em.ae {
 	font-variant:				small-caps;
 }
+
+/* CALENDAR */
+
+fieldset {
+	display:					grid;
+	grid-template-columns:		2rem 1fr 1fr 1fr 1fr 1fr;
+	padding:					0;
+	border-style:				solid;
+}
+label {
+	writing-mode:				tb;
+	text-align:					center;
+	line-height:				2rem;
+	font-weight:				bold;
+	background-color:			$highlightb;
+	color:						$background;
+}
