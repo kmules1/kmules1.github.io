@@ -37,8 +37,11 @@ Key concepts behind designing The Ecumene:
 							<div class="doodle">
 								<div class="surface"></div>
 							</div>
-							<p>Terrestrial, Uninhabitable (0.29M🜨)</p>
-							<p>Orbital Period: 40.51d<sub>œ</sub></p>
+							<dl>
+								<dd>Terrestrial, Uninhabitable</dd>
+								<dd>Mass: 0.616 M<sub>œ</sub></dd>
+								<dd>Orbital Period: 40.51d<sub>œ</sub></dd>
+							</dl>
 							<p>Its bright white appearance results from a pearlescent cloud layer that mostly covers its surface, a volcanic landscape of dark-grey basalt flats.</p>
 							<p>From the perspective of the Ecumene, Iubar is the morning and evening star, visible during dawn and dusk.</p>
 						</aside>
