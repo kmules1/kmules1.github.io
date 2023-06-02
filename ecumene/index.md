@@ -33,7 +33,7 @@ Key concepts behind designing The Ecumene:
 					<li>
 						<a>Iubar</a>
 						<aside id="infobox-iubar">
-							<h4>Iubar <span>(Ador I)</h4>
+							<h4>Iubar <span>(Ador I)</span></h4>
 							<div class="doodle">
 								<div class="surface"></div>
 							</div>
