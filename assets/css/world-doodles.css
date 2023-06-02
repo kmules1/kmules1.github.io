@@ -4,15 +4,13 @@ aside {
 	grid-template-columns: auto 4em;
 }
 aside h4 {
-	grid-column: 1 / 2;
-	margin: 0;
-	font-size: 2em;
+	margin:				0;
+	font-size:			2rem;
 }
-aside div.doodle {
-	grid-column: 2 / 3;
-}
-aside p {
-	grid-column: 1 / 3;
+aside h4 span {
+	margin-inline-start:	1em;
+	font-style:			italic;
+	font-size:			smaller;
 }
 
 aside div.doodle {
@@ -21,6 +19,7 @@ aside div.doodle {
 	width:				4em;
 	aspect-ratio:		1 / 1;
 	border-radius:		1em;
+	float:				right;
 }
 #infobox-ador .surface {
 	position:			relative;
