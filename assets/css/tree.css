@@ -74,10 +74,26 @@ ul.tree>li:first-child::after {
 	width: 20rem;
 	z-index: 1;
 }
-.tree aside h4 {
-	margin: 0
-}
 .tree a:hover+aside, .tree a:focus+aside,
 .tree aside:hover, .tree aside:focus {
-	display: block;
+	display:				block;
+}
+.tree aside h4 {
+	margin:					0;
+	font-size:				2rem;
+	display:				inline-block;
+}
+.tree h4 span {
+	margin-inline-start:	1em;
+	font-style:				italic;
+	font-size:				smaller;
+}
+
+.tree div.doodle {
+	background-color:		black;
+	font-size:				1em;
+	width:					4em;
+	aspect-ratio:			1 / 1;
+	border-radius:			1em;
+	float:					right;
 }
