@@ -275,7 +275,7 @@ The primary calendar era of the Civic Calendar is Years *ab Egressu*, i.e. "Sinc
 	<table>
 		<tr><th colspan=4>2nd Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr>td colspan=2"></td><td>1</td><td>2</td></tr>
+		<tr><td colspan=2></td><td>1</td><td>2</td></tr>
 		<tr><td>3</td><td>4</td><td>5</td><td>6</td></tr>
 		<tr><td>7</td><td>8</td><td>9</td><td>10</td></tr>
 		<tr><td>11</td><td>12</td><td>13</td><td>14</td></tr>
