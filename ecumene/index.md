@@ -33,12 +33,14 @@ Key concepts behind designing The Ecumene:
 					<li>
 						<a>Iubar</a>
 						<aside id="infobox-iubar">
-							<h4>Iubar</h4>
+							<h4>Iubar <span>(Ador I)</h4>
 							<div class="doodle">
 								<div class="surface"></div>
 							</div>
 							<p>Terrestrial, Uninhabitable (0.29M🜨)</p>
-							<p>Pearlescent Clouds over dark-grey basalt surface</p>
+							<p>Orbital Period: 40.51d<sub>œ</sub></p>
+							<p>Its bright white appearance results from a pearlescent cloud layer that mostly covers its surface, a volcanic landscape of dark-grey basalt flats.</p>
+							<p>From the perspective of the Ecumene, Iubar is the morning and evening star, visible during dawn and dusk.</p>
 						</aside>
 					</li>
 					<li>
@@ -163,10 +165,6 @@ The Ecumene is located within a binary star system. Each star has its own planet
 Ador and Ayn have an orbital period of 96.26 Ecumene years and an orbital eccentricity of 0.52. From the perspective of the Ecumene, Ayn is an especially bright wandering star, which grows as the stars approach periastron to become a faint junior sun that contributes as much light as a decent indoor lamp. During periastron, prevailing weather patterns become distorted due to the additional solar radiation received.
 
 ### Planets of Ador
-
-#### Iubar: The Radiant World
-
-Iubar is an uninhabitable planet, first in orbit around its star. Its orbital period is approximately ⅖ that of the Ecumene. Its bright white appearance is the result of its cloud layer, underneath which is a volcanic landscape of dark-grey basalt flats and a choking atmosphere. From the perspective of the Ecumene, Iubar is the morning an evening star, visible during dawn and dusk.
 
 #### Ecumene: The Inhabited World
 
