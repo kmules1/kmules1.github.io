@@ -507,7 +507,7 @@ The Imperium has had a global influence in the Ecumene due to its large area, it
 
 ## The Dattanese Kingdoms
 
-The Dattanese Kingdoms cover a large region northwest of the Greater Imperium, centered on the tropical Dattanese Islands and covering a cultural zone that stretches from Shashanka in the southeast to Samatat in the northwest and beyond.
+The Dattanese Kingdoms cover a large region northwest of the Greater Imperium, centered on the tropical Dattanese Islands and covering a cultural zone that stretches from Shashanka in the southeast to Samatat in the northwest and beyond. Many of the royal families trace their lineage, real or fictive, back to semilegendary Kings of Joidakhoni.
 
 ## The Fourteen of Greenstone
 
