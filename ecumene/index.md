@@ -244,7 +244,9 @@ Types of Thinking Kinds:
 
 One of the most significant polities within human history has been the Imperium, a state which, at its peak, dominated two continents and whose cultural influence reached five. In the current year of *7130*{: .ae}, the Imperium itself is significantly smaller but continues to be a center of cultural, political, and economic influence; areas touched by its influence and/or rule over the centuries continue to be governed in a manner emulating the Imperium, and this larger region is referred to as the Greater Imperium.
 
-Other major polities include the Fourteen of Greenstone, an elven confederacy with a consociational mode of government designed mostly to regulate its intense internal divisions, prevent general conflict, and maintain elven authority on the continent in the face of intrusive settlement by other thinking kinds.
+Other major polities include:
+- The Fourteen of Greenstone, an elven confederacy with a consociational mode of government designed mostly to regulate its intense internal divisions, prevent general conflict, and maintain elven authority on the continent in the face of intrusive settlement by other thinking kinds
+- The Kimmuy Corsairs, a multiethnic and multispecies seagoing people who alternatingly raid, settle, and rule the various islands and coastal communities of the Sea of Dayan. Particularly adventurous raiders have been known to enter the Inland Sea.
 
 ### History
 
