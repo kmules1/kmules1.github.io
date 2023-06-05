@@ -503,3 +503,14 @@ The Imperium has had a global influence in the Ecumene due to its large area, it
 
 ### Currency
 
+## The Dattanese Kingdoms
+
+The Dattanese Kingdoms cover a large region northwest of the Greater Imperium, centered on the tropical Dattanese Islands and covering a cultural zone that stretches from Shashanka in the southeast to Samatat in the northwest and beyond.
+
+## The Fourteen of Greenstone
+
+A major polity to the northeast of the Greater Imperium, centered on the continent of the Holy Greenstone. Having established an enforced peace between the great houses located therein, the Elves of the Holy Greenstone have seen themselves as preservers of what remains of Classical Elven society. Much of the continent that isn't settled by the Elves themselves is protected and controlled by the Fourteen Houses, who magically enhance the wildlife so that it may act as a deterrent against attempts to settle it by Humans or the other Thinking Kinds. Enclave settlements are tolerated at key places along the coast; in these port towns, the various Thinking Kinds live amongst one another with some limited self government under the watchful eye of overseers that serve the Fourteen.
+
+To the east of the Holy Greenstone is an island group dominated by the island of Dawncloud. The Fourteen maintain hegemony over this territory, but do not rule it directly. As a result, it is highly influenced by the culture and practices of the Fourteen, and the Elven houses hold domains there, but it is much more heavily settled by Humans and others. Conflict between the different groups is endemic, and some blame the Fourteen for having a role in this. Despite this, its people are relatively free, as the Fourteen have regularly imposed peace upon the islands when conflict spirals out of control.
+
+### Elven Houses
