@@ -198,7 +198,7 @@ Ador and Ayn have an orbital period of 96.26 Ecumene years and an orbital eccent
 
 The Ecumene is a habitable world, second in orbit around its star, and the primary world of this setting.
 
-Its surface is predominantly ocean, which takes up over four-fifths of its surface area. Additionally, due the distribution of land, largescale arid and semi-arid biomes are relatively rare. As a result, from space, it looks like a blue marble enveloped by wispy white clouds.
+Its surface is predominantly ocean, which takes up eight-ninths of its surface area. Additionally, due the distribution of land, largescale arid and semi-arid biomes are relatively rare. As a result, from space, it looks like a blue marble enveloped by wispy white clouds.
 
 The Ecumene is in a tidally-locked orbit with its twin world, the Maranthisa, which is two-thirds the radius and two-fifths the mass. As a result, both worlds have an unusually long rotational period of 65.784 hours. Three moons, the Three Sisters, orbit the Ecumene-Maranthisa barycenter, which is located one-sixth of the distance between them.
 
