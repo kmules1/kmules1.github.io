@@ -507,7 +507,9 @@ The Imperium has had a global influence in the Ecumene due to its large area, it
 
 ## The Dattanese Kingdoms
 
-The Dattanese Kingdoms cover a large region northwest of the Greater Imperium, centered on the tropical Dattanese Islands and covering a cultural zone that stretches from Shashanka in the southeast to Samatat in the northwest and beyond. Many of the royal families trace their lineage, real or fictive, back to semilegendary Kings of Joidakhoni.
+The Dattanese Kingdoms cover a large region northwest of the Greater Imperium, centered on the tropical Dattanese Islands and covering a cultural zone that stretches from Shashanka in the southeast to Samatat in the northwest and beyond. Many of the royal families trace their lineage, real or fictive, back to semilegendary Kings of Joidakhoni, and the most powerful rulers compete to claim the kingship of Joidakhoni itself, despite the city having fallen to ruin many centuries ago. Despite the tightly-shared cultural and political package, the Dattanese Kingdoms are linguistically diverse (though they do share a ceremonial language, Dinnam).
+
+The current hegemon among the Dattanese Kingdoms is Borey, King of Añjan, of Joidakhoni, and of the Four Corners.
 
 ## The Fourteen of Greenstone
 
