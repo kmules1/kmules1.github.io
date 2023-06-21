@@ -225,7 +225,7 @@ The Elder Sister's orbital period is precisely 5.6 days on the Ecumene, and is u
 
 ### Regions of the Ecumene
 
-Six major continents, four minor continents, and countless islands. Most of the Ecumene's dry land is located in the southern hemisphere, with the northern hemisphere dominated by a massive ocean.
+Ten major continents, eight minor continents, and countless islands. Most of the Ecumene's dry land is located in the southern hemisphere, with the northern hemisphere dominated by a massive ocean.
 
 ### Thinking Kinds
 
@@ -242,10 +242,10 @@ Types of Thinking Kinds:
 
 ### Major Polities
 
-One of the most significant polities within human history has been the Imperium, a state which, at its peak, dominated two continents and whose cultural influence reached five. In the current year of *7130*{: .ae}, the Imperium itself is significantly smaller but continues to be a center of cultural, political, and economic influence; areas touched by its influence and/or rule over the centuries continue to be governed in a manner emulating the Imperium, and this larger region is referred to as the Greater Imperium.
+One of the most significant polities within human history has been the Imperium, a state which, at its peak, dominated three major continents and whose cultural influence reached five. In the current year of *7130*{: .ae}, the Imperium itself is significantly smaller but continues to be a center of cultural, political, and economic influence; areas touched by its influence and/or rule over the centuries continue to be governed in a manner emulating the Imperium, and this larger region is referred to as the Greater Imperium.
 
 Other major polities include:
-- The Fourteen of Greenstone, an elven confederacy with a consociational mode of government designed mostly to regulate its intense internal divisions, prevent general conflict, and maintain elven authority on the continent in the face of intrusive settlement by other thinking kinds
+- The Fourteen of Greenstone, an elven confederacy with a consociational mode of government designed mostly to regulate its intense internal divisions, prevent general conflict, and maintain elven authority on the continent of Pandion in the face of intrusive settlement by other thinking kinds
 - The Kimmuy Corsairs, a multiethnic and multispecies seagoing people who alternatingly raid, settle, and rule the various islands and coastal communities of the Sea of Dayan. Particularly adventurous raiders have been known to enter the Inland Sea.
 
 ### History
@@ -501,6 +501,13 @@ The Imperium has had a global influence in the Ecumene due to its large area, it
 
 ### Philosophy & Traditions
 
+**'Ima** is the majority belief system within the Greater Imperium.
+
+Its roots are found southeast of the Encircled Sea, among the Sweyriet; it began to enter mainstream society once the Sweyriet began to be recruited as auxiliaries into the army. Their religious practices, called *'Ima* ("Veneration") or *'Ima tal-Iva* ("Veneration of the Iva"), influenced and was influenced by the religious and philosophical milieu of the Imperium to produce the form it has taken in its present day. With the Autocrators as a consistent benefactor since the late High Imperium, 'Ima has become well-integrated into the social fabric all across the Greater Imperium.
+
+In spite of this, folk practices persist, either having absorbed some aspects of 'Ima or having reformulated themselves in opposition to it.
+
+
 ### Government
 
 ### Currency
@@ -513,8 +520,8 @@ The current hegemon among the Dattanese Kingdoms is Borey, King of Añjan, of Jo
 
 ## The Fourteen of Greenstone
 
-A major polity to the northeast of the Greater Imperium, centered on the continent of the Holy Greenstone. Having established an enforced peace between the great houses located therein, the Elves of the Holy Greenstone have seen themselves as preservers of what remains of Classical Elven society. Much of the continent that isn't settled by the Elves themselves is protected and controlled by the Fourteen Houses, who magically enhance the wildlife so that it may act as a deterrent against attempts to settle it by Humans or the other Thinking Kinds. Enclave settlements are tolerated at key places along the coast; in these port towns, the various Thinking Kinds live amongst one another with some limited self government under the watchful eye of overseers that serve the Fourteen.
+A major polity to the northeast of the Greater Imperium, centered on the continent of Pandion, which they call the Holy Greenstone. Having established an enforced peace between the great houses located therein, the Elves in Pandion see themselves as preservers of what remains of Classical Elven society. Much of the continent not organized into Elven settlements acts as a wildlife preserve, with magical enhancements to deter attempts to settle it by the other Thinking Kinds. Coastal enclaves have, however, been granted; in these port towns, the various Thinking Kinds live amongst one another with some limited self government under the watchful eye of overseers that serve the Fourteen.
 
-To the east of the Holy Greenstone is an island group dominated by the island of Dawncloud. The Fourteen maintain hegemony over this territory, but do not rule it directly. As a result, it is highly influenced by the culture and practices of the Fourteen, and the Elven houses hold domains there, but it is much more heavily settled by Humans and others. Conflict between the different groups is endemic, and some blame the Fourteen for having a role in this. Despite this, its people are relatively free, as the Fourteen have regularly imposed peace upon the islands when conflict spirals out of control.
+East of Pandion stretches an island group dominated by the island of Dawncloud. The Fourteen maintain hegemony over this territory, but do not rule it directly. As a result, it is highly influenced by the culture and practices of the Fourteen, and the Elven houses do hold domains there, but it is much more heavily settled by the other Thinking Kinds. Conflict between the different groups is endemic, and some blame the Fourteen for having a role in this. Despite this, its people are relatively free, as the Fourteen have regularly frozen conflict when it spirals out of control.
 
 ### Elven Houses
