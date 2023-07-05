@@ -152,6 +152,10 @@ main h2 {
 	margin-block-start:			2em;
 	margin-inline:				-4ch;
 	border-block-start:			1px solid $highlighta;
+	position:					sticky;
+	top:						0;
+	background-color:			white;
+	z-index:					1;
 }
 main h2:before {
 	display:					block;
@@ -161,6 +165,9 @@ main h2:before {
 main h3 {
 	display:					grid;
 	grid-template-columns:		1fr auto;
+}
+main h3 a {
+	display:					none;
 }
 
 em.ae {
