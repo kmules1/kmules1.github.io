@@ -495,7 +495,9 @@ The primary calendar era of the Civic Calendar is Years *ab Egressu*, i.e. "Sinc
 
 ## The Greater Imperium
 
-The Imperium has had a global influence in the Ecumene due to its large area, its position in global sea trade, and its extensive history and staying power throughout the centuries. By the present day (*7130*{: .ae}), its cultural sphere has expanded well beyond the territory held by the Imperium proper or even that within its largest territorial extent. The Imperium serves as the model for a state across five continents, and elites throughout this outer sphere look to the core of the Imperial sphere for cultural signifiers.
+The Imperium has had a global influence in the Ecumene due to its large area, its position in global sea trade, and its extensive history and staying power throughout the centuries. At its height, it held unmatchable power over three continents (Thrasu, Acaman, and Agelae) and a strong cultural influence in five more (the Two Daiphrons, Idan, Ctesia, Thoan, and Euchenor). By the present day (*7130*{: .ae}), its political ambitions have become more modest, having retreated to its imperial core and western territories. Within that space, dozens of successor states have come into existence, replicating Imperial forms and expanding them to new territories beyond the High Imperium's footprint.
+
+The Imperium serves as the model for a state across nine continents, and elites throughout this outer sphere look to the core of the Imperial sphere for cultural signifiers.
 
 ### Social Class
 
