@@ -499,7 +499,7 @@ The Imperium has had a global influence in the Ecumene due to its large area, it
 
 The Imperium serves as the model for a state across nine continents, and elites throughout this outer sphere look to the core of the Imperial sphere for cultural signifiers.
 
-### Social Class
+### Society
 
 ### Philosophy & Traditions
 
@@ -513,6 +513,14 @@ In spite of this, folk practices persist, either having absorbed some aspects of
 ### Government
 
 ### Currency
+
+### Independent States
+
+In the years since the High Imperium, its territorial extent has dramatically shrunk back towards its core territory. The areas lost, however, continued to maintain strong cultural affinity with the Imperium, identifying themselves as co-inheritors of its culture and maintaining a political structure and culture modeled after the Imperium. Some have also sought Imperial favor when coming into conflict with its neighbors, as the current Imperium remains hegemonic within the overall region.
+
+#### Mayence
+
+Mayence is a state located on the northeast end of the Encircled Sea and immediately south of the Pact Lands. Its main territory is the land surrounding the Bay of Axiere, which allows Mayence to act as a major center of trade and to control the mouth of the Encircled Sea. It also controls an area it calls New Mayence (the lands around the bay being Old Mayence) to the west, dominated by the cities of Carrege, Trere, and Simbrile.
 
 ## The Dattanese Kingdoms
 
