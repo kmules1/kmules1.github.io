@@ -14,7 +14,13 @@ Key concepts behind designing The Ecumene:
 - low fantasy, with casting ability confined to certain ancestries and heritages
 - relics of advanced technology from an ancient non-human civilization
 
-## The Ador-Ayn Star System
+## Cosmology
+
+The Ecumene is located within a binary star system (Ador and Ayn). Each star has its own planetary system (the Ecumene orbits Ador). Due to eccentricity, stable orbits are limited to within each star's frost line. Well beyond the two stars is an immense cloud of asteroids and cometary material. Gravitational perburbations from the two stars' eccentricity redirect comets into the inner system.
+
+Ador and Ayn have an orbital period of 96.26 Ecumene years and an orbital eccentricity of 0.52. From the perspective of the Ecumene, Ayn is an especially bright wandering star, which grows as the stars approach periastron to become a faint junior sun that contributes as much light as a decent indoor lamp. During periastron, prevailing weather patterns become distorted due to the additional solar radiation received.
+
+### The Ador-Ayn Star System
 
 <ul class="tree">
 	<li><a style="font-weight:bold">Ador-Ayn System</a>
@@ -190,11 +196,7 @@ Key concepts behind designing The Ecumene:
 	</li>
 </ul>
 
-The Ecumene is located within a binary star system. Each star has its own planetary system. Due to eccentricity, stable orbits are limited to within each star's frost line. Well beyond the two stars is an immense cloud of asteroids and cometary material. Gravitational perburbations from the two stars' eccentricity redirect comets into the inner system.
-
-Ador and Ayn have an orbital period of 96.26 Ecumene years and an orbital eccentricity of 0.52. From the perspective of the Ecumene, Ayn is an especially bright wandering star, which grows as the stars approach periastron to become a faint junior sun that contributes as much light as a decent indoor lamp. During periastron, prevailing weather patterns become distorted due to the additional solar radiation received.
-
-## The Ecumene
+### The Ecumene
 
 The Ecumene is a habitable world, second in orbit around its star, and the primary world of this setting.
 
@@ -223,7 +225,9 @@ The three moons of Ecumene-Maranthisa are in orbital resonance with one another.
 
 The Elder Sister's orbital period is precisely 5.6 days on the Ecumene, and is used as the basis for the month in most calendars.
 
-### Regions of the Ecumene
+## Life on the Ecumene
+
+### Geography
 
 Ten major continents, eight minor continents, and countless islands. Most of the Ecumene's dry land is located in the southern hemisphere, with the northern hemisphere dominated by a massive ocean.
 
@@ -240,6 +244,14 @@ Types of Thinking Kinds:
 * Goblinkind, who claim to be indigenous to the Ecumene and are known for their invasiveness, disgusting habits, and talent for trouble.
 * Koboldkind, who originate from Ninurta, and are known for their cautiousness, devoted, and resilient.
 
+### History
+
+The history of the Ecumene is commonly divided into two periods: the Era of Elves and the Era of Humanity.
+
+The former is a primordial period for the Ecumene, during which the Elves established their own global civilization, then bridged the distance between planets and taught civilization to the peoples of the worlds. Its high period ended in a sudden cataclysm, which forced the survivors to colonize the Ecumene more intensely. In doing so, the Elves further accelerated the civilizing of humanity and paved the road for their own displacement by the realms of mankind.
+
+The latter is the time period in which humanity took control of the tools of civilization and built their own realms; in doing so, they forced the Elves into enclaves where humanity could not establish a foothold. The early period of this era is marked by the rise and fall of warlords and petty kingdoms; the latter is dominated by the rise and eventual decline of the Imperium as well as similar patterns elsewhere on the Ecumene.
+
 ### Major Polities
 
 One of the most significant polities within human history has been the Imperium, a state which, at its peak, dominated three major continents and whose cultural influence reached five. In the current year of *7130*{: .ae}, the Imperium itself is significantly smaller but continues to be a center of cultural, political, and economic influence; areas touched by its influence and/or rule over the centuries continue to be governed in a manner emulating the Imperium, and this larger region is referred to as the Greater Imperium.
@@ -248,19 +260,11 @@ Other major polities include:
 - The Fourteen of Greenstone, an elven confederacy with a consociational mode of government designed mostly to regulate its intense internal divisions, prevent general conflict, and maintain elven authority on the continent of Pandion in the face of intrusive settlement by other thinking kinds
 - The Kimmuy Corsairs, a multiethnic and multispecies seagoing people who alternatingly raid, settle, and rule the various islands and coastal communities of the Sea of Dayan. Particularly adventurous raiders have been known to enter the Inland Sea.
 
-### History
-
-The history of the Ecumene is commonly divided into two periods: the Era of Elves and the Era of Humanity.
-
-The former is a primordial period for the Ecumene, while the Elves established their own global civilization, then bridged the distance between planets and taught civilization to the peoples of the worlds. Its high period ended in a sudden cataclysm, which forced the survivors to colonize the Ecumene more intensely. In doing so, the Elves further accelerated the civilizing of humanity and paved the road for their own displacement by the realms of mankind.
-
-The latter is the time period in which humanity took control of the tools of civilization and built their own realms; in doing so, they forced the Elves into enclaves where humanity could not establish a foothold. The early period of this era is marked by the rise and fall of warlords and petty kingdoms; the latter is dominated by the rise and eventual decline of the Imperium as well as similar patterns elsewhere on the Ecumene.
-
-## Calendars
+### Calendars
 
 The Civic Calendar, which was established during the High Imperium, remains in use across much of the Ecumene. 
 
-### Mechanics
+#### Mechanics
 
 Due to the Ecumene’s distinct cosmological arrangement, the Civic Calendar does not count days but rather quarter-days:
 - Forenoon (dawn to zenith)
@@ -271,15 +275,15 @@ Due to the Ecumene’s distinct cosmological arrangement, the Civic Calendar doe
 Instead of a year of 108.65 days, the Civic Calendar has a year of **434.61 quarter-days**. These quarter-days are organized into 19 months of between 22 (called "hollow" months) and 23 (called "full" months) quarter-days, in accordance with the movement of the Ecumene’s second moon, the Elder Sister. Since the Elder Sister’s orbital period is precisely 22.4 quarters (due to orbital resonance), month length follows a 5-month cycle, called a Quinary: 2 hollow, 1 full, 1 hollow, 1 full.
 This results in a calendar of 425 quarter-days to form a "common year". This is 9.61 quarter-days shorter than the solar year, and so an additional leap month is added regularly to form a 20-month "long year". The leap month is the last month repeated twice, with festivals celebrated on its second iteration. Due to the combination of the Quinary cycle and the Leap Year cycle, there are ten different possible arrangements for a given year. As a result, any given year can be described as a combination of where in the Quinary it begins (1, 2, 3, 4, 5) and whether that year is common or long.
 
-### Indiction
+#### Indiction
 
 During the height of the empire, the imperial administration maintained a 16-year indiction cycle, used to track the reassessment of taxation rates on land et al. and later extended to include other civil service documentation. Following the Late Imperium Period, the indiction was only retained within the imperial core and eventually dropped during the reforms that began the Post-Imperium Period.
 
-### Calendar Eras
+#### Calendar Eras
 
 The primary calendar era of the Civic Calendar is Years *ab Egressu*, i.e. "Since the Landing". This calendar era was calculated using elven historical accounts that were still available at the dawn of the High Imperium, and it counts the years since the Elves landed on the Ecumene and began to teach humanity about civilization. Use of this calendar era is relegated to the inner sphere of the Greater Imperium, but may be comprehensible by scholars, merchants, and state officials well beyond this area; it may also be supplemented or displaced by a local, more culturally salient calendar era.
 
-### Civic Calendar, *7130*{: .ae } (Type 1, Common)
+#### Civic Calendar, *7130*{: .ae } (Type 1, Common)
 
 <fieldset>
 	<table>
