@@ -1,6 +1,6 @@
 ---
 layout: ecumene2
-title: Part One: Overview
+title: Part 1. Overview
 ---
 
 ## Introduction
