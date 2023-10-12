@@ -31,6 +31,8 @@ $red:							#CF3A24;		//	緋		Ake			Scarlet (blood)
 	--white:					#FFF;
 	
 	font-family:				'Golden Type';
+	font-size:					16px;
+	font-size:					2vw;
 	line-height:				1.5;
 }
 
@@ -49,7 +51,7 @@ body {
 }
 
 body > * {
-	max-width:					80ch;
+	max-width:					40rem;
 	margin-inline:				auto;
 }
 
@@ -146,22 +148,24 @@ main {
 }
 main h2 {
 	counter-increment:			headers;
-	display:					flex;
-	flex-direction:				row;
-	justify-content:			flex-start;
-	margin-inline-start:		-3rem;
+	display:					grid;
+	grid-gap:					2rem;
+	grid-template-columns:		2rem 25rem 2rem;
+	margin-inline-start:		-4rem;
 }
 main h2:before {
 	display:					block;
 	content:					counter(headers) ".\00a0";
-	width:						3rem;
 }
-main h2 span {
-	width:						25ch;
+
+main h3 {
+	display:					grid;
+	grid-gap:					2rem;
+	grid-template-columns:		25rem 2rem;
 }
 
 main p,main ul {
-	max-width:					50ch;
+	max-width:					25rem;
 	text-align:					justify;
 	list-style:					none;
 	padding-left:				0;
@@ -183,7 +187,7 @@ main ul li::before {
 aside.sidebox {
 	display:					block;
 	float:						right;
-	min-width:					30ch;
+	min-width:					10rem;
 	clear:						both;
 	margin-block-end:			2rem;
 	margin-inline-start:		2rem;
@@ -202,7 +206,6 @@ aside.sidebox h5 {
 
 aside.sidebox p {
 	color:						var(--red);
-	width:						30ch;
 }
 
 aside.sidebox dl {
