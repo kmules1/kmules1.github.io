@@ -74,9 +74,20 @@ header subtitle-block {
 	text-align-last:		justify;
 }
 
-main p,main li {
+main p,main ul {
 	max-width:				50ch;
 	text-align:				justify;
+	list-style:				none;
+	padding-left:			0;
+}
+
+main ul li::before {
+	content:				"\25C6";
+	color:					var(--red);
+	display:				inline-block;
+	width:					2em;
+	margin-left:			-2em;
+	font-size:				0.75em;
 }
 
 main aside {
@@ -161,8 +172,7 @@ a:hover {
 }
 #toc li {
 	display:					grid;
-	grid-template-columns:		3rem auto;
-	grid-column-gap:			2rem;
+	grid-template-columns:		2rem auto;
 	grid-template-areas:		"counter link";
 }
 #toc li:before {
@@ -184,7 +194,7 @@ a:hover {
 	counter-increment:			toc-headers;	
 }
 #toc > ul > li:before {
-	content:					counter(toc-headers, decimal-leading-zero);
+	content:					counter(toc-headers);
 }
 
 
@@ -203,7 +213,7 @@ main h2 {
 }
 main h2:before {
 	display:					block;
-	content:					counter(headers) ". ";
+	content:					counter(headers) ".\00a0";
 }
 main h2 a.to-top {
 	padding-left:				1rem;
