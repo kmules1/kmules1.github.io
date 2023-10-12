@@ -1,5 +1,5 @@
 ---
-layout: ecumene
+layout: ecumene2
 title: The Ecumene
 subtitle: A worldbuilding exercise intended to serve as a low-fantasy TTRPG setting.
 ---

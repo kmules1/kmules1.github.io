@@ -1,0 +1,221 @@
+---
+---
+												
+$white:							#fff;			//	https://w.wiki/_7gc
+$black:							#111419;		//	憲法染	Kenpōzome	Legal dye
+$grey:							#e7e6d6;		//	same as above at 0.1 opacity
+$red:							#e7442a;		//	緋		Ake			Scarlet (blood)
+
+@import "normalize";
+
+/*
+ *	FONTS
+ */
+@font-face {
+	font-family:	'Golden Type';
+	src:			url(fonts/Golden_Type_ITC_Std_Regular.otf);
+}
+@font-face {
+	font-family:	'Offenbacher Schwabacher CAT';
+	src:			url(fonts/offenbacherschwabachercat.regular.ttf);
+}
+
+/*
+ *	GLOBAL
+ */
+
+:root {
+	--red:					$red;
+	--black:				$black;
+	--grey:					$grey;
+	--white:				$white;
+	
+	font-family:			'Golden Type';
+	line-height:			1.5;
+}
+
+h1, h2, h3, h4 {
+	color:					var(--red);
+}
+h1 {	font-size:			2.25em;	}
+h2 {	font-size:			2em;	}
+h3 {	font-size:			1.5em;	}
+h4 {	font-size:			1.25em;	}
+h5 {	font-size:			1em;	}
+
+body {
+	background-color:		var(--white);
+	color:					var(--black);
+}
+
+body > * {
+	max-width:				80ch;
+	margin-inline:			auto;
+}
+
+header {
+	border-bottom:			1px solid var(--red);
+}
+
+header title-block {
+	display:				block;
+	font-family:			'Offenbacher Schwabacher CAT';
+	font-size:				7rem;
+	color:					var(--red);
+	text-align:				center;
+	line-height:			1;
+}
+
+header subtitle-block {
+	display:				block;
+	width:					80%;
+	margin:					auto;
+	width:					80%;
+	text-align-last:		justify;
+}
+
+main p,main li {
+	max-width:				50ch;
+	text-align:				justify;
+}
+
+main aside {
+	display:				block;
+	float:					right;
+	min-width:				30ch;
+	clear:					both;
+	margin-block-end:		2rem;
+	margin-inline-start:	2rem;
+	font-size:				0.8rem;
+}
+
+main aside.table {
+	border:					1px dotted var(--black);
+	padding:				1rem;
+	background-color:		var(--grey);
+}
+
+main aside h5 {
+	margin:					0;
+}
+
+main aside p {
+	color:					var(--red);
+	width:					30ch;
+}
+
+main aside dl {
+	display:				grid;
+	grid-template-columns:	1fr auto;
+}
+main aside dt {
+	grid-column:			1/2;
+}
+main aside dd {
+	grid-column:			2/3;
+	margin:					0;
+	color:					var(--red);
+}
+
+main aside caption {
+	font-weight:			bold;
+	padding-block-end:		1rem;
+}
+main aside th {
+	text-align:				left;
+}
+main aside td {
+	color:					var(--red);
+}
+main aside td:first-of-type {
+	white-space:			nowrap;
+	color:					unset;
+}
+
+
+
+
+
+a {
+	color:						var(--red);
+	text-decoration-color:		var(--black);
+	text-underline-offset:		.05em;
+	transition:					all 0.25s;
+}
+a:hover {
+	color:						var(--black);
+	text-decoration-color:		var(--red);
+	text-underline-offset:		.125em;
+}
+
+/*
+ *	TABLE OF CONTENTS
+ */
+
+#toc {
+	//margin-inline-start:		2em;
+}
+#toc ul {
+	padding-left:				unset;
+	grid-column:				1 / 3;
+}
+#toc li {
+	display:					grid;
+	grid-template-columns:		3rem auto;
+	grid-column-gap:			2rem;
+	grid-template-areas:		"counter link";
+}
+#toc li:before {
+	display:					block;
+	grid-area:					counter;
+}
+#toc a {
+	grid-area:					link;
+}
+#toc ul ul a {
+	padding-left:				1em;
+	font-style:					italic;
+}
+
+#toc > ul {
+	counter-reset:				toc-headers;
+}
+#toc > ul > li {
+	counter-increment:			toc-headers;	
+}
+#toc > ul > li:before {
+	content:					counter(toc-headers, decimal-leading-zero);
+}
+
+
+/*
+ *	MAIN BODY
+ */
+
+main {
+	counter-reset: 				headers;
+}
+
+main h2:before {
+	display:					block;
+	content:					counter(headers) ". ";
+}
+
+
+em.ae {
+	font-variant:				small-caps;
+}
+
+/* CALENDAR */
+
+fieldset {
+	display:					grid;
+	grid-template-columns:		1fr 1fr 1fr 1fr 1fr;
+	padding:					0;
+	border-style:				none;
+	grid-gap:					1em;
+	font-size:					smaller;
+}
+fieldset th, fieldset td {
+	text-align:					right;
+}
