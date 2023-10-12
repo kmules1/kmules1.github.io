@@ -53,6 +53,30 @@ body > * {
 	margin-inline:			auto;
 }
 
+a {
+	color:						var(--red);
+	text-decoration-color:		var(--black);
+	text-underline-offset:		.05em;
+	transition:					all 0.25s;
+}
+a:hover {
+	color:						var(--black);
+	text-decoration-color:		var(--red);
+	text-underline-offset:		.125em;
+}
+
+a.to-top {
+	padding-left:				1rem;
+	text-decoration:			none;
+}
+
+em.ae {
+	font-variant:				small-caps;
+}
+
+/*
+ *	HEADER
+ */
 header {
 	border-bottom:			1px solid var(--red);
 }
@@ -72,91 +96,6 @@ header subtitle-block {
 	margin:					auto;
 	width:					80%;
 	text-align-last:		justify;
-}
-
-main p,main ul {
-	max-width:				50ch;
-	text-align:				justify;
-	list-style:				none;
-	padding-left:			0;
-}
-
-main ul li::before {
-	content:				"\25C6";
-	color:					var(--red);
-	display:				inline-block;
-	width:					2em;
-	margin-left:			-2em;
-	font-size:				0.75em;
-}
-
-main aside {
-	display:				block;
-	float:					right;
-	min-width:				30ch;
-	clear:					both;
-	margin-block-end:		2rem;
-	margin-inline-start:	2rem;
-	font-size:				0.8rem;
-}
-
-main aside.table {
-	border:					1px dotted var(--black);
-	padding:				1rem;
-	background-color:		var(--grey);
-}
-
-main aside h5 {
-	margin:					0;
-}
-
-main aside p {
-	color:					var(--red);
-	width:					30ch;
-}
-
-main aside dl {
-	display:				grid;
-	grid-template-columns:	1fr auto;
-}
-main aside dt {
-	grid-column:			1/2;
-}
-main aside dd {
-	grid-column:			2/3;
-	margin:					0;
-	color:					var(--red);
-}
-
-main aside caption {
-	font-weight:			bold;
-	padding-block-end:		1rem;
-}
-main aside th {
-	text-align:				left;
-}
-main aside td {
-	color:					var(--red);
-}
-main aside td:first-of-type {
-	white-space:			nowrap;
-	color:					unset;
-}
-
-
-
-
-
-a {
-	color:						var(--red);
-	text-decoration-color:		var(--black);
-	text-underline-offset:		.05em;
-	transition:					all 0.25s;
-}
-a:hover {
-	color:						var(--black);
-	text-decoration-color:		var(--red);
-	text-underline-offset:		.125em;
 }
 
 /*
@@ -194,9 +133,8 @@ a:hover {
 	counter-increment:			toc-headers;	
 }
 #toc > ul > li:before {
-	content:					counter(toc-headers);
+	content:					counter(toc-headers) ".\00a0";
 }
-
 
 /*
  *	MAIN BODY
@@ -215,16 +153,83 @@ main h2:before {
 	display:					block;
 	content:					counter(headers) ".\00a0";
 }
-main h2 a.to-top {
-	padding-left:				1rem;
+
+main p,main ul {
+	max-width:				50ch;
+	text-align:				justify;
+	list-style:				none;
+	padding-left:			0;
 }
 
-
-em.ae {
-	font-variant:				small-caps;
+main ul li::before {
+	content:				"\25C6";
+	color:					var(--red);
+	display:				inline-block;
+	width:					2em;
+	margin-left:			-2em;
+	font-size:				0.75em;
 }
 
-/* CALENDAR */
+/*
+ *	SIDEBOX
+ */
+
+aside.sidebox {
+	display:				block;
+	float:					right;
+	min-width:				30ch;
+	clear:					both;
+	margin-block-end:		2rem;
+	margin-inline-start:	2rem;
+	font-size:				0.8rem;
+}
+
+aside.sidebox.table {
+	border:					1px dotted var(--black);
+	padding:				1rem;
+	background-color:		var(--grey);
+}
+
+aside.sidebox h5 {
+	margin:					0;
+}
+
+aside.sidebox p {
+	color:					var(--red);
+	width:					30ch;
+}
+
+aside.sidebox dl {
+	display:				grid;
+	grid-template-columns:	1fr auto;
+}
+aside.sidebox dt {
+	grid-column:			1/2;
+}
+aside.sidebox dd {
+	grid-column:			2/3;
+	margin:					0;
+	color:					var(--red);
+}
+
+aside.sidebox caption {
+	font-weight:			bold;
+	padding-block-end:		1rem;
+}
+aside.sidebox th {
+	text-align:				left;
+}
+aside.sidebox td {
+	color:					var(--red);
+}
+aside.sidebox td:first-of-type {
+	white-space:			nowrap;
+	color:					unset;
+}
+
+/*
+ *	CALENDAR
+ */
 
 fieldset {
 	display:					grid;

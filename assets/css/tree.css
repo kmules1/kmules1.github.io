@@ -23,6 +23,8 @@
     border-radius:0 0 0 0px;
     width:1em;
     height:1em;
+	margin-left: 0;
+	font-size: 1em;
 }
 
 .tree li::after {
@@ -58,6 +60,7 @@ ul.tree>li:first-child::after {
     border-radius: 5px;
     padding:2px 5px;
 	text-decoration: none;
+	color: var(--black);
 }
 
 .tree li a:hover, .tree li a:focus {

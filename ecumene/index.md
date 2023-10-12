@@ -197,6 +197,34 @@ Ador and Ayn have an orbital period of 96.26 Ecumene years and an orbital eccent
 
 ### The Ecumene
 
+<aside>
+	<h5>Orbital Characteristics</h5>
+	<dl>
+		<dt>Semi-Major Axis</dt>
+		<dd>0.83 AU</dd>
+		<dt>Eccentricity</dt>
+		<dd>0.0167</dd>
+		<dt>Orbital Period</dt>
+		<dd>0.815 years<sub>🜨</sub></dd>
+		<dd>108.65 days<sub>œ</sub></dd>
+	</dl>
+</aside>
+
+<aside>
+	<h5>Physical Characteristics</h5>
+	<dl>
+		<dt>Mass</dt>
+		<dd>0.471 M<sub>🜨</sub></dd>
+		<dt>Radius</dt>
+		<dd>0.766 R<sub>🜨</sub></dd>
+		<dd>4880km</dd>
+		<dt>Gravity</dt>
+		<dd>0.803g</dd>
+		<dt>Obliquity</dt>
+		<dd>26.19°</dd>
+	</dl>
+</aside>
+
 The Ecumene is a habitable world, second in orbit around its star, and the primary world of this setting.
 
 Its surface is predominantly ocean, which takes up eight-ninths of its surface area. Additionally, due the distribution of land, largescale arid and semi-arid biomes are relatively rare. As a result, from space, it looks like a blue marble enveloped by wispy white clouds.
