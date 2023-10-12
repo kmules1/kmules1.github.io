@@ -12,12 +12,12 @@ $red:							#CF3A24;		//	緋		Ake			Scarlet (blood)
  *	FONTS
  */
 @font-face {
-	font-family:	'Golden Type';
-	src:			url(../fonts/Golden_Type_ITC_Std_Regular.otf);
+	font-family:				'Golden Type';
+	src:						url(../fonts/Golden_Type_ITC_Std_Regular.otf);
 }
 @font-face {
-	font-family:	'Offenbacher Schwabacher CAT';
-	src:			url(../fonts/offenbacherschwabachercat.regular.ttf);
+	font-family:				'Offenbacher Schwabacher CAT';
+	src:						url(../fonts/offenbacherschwabachercat.regular.ttf);
 }
 
 /*
@@ -25,32 +25,32 @@ $red:							#CF3A24;		//	緋		Ake			Scarlet (blood)
  */
 
 :root {
-	--red:					#CF3A24;
-	--black:				#2E211B;
-	--grey:					#2E211B1A;
-	--white:				#FFF;
+	--red:						#CF3A24;
+	--black:					#2E211B;
+	--grey:						#2E211B1A;
+	--white:					#FFF;
 	
-	font-family:			'Golden Type';
-	line-height:			1.5;
+	font-family:				'Golden Type';
+	line-height:				1.5;
 }
 
 h1, h2, h3, h4 {
-	color:					var(--red);
+	color:						var(--red);
 }
-h1 {	font-size:			2.25em;	}
-h2 {	font-size:			2em;	}
-h3 {	font-size:			1.5em;	}
-h4 {	font-size:			1.25em;	}
-h5 {	font-size:			1em;	}
+h1 {	font-size:				2.25em;	}
+h2 {	font-size:				2em;	}
+h3 {	font-size:				1.5em;	}
+h4 {	font-size:				1.25em;	}
+h5 {	font-size:				1em;	}
 
 body {
-	background-color:		var(--white);
-	color:					var(--black);
+	background-color:			var(--white);
+	color:						var(--black);
 }
 
 body > * {
-	max-width:				80ch;
-	margin-inline:			auto;
+	max-width:					80ch;
+	margin-inline:				auto;
 }
 
 a {
@@ -77,25 +77,26 @@ em.ae {
 /*
  *	HEADER
  */
+
 header {
-	border-bottom:			1px solid var(--red);
+	border-bottom:				1px solid var(--red);
 }
 
 header title-block {
-	display:				block;
-	font-family:			'Offenbacher Schwabacher CAT';
-	font-size:				7rem;
-	color:					var(--red);
-	text-align:				center;
-	line-height:			1;
+	display:					block;
+	font-family:				'Offenbacher Schwabacher CAT';
+	font-size:					7rem;
+	color:						var(--red);
+	text-align:					center;
+	line-height:				1;
 }
 
 header subtitle-block {
-	display:				block;
-	width:					80%;
-	margin:					auto;
-	width:					80%;
-	text-align-last:		justify;
+	display:					block;
+	width:						80%;
+	margin:						auto;
+	width:						80%;
+	text-align-last:			justify;
 }
 
 /*
@@ -148,26 +149,31 @@ main h2 {
 	display:					flex;
 	flex-direction:				row;
 	justify-content:			flex-start;
+	margin-inline-start:		-3rem;
 }
 main h2:before {
 	display:					block;
 	content:					counter(headers) ".\00a0";
+	width:						3rem;
+}
+main h2 span {
+	width:						25ch;
 }
 
 main p,main ul {
-	max-width:				50ch;
-	text-align:				justify;
-	list-style:				none;
-	padding-left:			0;
+	max-width:					50ch;
+	text-align:					justify;
+	list-style:					none;
+	padding-left:				0;
 }
 
 main ul li::before {
-	content:				"\25C6";
-	color:					var(--red);
-	display:				inline-block;
-	width:					2em;
-	margin-left:			-2em;
-	font-size:				0.75em;
+	content:					"\25C6";
+	color:						var(--red);
+	display:					inline-block;
+	width:						2em;
+	margin-left:				-2em;
+	font-size:					0.75em;
 }
 
 /*
@@ -175,56 +181,56 @@ main ul li::before {
  */
 
 aside.sidebox {
-	display:				block;
-	float:					right;
-	min-width:				30ch;
-	clear:					both;
-	margin-block-end:		2rem;
-	margin-inline-start:	2rem;
-	font-size:				0.8rem;
+	display:					block;
+	float:						right;
+	min-width:					30ch;
+	clear:						both;
+	margin-block-end:			2rem;
+	margin-inline-start:		2rem;
+	font-size:					0.8rem;
 }
 
 aside.sidebox.table {
-	border:					1px dotted var(--black);
-	padding:				1rem;
-	background-color:		var(--grey);
+	border:						1px dotted var(--black);
+	padding:					1rem;
+	background-color:			var(--grey);
 }
 
 aside.sidebox h5 {
-	margin:					0;
+	margin:						0;
 }
 
 aside.sidebox p {
-	color:					var(--red);
-	width:					30ch;
+	color:						var(--red);
+	width:						30ch;
 }
 
 aside.sidebox dl {
-	display:				grid;
-	grid-template-columns:	1fr auto;
+	display:					grid;
+	grid-template-columns:		1fr auto;
 }
 aside.sidebox dt {
-	grid-column:			1/2;
+	grid-column:				1/2;
 }
 aside.sidebox dd {
-	grid-column:			2/3;
-	margin:					0;
-	color:					var(--red);
+	grid-column:				2/3;
+	margin:						0;
+	color:						var(--red);
 }
 
 aside.sidebox caption {
-	font-weight:			bold;
-	padding-block-end:		1rem;
+	font-weight:				bold;
+	padding-block-end:			1rem;
 }
 aside.sidebox th {
-	text-align:				left;
+	text-align:					left;
 }
 aside.sidebox td {
-	color:					var(--red);
+	color:						var(--red);
 }
 aside.sidebox td:first-of-type {
-	white-space:			nowrap;
-	color:					unset;
+	white-space:				nowrap;
+	color:						unset;
 }
 
 /*

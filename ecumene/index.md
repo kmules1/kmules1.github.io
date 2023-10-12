@@ -197,7 +197,7 @@ Ador and Ayn have an orbital period of 96.26 Ecumene years and an orbital eccent
 
 ### The Ecumene
 
-<aside>
+<aside class="sidebox">
 	<h5>Orbital Characteristics</h5>
 	<dl>
 		<dt>Semi-Major Axis</dt>
@@ -210,7 +210,7 @@ Ador and Ayn have an orbital period of 96.26 Ecumene years and an orbital eccent
 	</dl>
 </aside>
 
-<aside>
+<aside class="sidebox">
 	<h5>Physical Characteristics</h5>
 	<dl>
 		<dt>Mass</dt>
@@ -241,14 +241,36 @@ Reports from the few explorers who had attempted a landing on the post-cataclysm
 
 ### The Three Sisters
 
-The three moons of Ecumene-Maranthisa are in orbital resonance with one another. The largest and closest, called the Elder Sister, is also in orbital resonance with the Ecumene-Maranthisa orbital period, resulting in a complex interaction between the five worlds.
+<aside class="sidebox">
+	<table>
+		<thead>
+			<tr>
+				<th>Relationship</th>
+				<th>Resonance</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Great-Elder</td>
+				<td>5:28</td>
+			</tr>
+			<tr>
+				<td>Elder-Middle</td>
+				<td>9:11</td>
+			</tr>
+			<tr>
+				<td>Elder-Younger</td>
+				<td>6:11</td>
+			</tr>
+			<tr>
+				<td>Middle-Younger</td>
+				<td>2:3</td>
+			</tr>
+		</tbody>
+	</table>
+</aside>
 
-| Relationship   | Resonance |
-|----------------|-----------|
-| Great-Elder    | 5:28      |
-| Elder-Middle   | 9:11      |
-| Elder-Younger  | 6:11      |
-| Middle-Younger | 2:3       |
+The three moons of Ecumene-Maranthisa are in orbital resonance with one another. The largest and closest, called the Elder Sister, is also in orbital resonance with the Ecumene-Maranthisa orbital period, resulting in a complex interaction between the five worlds.
 
 The Elder Sister's orbital period is precisely 5.6 days on the Ecumene, and is used as the basis for the month in most calendars.
 
@@ -544,6 +566,65 @@ In spite of this, folk practices persist, either having absorbed some aspects of
 ### Government
 
 ### Currency
+
+<aside class="sidebox table">
+	<table>
+		<caption>Standard Coins</caption>
+		<thead>
+			
+			<tr>
+				<th>Name</th>
+				<th>Diameter</th>
+				<th>Thickness</th>
+				<th>Mass</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Quarter Dirham</td>
+				<td>9.525mm</td>
+				<td>1.52mm</td>
+				<td>1.12g</td>
+			</tr>
+			<tr>
+				<td>Half Dirham</td>
+				<td>13.47mm</td>
+				<td>1.52mm</td>
+				<td>2.24g</td>
+			</tr>
+			<tr>
+				<td>Dirham</td>
+				<td>19.05mm</td>
+				<td>1.52mm</td>
+				<td>4.48g</td>
+			</tr>
+			<tr>
+				<td>Double Dirham</td>
+				<td>26.94mm</td>
+				<td>1.52mm</td>
+				<td>8.96g</td>
+			</tr>
+			<tr>
+				<td>Quadruple Dirham</td>
+				<td>38.1mm</td>
+				<td>1.52mm</td>
+				<td>17.92g</td>
+			</tr>
+			<tr>
+				<td>Mina (=60 Dr)</td>
+				<td></td>
+				<td></td>
+				<td>268.8g</td>
+			</tr>
+			<tr>
+				<td>Talent (=3600 Dr)</td>
+				<td></td>
+				<td></td>
+				<td>16.13kg</td>
+			</tr>
+		</tbody>
+	</table>
+</aside>
 
 ### Independent States
 

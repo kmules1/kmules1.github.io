@@ -87,7 +87,6 @@ ul.tree>li:first-child::after {
 	display:				inline-block;
 }
 .tree h4 span {
-	margin-inline-start:	1em;
 	font-style:				italic;
 	font-size:				smaller;
 }
