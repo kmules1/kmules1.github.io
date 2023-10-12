@@ -195,10 +195,18 @@ a:hover {
 main {
 	counter-reset: 				headers;
 }
-
+main h2 {
+	counter-increment:			headers;
+	display:					flex;
+	flex-direction:				row;
+	justify-content:			flex-start;
+}
 main h2:before {
 	display:					block;
 	content:					counter(headers) ". ";
+}
+main h2 a.to-top {
+	padding-left:				1rem;
 }
 
 
