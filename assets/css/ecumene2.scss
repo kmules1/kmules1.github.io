@@ -2,9 +2,9 @@
 ---
 												
 $white:							#fff;			//	https://w.wiki/_7gc
-$black:							#111419;		//	憲法染	Kenpōzome	Legal dye
-$grey:							#e7e6d6;		//	same as above at 0.1 opacity
-$red:							#e7442a;		//	緋		Ake			Scarlet (blood)
+$black:							#2E211B;		//	憲法染	Kenpōzome	Legal dye
+$grey:							#2E211B1A;		//	same as above at 0.1 opacity
+$red:							#CF3A24;		//	緋		Ake			Scarlet (blood)
 
 @import "normalize";
 
@@ -25,10 +25,10 @@ $red:							#e7442a;		//	緋		Ake			Scarlet (blood)
  */
 
 :root {
-	--red:					$red;
-	--black:				$black;
-	--grey:					$grey;
-	--white:				$white;
+	--red:					#CF3A24;
+	--black:				#2E211B;
+	--grey:					#2E211B1A;
+	--white:				#FFF;
 	
 	font-family:			'Golden Type';
 	line-height:			1.5;
