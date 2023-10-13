@@ -104,17 +104,32 @@ header subtitle-block {
 }
 
 header nav ul {
-	list-style:					none;
 	display:					flex;
 	flex-direction:				row;
 	justify-content:			center;
+	padding-left:				unset;
+	list-style:					none;
 }
-header nav li {
-	padding:					0.25rem;
+
+header nav li + li::before {
+	content:					"\25C6";
+	color:						var(--red);
+	margin-left:				1em;
+	padding-right:				1em;
+}
+
+header nav li a {
+	padding:					0.25em;
+	text-decoration:			none;
 	font-size:					1.25rem;
 }
-header nav li.active {
+
+header nav li.active a {
 	background-color:			var(--red);
+	color:						var(--white);
+}
+header nav li.active a:hover {
+	color:						var(--black);
 }
 
 /*
@@ -122,7 +137,6 @@ header nav li.active {
  */
 
 #toc {
-	margin:						0 4rem 2rem;
 	column-count:				2;
 }
 #toc ul {
