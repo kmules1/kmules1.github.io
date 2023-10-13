@@ -32,17 +32,20 @@ $red:							#CF3A24;		//	緋		Ake			Scarlet (blood)
 	
 	font-family:				'Golden Type';
 	font-size:					16px;
-	font-size:					2vw;
+	font-size:					clam(1rem,2vw,1.5rem);
 	line-height:				1.5;
 }
 
 h1, h2, h3, h4 {
 	color:						var(--red);
 }
-h1 {	font-size:				2.25em;	}
+h1 {	font-size:				2.5em;	}
 h2 {	font-size:				2em;	}
 h3 {	font-size:				1.5em;	}
-h4 {	font-size:				1.25em;	}
+h4 {
+	font-size:					1.25em;
+	font-style:					italic;
+}
 h5 {	font-size:				1em;	}
 
 body {
@@ -81,7 +84,7 @@ em.ae {
  */
 
 header {
-	border-bottom:				1px solid var(--red);
+	border-bottom:				0.125rem solid var(--red);
 }
 
 header title-block {
@@ -100,21 +103,39 @@ header subtitle-block {
 	text-align-last:			justify;
 }
 
+header nav ul {
+	list-style:					none;
+	display:					flex;
+	flex-direction:				row;
+	justify-content:			center;
+}
+header nav li {
+	padding:					0.25rem;
+	font-size:					1.25rem;
+}
+header nav li.active {
+	background-color:			var(--red);
+}
+
 /*
  *	TABLE OF CONTENTS
  */
 
 #toc {
-	//margin-inline-start:		2em;
+	margin:						0 4rem 2rem;
+	column-count:				2;
 }
 #toc ul {
 	padding-left:				unset;
-	grid-column:				1 / 3;
+	grid-column:				2 / 3;
+	margin:						0;
+	list-style:					none;
 }
 #toc li {
-	display:					grid;
 	grid-template-columns:		2rem auto;
 	grid-template-areas:		"counter link";
+	page-break-inside:			avoid;
+	break-inside:				avoid-column;
 }
 #toc li:before {
 	display:					block;
@@ -132,7 +153,8 @@ header subtitle-block {
 	counter-reset:				toc-headers;
 }
 #toc > ul > li {
-	counter-increment:			toc-headers;	
+	counter-increment:			toc-headers;
+	display:					grid;
 }
 #toc > ul > li:before {
 	content:					counter(toc-headers) ".\00a0";
@@ -191,6 +213,8 @@ aside.sidebox {
 	margin-block-end:			2rem;
 	margin-inline-start:		2rem;
 	font-size:					0.8rem;
+	border-inline-start:		0.125rem solid var(--red);
+	padding-inline-start:		2rem;
 }
 
 aside.sidebox.table {

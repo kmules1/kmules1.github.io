@@ -1,3 +1,7 @@
-- name: Info
-  link: /
-  icon: info-circle-fill
+ecumene:
+- title: Overview
+  url: /ecumene/
+- title: The Heavens
+  url: /ecumene/heavens/
+- title: The Inhabited World
+  url: /ecumene/world/

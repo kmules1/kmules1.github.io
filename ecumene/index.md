@@ -309,11 +309,13 @@ Other major polities include:
 - The Fourteen of Greenstone, an elven confederacy with a consociational mode of government designed mostly to regulate its intense internal divisions, prevent general conflict, and maintain elven authority on the continent of Pandion in the face of intrusive settlement by other thinking kinds
 - The Kimmuy Corsairs, a multiethnic and multispecies seagoing people who alternatingly raid, settle, and rule the various islands and coastal communities of the Sea of Dayan. Particularly adventurous raiders have been known to enter the Inland Sea.
 
-### Calendars
+## Calendars
 
-The Civic Calendar, which was established during the High Imperium, remains in use across much of the Ecumene. 
+Most humans on the Ecumene make use of some form of the Civic Calender, a lunisolar calendar established during the High Imperium. According to the Civic Calendar, the current year is ***7130{: .ae }*** (*ab Egressu*, "Since the Landing", i.e. when the Elves first came to the Ecumene and brought civilization). Other, local calendar eras, commemorating ruling dynasties or other significant founding dates, also exist. The new year is marked at the first sighting of the New Elder Sister after the Spring Equinox. Notably, the Civic Calendar counts the quarter-days rather than the days.
 
-#### Mechanics
+The elves maintain their own calendar, which is a solar calendar. According to the Elvish calendar, the current year is ***Tykktið 11238***; none remember the meaning of the calendar era name. The year is divided into fourths, corresponding to the solstices and equinoxes. Days are counted rather than quarter-days.
+
+### The Civic Calendar
 
 Due to the Ecumene’s distinct cosmological arrangement, the Civic Calendar does not count days but rather quarter-days:
 - Forenoon (dawn to zenith)
@@ -322,15 +324,12 @@ Due to the Ecumene’s distinct cosmological arrangement, the Civic Calendar doe
 - Waning (night after the Full Moon)
 
 Instead of a year of 108.65 days, the Civic Calendar has a year of **434.61 quarter-days**. These quarter-days are organized into 19 months of between 22 (called "hollow" months) and 23 (called "full" months) quarter-days, in accordance with the movement of the Ecumene’s second moon, the Elder Sister. Since the Elder Sister’s orbital period is precisely 22.4 quarters (due to orbital resonance), month length follows a 5-month cycle, called a Quinary: 2 hollow, 1 full, 1 hollow, 1 full.
+
 This results in a calendar of 425 quarter-days to form a "common year". This is 9.61 quarter-days shorter than the solar year, and so an additional leap month is added regularly to form a 20-month "long year". The leap month is the last month repeated twice, with festivals celebrated on its second iteration. Due to the combination of the Quinary cycle and the Leap Year cycle, there are ten different possible arrangements for a given year. As a result, any given year can be described as a combination of where in the Quinary it begins (1, 2, 3, 4, 5) and whether that year is common or long.
 
 #### Indiction
 
 During the height of the empire, the imperial administration maintained a 16-year indiction cycle, used to track the reassessment of taxation rates on land et al. and later extended to include other civil service documentation. Following the Late Imperium Period, the indiction was only retained within the imperial core and eventually dropped during the reforms that began the Post-Imperium Period.
-
-#### Calendar Eras
-
-The primary calendar era of the Civic Calendar is Years *ab Egressu*, i.e. "Since the Landing". This calendar era was calculated using elven historical accounts that were still available at the dawn of the High Imperium, and it counts the years since the Elves landed on the Ecumene and began to teach humanity about civilization. Use of this calendar era is relegated to the inner sphere of the Greater Imperium, but may be comprehensible by scholars, merchants, and state officials well beyond this area; it may also be supplemented or displaced by a local, more culturally salient calendar era.
 
 #### Civic Calendar, *7130*{: .ae } (Type 1, Common)
 
@@ -546,15 +545,17 @@ The primary calendar era of the Civic Calendar is Years *ab Egressu*, i.e. "Sinc
 	</table>
 </fieldset>
 
-## The Greater Imperium
+## Regions of the Ecumene
+
+### The Imperium
 
 The Imperium has had a global influence in the Ecumene due to its large area, its position in global sea trade, and its extensive history and staying power throughout the centuries. At its height, it held unmatchable power over three continents (Thrasu, Acaman, and Agelae) and a strong cultural influence in five more (the Two Daiphrons, Idan, Ctesia, Thoan, and Euchenor). By the present day (*7130*{: .ae}), its political ambitions have become more modest, having retreated to its imperial core and western territories. Within that space, dozens of successor states have come into existence, replicating Imperial forms and expanding them to new territories beyond the High Imperium's footprint.
 
 The Imperium serves as the model for a state across nine continents, and elites throughout this outer sphere look to the core of the Imperial sphere for cultural signifiers.
 
-### Society
+#### Society
 
-### Philosophy & Traditions
+#### Philosophy & Traditions
 
 **'Ima** is the majority belief system within the Greater Imperium.
 
@@ -563,9 +564,9 @@ Its roots are found southeast of the Encircled Sea, among the Sweyriet; it began
 In spite of this, folk practices persist, either having absorbed some aspects of 'Ima or having reformulated themselves in opposition to it.
 
 
-### Government
+#### Government
 
-### Currency
+#### Currency
 
 <aside class="sidebox table">
 	<table>
@@ -626,24 +627,24 @@ In spite of this, folk practices persist, either having absorbed some aspects of
 	</table>
 </aside>
 
-### Independent States
+### Other Successors to the High Imperium
 
 In the years since the High Imperium, its territorial extent has dramatically shrunk back towards its core territory. The areas lost, however, continued to maintain strong cultural affinity with the Imperium, identifying themselves as co-inheritors of its culture and maintaining a political structure and culture modeled after the Imperium. Some have also sought Imperial favor when coming into conflict with its neighbors, as the current Imperium remains hegemonic within the overall region.
 
-#### Mayence
+#### The Bay of Axiere
 
-Mayence is a state located on the northeast end of the Encircled Sea and immediately south of the Pact Lands. Its main territory is the land surrounding the Bay of Axiere, which allows Mayence to act as a major center of trade and to control the mouth of the Encircled Sea. It also controls an area it calls New Mayence (the lands around the bay being Old Mayence) to the west, dominated by the cities of Carrege, Trere, and Simbrile.
+During the High Imperium, the Bay of Axiere, located on the northeast end of the Encircled Sea, was governed as the Mayence Circuit. Since that time, the region has undergone multiple periods of unity and division. The cities in and around the Bay of Axiere compete with one another for control of trade in the eastern Encircled Sea between the Encircled Sea and the Sea of Anienne.
 
-## The Dattanese Kingdoms
+### The Dattanese Kingdoms
 
 The Dattanese Kingdoms cover a large region northwest of the Greater Imperium, centered on the tropical Dattanese Islands and covering a cultural zone that stretches from Shashanka in the southeast to Samatat in the northwest and beyond. Many of the royal families trace their lineage, real or fictive, back to semilegendary Kings of Joidakhoni, and the most powerful rulers compete to claim the kingship of Joidakhoni itself, despite the city having fallen to ruin many centuries ago. Despite the tightly-shared cultural and political package, the Dattanese Kingdoms are linguistically diverse (though they do share a ceremonial language, Dinnam).
 
 The current hegemon among the Dattanese Kingdoms is Borey, King of Añjan, of Joidakhoni, and of the Four Corners.
 
-## The Fourteen of Greenstone
+### The Fourteen of Greenstone
 
 A major polity to the northeast of the Greater Imperium, centered on the continent of Pandion, which they call the Holy Greenstone. Having established an enforced peace between the great houses located therein, the Elves in Pandion see themselves as preservers of what remains of Classical Elven society. Much of the continent not organized into Elven settlements acts as a wildlife preserve, with magical enhancements to deter attempts to settle it by the other Thinking Kinds. Coastal enclaves have, however, been granted; in these port towns, the various Thinking Kinds live amongst one another with some limited self government under the watchful eye of overseers that serve the Fourteen.
 
 East of Pandion stretches an island group dominated by the island of Dawncloud. The Fourteen maintain hegemony over this territory, but do not rule it directly. As a result, it is highly influenced by the culture and practices of the Fourteen, and the Elven houses do hold domains there, but it is much more heavily settled by the other Thinking Kinds. Conflict between the different groups is endemic, and some blame the Fourteen for having a role in this. Despite this, its people are relatively free, as the Fourteen have regularly frozen conflict when it spirals out of control.
 
-### Elven Houses
+#### Elven Houses
