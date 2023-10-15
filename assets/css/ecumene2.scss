@@ -32,7 +32,7 @@ $red:							#CF3A24;		//	緋		Ake			Scarlet (blood)
 	
 	font-family:				'Golden Type';
 	font-size:					16px;
-	font-size:					clam(1rem,2vw,1.5rem);
+	font-size:					clamp(1rem,2vw,1.5rem);
 	line-height:				1.5;
 }
 
@@ -120,15 +120,10 @@ header nav li + li::before {
 
 header nav li a {
 	padding:					0.25em;
-	text-decoration:			none;
 	font-size:					1.25rem;
 }
 
 header nav li.active a {
-	background-color:			var(--red);
-	color:						var(--white);
-}
-header nav li.active a:hover {
 	color:						var(--black);
 }
 

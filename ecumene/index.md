@@ -231,6 +231,17 @@ Its surface is predominantly ocean, which takes up eight-ninths of its surface a
 
 The Ecumene is in a tidally-locked orbit with its twin world, the Maranthisa, which is two-thirds the radius and two-fifths the mass. As a result, both worlds have an unusually long rotational period of 65.784 hours. Three moons, the Three Sisters, orbit the Ecumene-Maranthisa barycenter, which is located one-sixth of the distance between them.
 
+<table>
+	<tr>
+		<td><img src="/assets/img/ecumene_ortel_light.png" width="300"></td>
+		<td><img src="/assets/img/ecumene_ortel_dark.png" width="300"></td>
+	</tr>
+	<tr>
+		<th>Light Side</th>
+		<th>Dark Side</th>
+	</tr>
+</table>
+
 ### The Maranthisa
 
 The Maranthisa is a formerly habitable world, having undergone a planetary cataclysm (in *2791*{: .ae}) which rendered its surface uninhabitable to all known life. Overall, its surface has a khaki-grey color. Lore indicates that the large dark brown splotches are seas, and that the pockmark craters, each with prominent white ray systems, mark the locations of great cities that were once populated by several millions. It continues to be referred to as the Great Mother among the Elves, and had once been referred to instead variously as *Didyme* or *Toma*, the Twin World; *Luhan*, the Shining One, is sometimes heard as well.
