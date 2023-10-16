@@ -111,24 +111,36 @@ nav {
 	display:					flex;
 	flex-direction:				row;
 	flex-wrap:					wrap;
+	column-gap:					1rem;
 }
 
 nav section {
 	flex:						2;
 	flex-basis:					100%;
+	text-align:					center;
 }
 nav section.left-column {
 	flex:						1;
-	direction:					rtl;
+	text-align:					right;
 }
 nav section.right-column {
 	flex:						1;
+	text-align:					left;
 }
 
 nav hr {
 	height:						unset;
 	color:						var(--red);
 	border-left:				2px solid;
+	margin:						1rem 0 0;
+}
+
+nav hr.double-column {
+	flex:						2;
+	flex-basis:					100%;
+	border-left:				unset;
+	border-top:					2px solid;
+	margin-top:					0 1rem 0;
 }
 
 nav ul {
@@ -154,21 +166,16 @@ nav ul ul li {
 	font-size:					1rem;
 }
 
-
-header nav li + li::before {
-	content:					"\25C6";
-	color:						var(--red);
-	margin-left:				1em;
-	padding-right:				1em;
+nav section.double-column ul {
+	display:					flex;
+	flex-direction:				row;
+	gap:						1rem;
+	justify-content:			center;
 }
 
-header nav li a {
-	padding:					0.25em;
-	font-size:					1.25rem;
-}
-
-header nav li.active a {
-	color:						var(--black);
+nav section.double-column li {
+	font-size:					unset;
+	font-weight:				normal;
 }
 
 /*
