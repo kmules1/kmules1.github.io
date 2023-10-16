@@ -1,7 +1,29 @@
-ecumene:
-- title: Overview
-  url: /ecumene/
-- title: The Heavens
-  url: /ecumene/heavens/
-- title: The Inhabited World
-  url: /ecumene/world/
+heavens:
+- title: Ador & Ayn
+  url: /ecumene/heavens/#ador-and-ayn
+- title: Luhan or the Great Mother
+  url: /ecumene/heavens/#luhan-or-the-great-mother
+- title: The Three Sisters
+  url: /ecumene/heavens/#the-three-sisters
+- title: Merodac
+  url: /ecumene/heavens/#marduk
+- title: Nebo
+  url: /ecumene/heavens/#nebo
+world:
+- title: Geography
+  url: /ecumene/#geography
+- title: Thinking Kinds
+  url: /ecumene/#thinking-kinds
+- title: Calendars
+  url: /ecumene/#calendars
+- title: History
+  url: /ecumene/#history
+regions:
+- title: The Greater Imperium
+  url: 
+- title: Dattanese Kingdoms
+  url: 
+- title: The Fourteen of Greenstone
+  url: 
+- title: The Sea of Dayan
+  url: 

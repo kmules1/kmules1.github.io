@@ -41,7 +41,7 @@ h1, h2, h3, h4 {
 }
 h1 {	font-size:				2.5em;	}
 h2 {	font-size:				2em;	}
-h3 {	font-size:				1.5em;	}
+h3 {	font-size:				1.25em;	}
 h4 {
 	font-size:					1.25em;
 	font-style:					italic;
@@ -103,13 +103,57 @@ header subtitle-block {
 	text-align-last:			justify;
 }
 
-header nav ul {
+/*
+ *	NAV
+ */
+
+nav {
 	display:					flex;
 	flex-direction:				row;
-	justify-content:			center;
-	padding-left:				unset;
+	flex-wrap:					wrap;
+}
+
+nav section {
+	flex:						2;
+	flex-basis:					100%;
+}
+nav section.left-column {
+	flex:						1;
+	direction:					rtl;
+}
+nav section.right-column {
+	flex:						1;
+}
+
+nav hr {
+	height:						unset;
+	color:						var(--red);
+	border-left:				2px solid;
+}
+
+nav ul {
+	padding:					unset;
 	list-style:					none;
 }
+
+nav li {
+	font-size:					1.25rem;
+	font-weight:				bold;
+}
+nav li.active a {
+	color:						var(--black);
+}
+
+nav ul ul {
+	margin:						0;
+}
+
+nav ul ul li {
+	font-style:					italic;
+	font-weight:				normal;
+	font-size:					1rem;
+}
+
 
 header nav li + li::before {
 	content:					"\25C6";
@@ -219,7 +263,6 @@ aside.sidebox {
 	float:						right;
 	min-width:					10rem;
 	clear:						both;
-	margin-block-end:			2rem;
 	margin-inline-start:		2rem;
 	font-size:					0.8rem;
 	border-inline-start:		0.125rem solid var(--red);

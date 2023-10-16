@@ -28,11 +28,45 @@
 			<subtitle-block>A worldbuilding exercise intended to serve as a low-fantasy TTRPG setting.</subtitle-block>
 			
 			<nav>
-				<ul>
-					{% for item in site.data.navigation.ecumene %}
-					<li class="{% if item.url == page.url %}active{% endif %}"><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
-					{% endfor %}
-				</ul>
+				<section>
+					<ul>
+						<li class="{% if "/ecumene/introduction/" == page.url %}active{% endif %}">
+							<a href="/ecumene/introduction/" alt="Introduction">Introduction</a>
+						</li>
+					</ul>
+				</section>
+				<section class="left-column">
+					<ul>
+						<li class="{% if "/ecumene/heavens/" == page.url %}active{% endif %}">
+							<a href="/ecumene/heavens/" alt="The Heavens">The Heavens</a>
+							<ul>
+								{% for item in site.data.navigation.heavens %}
+								<li><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
+								{% endfor %}
+							</ul>
+						</li>
+					</ul>
+				</section>
+				<hr />
+				<section class="right-column">
+					<ul>
+						<li class="{% if "/ecumene/" == page.url %}active{% endif %}">
+							<a href="/ecumene/" alt="The World">The World</a>
+							<ul>
+								{% for item in site.data.navigation.world %}
+								<li><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
+								{% endfor %}
+							</ul>
+						</li>
+					</ul>
+				</section>
+				<section>
+					<ul>
+						{% for item in site.data.navigation.regions %}
+						<li class="{% if item.url == page.url %}active{% endif %}"><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
+						{% endfor %}
+					</ul>
+				</section>
 			</nav>
 			
 			<h1>{{page.title}}</h1>
