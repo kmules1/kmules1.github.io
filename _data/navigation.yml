@@ -9,13 +9,13 @@ heavens:
   url: /ecumene/heavens/#merodac-and-nebo
 world:
 - title: Geography
-  url: /ecumene/#geography
+  url: /ecumene/world/#geography
 - title: Thinking Kinds
-  url: /ecumene/#thinking-kinds
+  url: /ecumene/world/#thinking-kinds
 - title: Calendars
-  url: /ecumene/#calendars
+  url: /ecumene/world/#calendars
 - title: History
-  url: /ecumene/#history
+  url: /ecumene/world/#history
 regions:
 - title: The Greater Imperium
   url: 
