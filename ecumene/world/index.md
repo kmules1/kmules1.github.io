@@ -3,12 +3,6 @@ layout: ecumene2
 title: The World
 ---
 
-<figure>
-    <img src="/assets/img/ecumene_ortel_light.png">
-    <img src="/assets/img/ecumene_ortel_dark.png">
-    <figcaption>Dark Side</figcaption>
-</figure>
-
 <aside class="sidebox">
 	<h5>Orbital Characteristics</h5>
 	<dl>
@@ -44,12 +38,9 @@ Its surface is predominantly ocean, which takes up eight-ninths of its surface a
 The Ecumene is in a tidally-locked orbit with its twin world, the Maranthisa, which is two-thirds the radius and two-fifths the mass. As a result, both worlds have an unusually long rotational period of 65.784 hours. Three moons, the Three Sisters, orbit the Ecumene-Maranthisa barycenter, which is located one-sixth of the distance between them.
 
 <figure>
-    <img src="/assets/img/ecumene_ortel_light.png" width="225">
-    <figcaption>Light Side</figcaption>
-</figure>
-<figure>
-    <img src="/assets/img/ecumene_ortel_dark.png" width="225">
-    <figcaption>Dark Side</figcaption>
+    <img class="hemisphere" src="/assets/img/ecumene_ortel_light.png">
+    <img class="hemisphere" src="/assets/img/ecumene_ortel_dark.png">
+    <figcaption>The Ecumene. Separated Ortelius Oval Projection.</figcaption>
 </figure>
 
 ## Geography

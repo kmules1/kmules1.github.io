@@ -50,8 +50,8 @@
 				<hr />
 				<section class="right-column">
 					<ul>
-						<li class="{% if "/ecumene/" == page.url %}active{% endif %}">
-							<a href="/ecumene/" alt="The World">The World</a>
+						<li class="{% if "/ecumene/world/" == page.url %}active{% endif %}">
+							<a href="/ecumene/world/" alt="The World">The World</a>
 							<ul>
 								{% for item in site.data.navigation.world %}
 								<li><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
