@@ -14,20 +14,17 @@ title: The World
 		<dd>0.815 years<sub>🜨</sub></dd>
 		<dd>108.65 days<sub>œ</sub></dd>
 	</dl>
-</aside>
-
-<aside class="sidebox">
+	
 	<h5>Physical Characteristics</h5>
 	<dl>
-		<dt>Mass</dt>
-		<dd>0.471 M<sub>🜨</sub></dd>
 		<dt>Radius</dt>
-		<dd>0.766 R<sub>🜨</sub></dd>
 		<dd>4880km</dd>
 		<dt>Gravity</dt>
 		<dd>0.803g</dd>
 		<dt>Obliquity</dt>
 		<dd>26.19°</dd>
+		<dt>Rotational Period</dt>
+		<dd>2.784d<sub>🜨</sub></dd>
 	</dl>
 </aside>
 
@@ -62,7 +59,7 @@ Types of Thinking Kinds:
 
 ## Calendars
 
-Most humans on the Ecumene make use of some form of the Civic Calender, a lunisolar calendar established during the High Imperium. According to the Civic Calendar, the current year is ***7130{: .ae }*** (*ab Egressu*, "Since the Landing", i.e. when the Elves first came to the Ecumene and brought civilization). Other, local calendar eras, commemorating ruling dynasties or other significant founding dates, also exist. The new year is marked at the first sighting of the New Elder Sister after the Spring Equinox. Notably, the Civic Calendar counts the quarter-days rather than the days.
+Most humans on the Ecumene make use of some form of the Civic Calender, a lunisolar calendar established during the High Imperium. According to the Civic Calendar, the current year is ***7130***{: .ae} (*ab Egressu*, "Since the Landing", i.e. when the Elves first came to the Ecumene and brought civilization). Other, local calendar eras, commemorating ruling dynasties or other significant founding dates, also exist. The new year is marked at the first sighting of the New Elder Sister after the Spring Equinox. Notably, the Civic Calendar counts the quarter-days rather than the days.
 
 The elves maintain their own calendar, which is a solar calendar. According to the Elvish calendar, the current year is ***Tykktið 11238***; none remember the meaning of the calendar era name. The year is divided into fourths, corresponding to the solstices and equinoxes. Days are counted rather than quarter-days.
 
