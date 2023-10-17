@@ -1,15 +1,11 @@
 ---
 layout: ecumene2
-title: Overview
+title: The Heavens
 ---
 
 
 
-The Ecumene is located within a binary star system (Ador and Ayn). Each star has its own planetary system (the Ecumene orbits Ador). Due to eccentricity, stable orbits are limited to within each star's frost line. Well beyond the two stars is an immense cloud of asteroids and cometary material. Gravitational perburbations from the two stars' eccentricity redirect comets into the inner system.
-
-Ador and Ayn have an orbital period of 96.26 Ecumene years and an orbital eccentricity of 0.52. From the perspective of the Ecumene, Ayn is an especially bright wandering star, which grows as the stars approach periastron to become a faint junior sun that contributes as much light as a decent indoor lamp. During periastron, prevailing weather patterns become distorted due to the additional solar radiation received.
-
-### The Ador-Ayn Star System
+The Ecumene is located within a binary star system, with planets orbiting each star. The two stars, Ador and Ayn, have an orbital period of 82.6 Ecumene years. The planets of the Ador-Ayn System experience a cycle of global warming and cooling as the stars approach and recede from one another. From the Ecumene's perspective, Ayn is an especially bright, slowly wandering star, quickly brightening as the two stars reach periapsis, becoming bright enough to read at night.
 
 <ul class="tree">
 	<li><a style="font-weight:bold">Ador-Ayn System</a>
@@ -127,21 +123,21 @@ Ador and Ayn have an orbital period of 96.26 Ecumene years and an orbital eccent
 				</aside>
 				<ul>
 					<li>
-						<a>Ninurta</a>
+						<a>Ugur</a>
 						<aside>
-							<h4>Ninurta <span>(Ayn I)</span></h4>
+							<h4>Ugur <span>(Ayn I)</span></h4>
 							<dl>
-								<dd>Terrestrial, Marginally Habitable</dd>
+								<dd>Terrestrial, Uninhabitable</dd>
 								<dd>Mass: 2.55 M<sub>œ</sub></dd>
 								<dd>Orbital Period: 17.19 d<sub>œ</sub></dd>
 							</dl>
-							<p>Eyeball World: Sand (Day), Seas & Lush Land (Twilight), Ice (Night)</p>
+							<p>Called <em>Źibdeṃtsʰallu</em> "Red Peace" by the Bdenri.</p>
 						</aside>
 					</li>
 					<li>
-						<a>Marduk</a>
+						<a>Merodac</a>
 						<aside id="infobox-marduk">
-							<h4>Marduk <span>(Ayn II)</span></h4>
+							<h4>Merodac <span>(Ayn II)</span></h4>
 							<div class="doodle">
 								<div class="surface"></div>
 								<div class="moon"></div>
@@ -156,14 +152,14 @@ Ador and Ayn have an orbital period of 96.26 Ecumene years and an orbital eccent
 						</aside>
 						<ul>
 							<li>
-								<a>Nabu</a>
+								<a>Nebo</a>
 								<aside>
-									<h4>Nabu</h4>
+									<h4>Nebo</h4>
 									<dl>
 										<dd>Terrestrial, Habitable</dd>
 										<dd>Mass: 1.274 M<sub>œ</sub></dd>
 									</dl>
-									<p>High volcanism, thick atmosphere keeps it warm.</p>
+									<p>High volcanism, thick atmosphere keeps it warm. Homeworld of the Bdenri.</p>
 								</aside>
 							</li>
 						</ul>
@@ -185,52 +181,24 @@ Ador and Ayn have an orbital period of 96.26 Ecumene years and an orbital eccent
 	</li>
 </ul>
 
-### The Ecumene
+## Ador & Ayn
+
+Sed velit dignissim sodales ut eu sem integer. Erat nam at lectus urna. Tincidunt lobortis feugiat vivamus at augue eget arcu dictum. Dignissim enim sit amet venenatis urna cursus. Laoreet id donec ultrices tincidunt arcu non sodales. Viverra vitae congue eu consequat ac felis. Id diam vel quam elementum pulvinar etiam non quam. Nec sagittis aliquam malesuada bibendum. Id porta nibh venenatis cras sed felis eget. Semper risus in hendrerit gravida rutrum quisque non. Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Viverra suspendisse potenti nullam ac. Varius sit amet mattis vulputate enim nulla aliquet porttitor lacus. Mi in nulla posuere sollicitudin. Semper viverra nam libero justo laoreet sit amet cursus sit.
+
+
+## Luhan or the Great Mother
 
 <aside class="sidebox">
-	<h5>Orbital Characteristics</h5>
+	<h5>Characteristics</h5>
 	<dl>
-		<dt>Semi-Major Axis</dt>
-		<dd>0.83 AU</dd>
-		<dt>Eccentricity</dt>
-		<dd>0.0167</dd>
-		<dt>Orbital Period</dt>
-		<dd>0.815 years<sub>🜨</sub></dd>
-		<dd>108.65 days<sub>œ</sub></dd>
-	</dl>
-</aside>
-
-<aside class="sidebox">
-	<h5>Physical Characteristics</h5>
-	<dl>
-		<dt>Mass</dt>
-		<dd>0.471 M<sub>🜨</sub></dd>
+		<dt>Orbital Separation</dt>
+		<dd>68,000km</dd>
 		<dt>Radius</dt>
-		<dd>0.766 R<sub>🜨</sub></dd>
-		<dd>4880km</dd>
+		<dd>3257km</dd>
 		<dt>Gravity</dt>
-		<dd>0.803g</dd>
-		<dt>Obliquity</dt>
-		<dd>26.19°</dd>
+		<dd>0.379g</dd>
 	</dl>
 </aside>
-
-The Ecumene is a habitable world, second in orbit around its star, and the primary world of this setting.
-
-Its surface is predominantly ocean, which takes up eight-ninths of its surface area. Additionally, due the distribution of land, largescale arid and semi-arid biomes are relatively rare. As a result, from space, it looks like a blue marble enveloped by wispy white clouds.
-
-The Ecumene is in a tidally-locked orbit with its twin world, the Maranthisa, which is two-thirds the radius and two-fifths the mass. As a result, both worlds have an unusually long rotational period of 65.784 hours. Three moons, the Three Sisters, orbit the Ecumene-Maranthisa barycenter, which is located one-sixth of the distance between them.
-
-<figure>
-    <img src="/assets/img/ecumene_ortel_light.png" width="225">
-    <figcaption>Light Side</figcaption>
-</figure>
-<figure>
-    <img src="/assets/img/ecumene_ortel_dark.png" width="225">
-    <figcaption>Dark Side</figcaption>
-</figure>
-
-### The Maranthisa
 
 The Maranthisa is a formerly habitable world, having undergone a planetary cataclysm (in *2791*{: .ae}) which rendered its surface uninhabitable to all known life. Overall, its surface has a khaki-grey color. Lore indicates that the large dark brown splotches are seas, and that the pockmark craters, each with prominent white ray systems, mark the locations of great cities that were once populated by several millions. It continues to be referred to as the Great Mother among the Elves, and had once been referred to instead variously as *Didyme* or *Toma*, the Twin World; *Luhan*, the Shining One, is sometimes heard as well.
 
@@ -238,7 +206,7 @@ Despite its relatively dull color, its immense size within the Ecumene's sky (on
 
 Reports from the few explorers who had attempted a landing on the post-cataclysm Great Mother report that the atmosphere has been burned away leaving a thin and unbreathable air. The soil and sea water is poisonous to both plants and animals. Visitation is extremely difficult, even with a fully-outfitted Crystal Ship, due to the need to avoid contamination. Nothing is left of the great cities, but the remains of minor settlements do exist. Corpses can still be found to this day, putrefied and desiccated but not decomposed despite the millennia of exposure.
 
-### The Three Sisters
+## The Three Sisters
 
 <aside class="sidebox">
 	<table>
@@ -272,3 +240,7 @@ Reports from the few explorers who had attempted a landing on the post-cataclysm
 The three moons of Ecumene-Maranthisa are in orbital resonance with one another. The largest and closest, called the Elder Sister, is also in orbital resonance with the Ecumene-Maranthisa orbital period, resulting in a complex interaction between the five worlds.
 
 The Elder Sister's orbital period is precisely 5.6 days on the Ecumene, and is used as the basis for the month in most calendars.
+
+## Merodac & Nebo
+
+Feugiat vivamus at augue eget arcu dictum varius. Turpis massa tincidunt dui ut. Tellus elementum sagittis vitae et leo duis ut. Lacus suspendisse faucibus interdum posuere lorem ipsum. Sagittis id consectetur purus ut faucibus. Amet risus nullam eget felis eget nunc lobortis mattis. In nisl nisi scelerisque eu ultrices. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Libero nunc consequat interdum varius sit amet mattis vulputate. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Quam pellentesque nec nam aliquam sem et tortor. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Faucibus purus in massa tempor nec feugiat nisl. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Morbi tristique senectus et netus et.

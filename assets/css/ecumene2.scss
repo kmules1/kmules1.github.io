@@ -90,7 +90,7 @@ header {
 header title-block {
 	display:					block;
 	font-family:				'Offenbacher Schwabacher CAT';
-	font-size:					7rem;
+	font-size:					min(15vw,7rem);
 	color:						var(--red);
 	text-align:					center;
 }
@@ -184,7 +184,7 @@ nav section.double-column li {
 
 #toc {
 	margin-block:				2rem;
-	column-count:				2;
+	//column-count:				2;
 }
 #toc ul {
 	padding-left:				unset;
@@ -228,6 +228,11 @@ nav section.double-column li {
 main {
 	counter-reset: 				headers;
 }
+
+main > * {
+	margin-inline:				2rem;
+}
+
 main h2 {
 	counter-increment:			headers;
 	display:					grid;
@@ -268,7 +273,7 @@ main ul li::before {
 
 main > figure {
 	max-width:					25rem;
-	margin:						2rem 0;
+	margin-block:				2rem;
 	text-align:					center;
 }
 
