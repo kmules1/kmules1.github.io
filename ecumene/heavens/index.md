@@ -135,9 +135,9 @@ The Ecumene is located within a binary star system, with planets orbiting each s
 						</aside>
 					</li>
 					<li>
-						<a>Merodac</a>
+						<a>Merodach</a>
 						<aside id="infobox-marduk">
-							<h4>Merodac <span>(Ayn II)</span></h4>
+							<h4>Merodach <span>(Ayn II)</span></h4>
 							<div class="doodle">
 								<div class="surface"></div>
 								<div class="moon"></div>
@@ -186,7 +186,7 @@ The Ecumene is located within a binary star system, with planets orbiting each s
 Sed velit dignissim sodales ut eu sem integer. Erat nam at lectus urna. Tincidunt lobortis feugiat vivamus at augue eget arcu dictum. Dignissim enim sit amet venenatis urna cursus. Laoreet id donec ultrices tincidunt arcu non sodales. Viverra vitae congue eu consequat ac felis. Id diam vel quam elementum pulvinar etiam non quam. Nec sagittis aliquam malesuada bibendum. Id porta nibh venenatis cras sed felis eget. Semper risus in hendrerit gravida rutrum quisque non. Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Viverra suspendisse potenti nullam ac. Varius sit amet mattis vulputate enim nulla aliquet porttitor lacus. Mi in nulla posuere sollicitudin. Semper viverra nam libero justo laoreet sit amet cursus sit.
 
 
-## Luhan or the Great Mother
+## Luhan, the Great Mother
 
 <aside class="sidebox">
 	<h5>Characteristics</h5>
@@ -241,6 +241,6 @@ The three moons of Ecumene-Maranthisa are in orbital resonance with one another.
 
 The Elder Sister's orbital period is precisely 5.6 days on the Ecumene, and is used as the basis for the month in most calendars.
 
-## Merodac & Nebo
+## Merodach & Nebo
 
 Feugiat vivamus at augue eget arcu dictum varius. Turpis massa tincidunt dui ut. Tellus elementum sagittis vitae et leo duis ut. Lacus suspendisse faucibus interdum posuere lorem ipsum. Sagittis id consectetur purus ut faucibus. Amet risus nullam eget felis eget nunc lobortis mattis. In nisl nisi scelerisque eu ultrices. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Libero nunc consequat interdum varius sit amet mattis vulputate. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Quam pellentesque nec nam aliquam sem et tortor. Aliquam purus sit amet luctus venenatis lectus magna fringilla. Faucibus purus in massa tempor nec feugiat nisl. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Morbi tristique senectus et netus et.

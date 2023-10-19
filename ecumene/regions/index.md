@@ -67,7 +67,7 @@ Types of Thinking Kinds:
 * Elfkind
 * Halflingkind, who are an offshoot of Mankind and are known for their short stature, pinkish skin, and talent for stealth.
 * Goblinkind, who claim to be indigenous to the Ecumene and are known for their invasiveness, disgusting habits, and talent for trouble.
-* Koboldkind, who originate from Ninurta, and are known for their cautiousness, devoted, and resilient.
+* Koboldkind, who originate from [Nebo](#merodac--nebo), and are known for their cautiousness, devoted, and resilient.
 
 ## Calendars
 

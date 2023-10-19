@@ -254,14 +254,17 @@ main h3 {
 	grid-template-columns:		25rem 2rem;
 }
 
-main p,main ul {
+main p,main ul,main fieldset {
 	max-width:					25rem;
 	text-align:					justify;
+}
+
+main ul {
 	list-style:					none;
 	padding-left:				0;
 }
 
-main ul li::before {
+main li::before {
 	content:					"\25C6";
 	color:						var(--red);
 	display:					inline-block;

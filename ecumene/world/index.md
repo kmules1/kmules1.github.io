@@ -50,12 +50,21 @@ The Ecumene is home to several sapient species. By far the most populous of thes
 
 Due to its deep history, it has long become home for additional species that originate from the other worlds in the Ador-Ayn Star System. A significantly less populous but historically critical kind is Elfkind, whose first arrival to the Ecumene marks the beginning of the most common calendar era, (AE *ab Egressu* "since the Landing") and who evacuated to the Ecumene following the Cataclysm of *2791*{: .ae}, when their homeworld became uninhabitable.
 
-Types of Thinking Kinds:
-* Mankind
-* Elfkind
-* Halflingkind, who are an offshoot of Mankind and are known for their short stature, pinkish skin, and talent for stealth.
-* Goblinkind, who claim to be indigenous to the Ecumene and are known for their invasiveness, disgusting habits, and talent for trouble.
-* Koboldkind, who originate from Ninurta, and are known for their cautiousness, devoted, and resilient.
+### Mankind
+
+### Elfkind
+
+### Halflingkind
+
+An offshoot of Mankind and are known for their short stature, rosy-pink skin, and talent for stealth.
+
+### Goblinkind
+
+Claim to be indigenous to the Ecumene and are known for their invasiveness, disgusting habits, and talent for trouble.
+
+### Koboldkind
+
+Originate from [Nebo](/ecumene/heavens/#merodach--nebo), and are known for their cautiousness, devoted, and resilient.
 
 ## Calendars
 
