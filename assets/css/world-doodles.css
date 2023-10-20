@@ -173,7 +173,7 @@
     box-shadow: -0.2em -0.4em #ffca, 0.4em 0.25em #ffca, -0.35em 0.15em #ffca, 0.4em -0.2em #ffca, 0.1em 0.425em #ffca;
 }
 
-#infobox-maranthisa .surface {
+#infobox-luhan .surface {
 	width:				2em;
 	height:				2em;
 	background-color:	#AA9F8A;
@@ -185,7 +185,7 @@
 	left:				0.75em;
 	z-index:			1;
 }
-#infobox-maranthisa .surface:before {
+#infobox-luhan .surface:before {
 	content:			'';
 	position:			absolute;
 	width:				1.6em;
@@ -196,7 +196,7 @@
 	top:				1.2em;
 	box-shadow:			-2em -1.2em #5B4C30;
 }
-#infobox-maranthisa .surface:after {
+#infobox-luhan .surface:after {
 	content:			"";
 	position: 			absolute;
 	background-color:	#ffca;
@@ -211,7 +211,7 @@
 						0.8em -0.4em #ffca,
 						0.2em 0.85em #ffca;
 }
-#infobox-maranthisa .moon {
+#infobox-luhan .moon {
 	position:			relative;
 	width:				1em;
 	height:				1em;
@@ -222,7 +222,7 @@
 	top:				0.25em;
 	left:				0em;
 }
-#infobox-maranthisa .moon:before {
+#infobox-luhan .moon:before {
 	content:			"";
 	position:			absolute;
 	background-color:	#368715;
@@ -240,7 +240,7 @@
 						-0.45em -0.35em #368715,
 						-0.5em -0.45em #368715;
 }
-#infobox-maranthisa .moon:after {
+#infobox-luhan .moon:after {
 	content:			"";
 	position: 			absolute;
 	background-color:	#fff9;
@@ -323,7 +323,7 @@
 	border-radius:		50%;
 }
 
-#infobox-marduk .surface {
+#infobox-merodach .surface {
 	position:			relative;
 	width:				2em;
 	height:				2em;
@@ -336,7 +336,7 @@
 	z-index:			1;
 	transform:			rotate(-10deg);
 }
-#infobox-marduk .surface:after {
+#infobox-merodach .surface:after {
 	content:			"";
 	position: 			absolute;
 	background-color:	#fff;
@@ -351,7 +351,7 @@
 						0em 2.0em .2em #fffe,
 						0em 2.5em .2em #fffe;
 }
-#infobox-marduk .moon {
+#infobox-merodach .moon {
 	position:			relative;
 	width:				0.5em;
 	height:				0.5em;
@@ -362,7 +362,7 @@
 	top:				-0.5em;
 	left:				0.5em;
 }
-#infobox-marduk .moon:before {
+#infobox-merodach .moon:before {
 	content:			"";
 	position:			absolute;
 	background-color:	#368715;
@@ -380,7 +380,7 @@
 						-0.225em -0.175em #368715,
 						-0.25em -0.225em #368715;
 }
-#infobox-marduk .moon:after {
+#infobox-merodach .moon:after {
 	content:			"";
 	position: 			absolute;
 	background-color:	#fff9;

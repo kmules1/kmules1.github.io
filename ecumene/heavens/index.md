@@ -54,9 +54,9 @@ The Ecumene is located within a binary star system, with planets orbiting each s
 							<p>Wispy White Clouds over Water Surface with Brown-to-Green Land.</p>
 						</aside>
 						<span>&</span>
-						<a>Maranthisa</a>
-						<aside id="infobox-maranthisa">
-							<h4>Maranthisa <span>(Ador IIb)</span></h4>
+						<a>Luhan</a>
+						<aside id="infobox-luhan">
+							<h4>Luhan <span>(Ador IIb)</span></h4>
 							<div class="doodle">
 								<div class="surface"></div>
 								<div class="moon"></div>
@@ -136,7 +136,7 @@ The Ecumene is located within a binary star system, with planets orbiting each s
 					</li>
 					<li>
 						<a>Merodach</a>
-						<aside id="infobox-marduk">
+						<aside id="infobox-merodach">
 							<h4>Merodach <span>(Ayn II)</span></h4>
 							<div class="doodle">
 								<div class="surface"></div>
@@ -167,14 +167,6 @@ The Ecumene is located within a binary star system, with planets orbiting each s
 					<li>
 						<a>Asteroid Belt</a>
 					</li>
-					<li>
-						<a>Nergal</a>
-						<aside>
-							<h4>Nergal <span>(Ayn III)</span></h4>
-							<p>Gas Dwarf (4-5M🜨)</p>
-							<p>Banded Yellows (Class I: Ammonia Clouds)</p>
-						</aside>
-					</li>
 				</ul>
 			</li>
 		</ul>
@@ -184,7 +176,6 @@ The Ecumene is located within a binary star system, with planets orbiting each s
 ## Ador & Ayn
 
 Sed velit dignissim sodales ut eu sem integer. Erat nam at lectus urna. Tincidunt lobortis feugiat vivamus at augue eget arcu dictum. Dignissim enim sit amet venenatis urna cursus. Laoreet id donec ultrices tincidunt arcu non sodales. Viverra vitae congue eu consequat ac felis. Id diam vel quam elementum pulvinar etiam non quam. Nec sagittis aliquam malesuada bibendum. Id porta nibh venenatis cras sed felis eget. Semper risus in hendrerit gravida rutrum quisque non. Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Viverra suspendisse potenti nullam ac. Varius sit amet mattis vulputate enim nulla aliquet porttitor lacus. Mi in nulla posuere sollicitudin. Semper viverra nam libero justo laoreet sit amet cursus sit.
-
 
 ## Luhan, the Great Mother
 
@@ -200,11 +191,23 @@ Sed velit dignissim sodales ut eu sem integer. Erat nam at lectus urna. Tincidun
 	</dl>
 </aside>
 
-The Maranthisa is a formerly habitable world, having undergone a planetary cataclysm (in *2791*{: .ae}) which rendered its surface uninhabitable to all known life. Overall, its surface has a khaki-grey color. Lore indicates that the large dark brown splotches are seas, and that the pockmark craters, each with prominent white ray systems, mark the locations of great cities that were once populated by several millions. It continues to be referred to as the Great Mother among the Elves, and had once been referred to instead variously as *Didyme* or *Toma*, the Twin World; *Luhan*, the Shining One, is sometimes heard as well.
+Luhan is a formerly habitable world, having undergone a planetary cataclysm (in *2791*{: .ae}) which rendered its surface uninhabitable to all known life. Overall, its surface has a khaki-grey color with large grey-brown splotches and pocked all over with bright, white craters. 
 
-Despite its relatively dull color, its immense size within the Ecumene's sky (on average, an angular diameter of 2.744 degrees, i.e. 5.2 times as wide as Earth's Moon) means that the Maranthisa reflects sufficient light for outdoor activities at night. Due to the two worlds being tidally locked with one another, only one side of the Ecumene benefits from this effect; the far side of the Ecumene instead suffers from a lengthy and complete darkness (broken only when Ador and Ayn are near periastron, when Ayn provides a dim light just bright enough to read). The former is commonly called the *Light Side* and the latter the *Dark Side* due to this phenomenon.
+The Elves refer to Luhan as *Great Mother*. The world has many other names: *Luhan* means the Shining One; *Didyme* or *Toma*, i.e. the Twin; *Elfmother* in recognition of the Elves' adoration towards it; *Maranthisa*, meaning the Wasted Away; *Olomene*, meaning the Ruined One.
 
-Reports from the few explorers who had attempted a landing on the post-cataclysm Great Mother report that the atmosphere has been burned away leaving a thin and unbreathable air. The soil and sea water is poisonous to both plants and animals. Visitation is extremely difficult, even with a fully-outfitted Crystal Ship, due to the need to avoid contamination. Nothing is left of the great cities, but the remains of minor settlements do exist. Corpses can still be found to this day, putrefied and desiccated but not decomposed despite the millennia of exposure.
+### Ever-Present in the Sky
+
+Despite its relatively dull appearance, its immense size within the Ecumene's sky (on average, an angular diameter of 2.744 degrees, i.e. 5.2 times as wide as Earth's Moon) means that Luhan reflects sufficient light for outdoor activities at night and banishes the deep darkness of the Ecumene's long night.
+
+Due to the two worlds being tidally locked with one another, only one side of the Ecumene is granted this benefit, called the Near Side or the Light Side of the Ecumene. The Far Side, also called the Dark Side, of the Ecumene suffers from a lengthy and complete darkness (only broken when Ayn makes it close approach).
+
+### Visiting the Dead World
+
+According to surviving lore, Luhan's visible geographic features are all named and attributed. The large dark-brown splotches are seas, while the pockmark craters are the sites of once-great cities whose populations had once reached into the millions.
+
+Very few have had the means, the temerity, and the luck to visit Luhan's surface following the cataclysm and return with their findings. The atmosphere has been burned away, leaving a thin and unbreathable air. Samples of soil and sea water are poisonous to both plants and animals. This has made visitation extremely difficult, due to the need to avoid contamination as well as a means to breathe, let alone a means of transport using one of the few surviving Crystal Ships.
+
+Nothing remains of the great cities, but the remains of minor settlements can be visited. Even thousands of years later, dessicated and weathered corpses can be found at these settlements, having been made sterile and not subject to decomposition through the same process that had caused the Cataclysm.
 
 ## The Three Sisters
 
@@ -237,7 +240,7 @@ Reports from the few explorers who had attempted a landing on the post-cataclysm
 	</table>
 </aside>
 
-The three moons of Ecumene-Maranthisa are in orbital resonance with one another. The largest and closest, called the Elder Sister, is also in orbital resonance with the Ecumene-Maranthisa orbital period, resulting in a complex interaction between the five worlds.
+The three moons of Ecumene-Luhan are in orbital resonance with one another. The largest and closest, called the Elder Sister, is also in orbital resonance with the Ecumene-Luhan orbital period, resulting in a complex interaction between the five worlds.
 
 The Elder Sister's orbital period is precisely 5.6 days on the Ecumene, and is used as the basis for the month in most calendars.
 

@@ -32,7 +32,7 @@ The Ecumene is a habitable world, second in orbit around its star, and the prima
 
 Its surface is predominantly ocean, which takes up eight-ninths of its surface area. Additionally, due the distribution of land, largescale arid and semi-arid biomes are relatively rare. As a result, from space, it looks like a blue marble enveloped by wispy white clouds.
 
-The Ecumene is in a tidally-locked orbit with its twin world, the Maranthisa, which is two-thirds the radius and two-fifths the mass. As a result, both worlds have an unusually long rotational period of 65.784 hours. Three moons, the Three Sisters, orbit the Ecumene-Maranthisa barycenter, which is located one-sixth of the distance between them.
+The Ecumene is in a tidally-locked orbit with its twin world, [Luhan](/ecumene/heavens/#luhan-the-great-mother), which is two-thirds the radius and two-fifths the mass. As a result, both worlds have an unusually long rotational period of 65.784 hours. Three moons, the Three Sisters, orbit the Ecumene-Luhan barycenter, which is located one-sixth of the distance between them.
 
 <figure>
     <img class="hemisphere" src="/assets/img/ecumene_ortel_light.png">
