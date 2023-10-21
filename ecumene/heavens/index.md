@@ -3,7 +3,9 @@ layout: ecumene2
 title: The Heavens
 ---
 
-
+<figure>
+    <img src="/assets/img/system.png">
+</figure>
 
 The Ecumene is located within a binary star system, with planets orbiting each star. The two stars, Ador and Ayn, have an orbital period of 82.6 Ecumene years. The planets of the Ador-Ayn System experience a cycle of global warming and cooling as the stars approach and recede from one another. From the Ecumene's perspective, Ayn is an especially bright, slowly wandering star, quickly brightening as the two stars reach periapsis, becoming bright enough to read at night.
 
