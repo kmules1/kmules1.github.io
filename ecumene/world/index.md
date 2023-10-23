@@ -74,21 +74,121 @@ The elves maintain their own calendar, which is a solar calendar. According to t
 
 ### The Civic Calendar
 
+The Civic Calendar was established by Axius Otho, the first Venerable Autocrator. It was based upon the old Edramorian calendar, which during the last years of the Old Commonwealth had been abused as part of the overall political disorder. Traditionally the purview of the high priesthood to determine the timing of seasons and whether or not to insert intercalary months, Axius Otho's reform removed that authority by enacting a perpetual calendar. The adoption of the Civic Calendar also coincided with the adoption of a new calendar era, *Ab Egressu* ("Since the Landing").
+
+The process of reforming the old calendar and producing the Civic Calendar relied heavily upon surviving Elven astronomy and chronicles.
+
+#### Days, Quarter-Days, and Months
+
 Due to the Ecumene’s distinct cosmological arrangement, the Civic Calendar does not count days but rather quarter-days:
 - Forenoon (dawn to zenith)
 - Afternoon (zenith to dusk)
-- Waxing (night before the Full Moon)
-- Waning (night after the Full Moon)
+- Waxing (nighttime before Luhan reaches maximum brightness)
+- Waning (nighttime after Luhan reaches maximum brightness)
 
-Instead of a year of 108.65 days, the Civic Calendar has a year of **434.61 quarter-days**. These quarter-days are organized into 19 months of between 22 (called "hollow" months) and 23 (called "full" months) quarter-days, in accordance with the movement of the Ecumene’s second moon, the Elder Sister. Since the Elder Sister’s orbital period is precisely 22.4 quarters (due to orbital resonance), month length follows a 5-month cycle, called a Quinary: 2 hollow, 1 full, 1 hollow, 1 full.
+Instead of a year of 108/9 days, the Civic Calendar has a year of **432/6 quarter-days**. These quarter-days are organized into 18 months of 24 quarter-days.
 
-This results in a calendar of 425 quarter-days to form a "common year". This is 9.61 quarter-days shorter than the solar year, and so an additional leap month is added regularly to form a 20-month "long year". The leap month is the last month repeated twice, with festivals celebrated on its second iteration. Due to the combination of the Quinary cycle and the Leap Year cycle, there are ten different possible arrangements for a given year. As a result, any given year can be described as a combination of where in the Quinary it begins (1, 2, 3, 4, 5) and whether that year is common or long.
+<table>
+	<caption>List of Months</caption>
+	<thead>
+		<tr>
+			<th>Order</th>
+			<th>Name</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>01</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>02</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>03</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>04</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>05</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>06</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>07</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>08</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>09</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
+The names of the months are based upon the old Edramorian calendar, of which there were 19 (consisting of 22 or 23 days), which strictly followed the phases of the Ecumene's moon, the Elder Sister, and which had an intercalary 20th month added in order to keep the beginning of the year aligned with the Southern Spring Equinox. All of this required a priesthood with staff capable of observing and recording the movement of the heavens and to make pronouncements on when a month was "hollow" (22 days) or "full" (23 days), when a year was "common" (19 months) or "long" (20 months), and so on.
+
+<aside class="sidebox">
+	<p>=IF(TRUNC((B26-6000)*$A$3) - TRUNC((B26-6001)*$A$3)-108=0, "short", "long")</p>
+</aside>
+
+Intercalation is handled according to a formula, in the form of a single day (four quarter-days) inserted between the Ninth and Tenth months.
 
 #### Indiction
 
-During the height of the empire, the imperial administration maintained a 16-year indiction cycle, used to track the reassessment of taxation rates on land et al. and later extended to include other civil service documentation. Following the Late Imperium Period, the indiction was only retained within the imperial core and eventually dropped during the reforms that began the Post-Imperium Period.
+During the height of the empire, the imperial administration maintained a 20-year indiction cycle, used to track the reassessment of taxation rates on land et al. and later extended to include other civil service documentation. Following the Late Imperium Period, the indiction was only retained within the imperial core and eventually dropped during the reforms that began the Post-Imperium Period.
 
-#### Civic Calendar, *7130*{: .ae } (Type 1, Common)
+#### Years since The Landing
+
+The calendar era of the Civic Calendar marks years since the Elves first landed on the Ecumene and brought civilization to Mankind.
+
+#### Civic Calendar, *7130*{: .ae } (Type 1, Long)
 
 <fieldset>
 	<table>
@@ -99,19 +199,17 @@ During the height of the empire, the imperial administration maintained a 16-yea
 		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
 		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
 		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td colspan=2></td></tr>
-		<tr><td colspan=4>&nbsp;</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>2<sup>nd</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td colspan=2></td><td>1</td><td>2</td></tr>
-		<tr><td>3</td><td>4</td><td>5</td><td>6</td></tr>
-		<tr><td>7</td><td>8</td><td>9</td><td>10</td></tr>
-		<tr><td>11</td><td>12</td><td>13</td><td>14</td></tr>
-		<tr><td>15</td><td>16</td><td>17</td><td>18</td></tr>
-		<tr><td>19</td><td>20</td><td>21</td><td>22</td></tr>
-		<tr><td colspan=4>&nbsp;</td></tr>
+		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
+		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
+		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>3<sup>rd</sup> Month</th></tr>
@@ -121,30 +219,27 @@ During the height of the empire, the imperial administration maintained a 16-yea
 		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
 		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
 		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td></td></tr>
-		<tr><td colspan=4>&nbsp;</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>4<sup>th</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td colspan=3></td><td>1</td></tr>
-		<tr><td>2</td><td>3</td><td>4</td><td>5</td></tr>
-		<tr><td>6</td><td>7</td><td>8</td><td>9</td></tr>
-		<tr><td>10</td><td>11</td><td>12</td><td>13</td></tr>
-		<tr><td>14</td><td>15</td><td>16</td><td>17</td></tr>
-		<tr><td>18</td><td>19</td><td>20</td><td>21</td></tr>
-		<tr><td>22</td><td colspan=3>&nbsp;</td></tr>
+		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
+		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
+		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>5<sup>th</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>&nbsp;</td><td>1</td><td>2</td><td>3</td></tr>
-		<tr><td>4</td><td>5</td><td>6</td><td>7</td></tr>
-		<tr><td>8</td><td>9</td><td>10</td><td>11</td></tr>
-		<tr><td>12</td><td>13</td><td>14</td><td>15</td></tr>
-		<tr><td>16</td><td>17</td><td>18</td><td>19</td></tr>
-		<tr><td>20</td><td>21</td><td>22</td><td>23</td></tr>
-		<tr><td colspan=4>&nbsp;</td></tr>
+		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
+		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
+		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>6<sup>th</sup> Month</th></tr>
@@ -154,19 +249,17 @@ During the height of the empire, the imperial administration maintained a 16-yea
 		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
 		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
 		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td colspan=2></td></tr>
-		<tr><td colspan=4>&nbsp;</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>7<sup>th</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td colspan=2></td><td>1</td><td>2</td></tr>
-		<tr><td>3</td><td>4</td><td>5</td><td>6</td></tr>
-		<tr><td>7</td><td>8</td><td>9</td><td>10</td></tr>
-		<tr><td>11</td><td>12</td><td>13</td><td>14</td></tr>
-		<tr><td>15</td><td>16</td><td>17</td><td>18</td></tr>
-		<tr><td>19</td><td>20</td><td>21</td><td>22</td></tr>
-		<tr><td colspan=4>&nbsp;</td></tr>
+		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
+		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
+		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>8<sup>th</sup> Month</th></tr>
@@ -176,30 +269,32 @@ During the height of the empire, the imperial administration maintained a 16-yea
 		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
 		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
 		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td></td></tr>
-		<tr><td colspan=4>&nbsp;</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>9<sup>th</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td colspan=3></td><td>1</td></tr>
-		<tr><td>2</td><td>3</td><td>4</td><td>5</td></tr>
-		<tr><td>6</td><td>7</td><td>8</td><td>9</td></tr>
-		<tr><td>10</td><td>11</td><td>12</td><td>13</td></tr>
-		<tr><td>14</td><td>15</td><td>16</td><td>17</td></tr>
-		<tr><td>18</td><td>19</td><td>20</td><td>21</td></tr>
-		<tr><td>22</td><td colspan=3>&nbsp;</td></tr>
+		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
+		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
+		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
+	</table>
+	<table>
+		<tr><th colspan=4>Intercalation</th></tr>
+		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
+		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>10<sup>th</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>&nbsp;</td><td>1</td><td>2</td><td>3</td></tr>
-		<tr><td>4</td><td>5</td><td>6</td><td>7</td></tr>
-		<tr><td>8</td><td>9</td><td>10</td><td>11</td></tr>
-		<tr><td>12</td><td>13</td><td>14</td><td>15</td></tr>
-		<tr><td>16</td><td>17</td><td>18</td><td>19</td></tr>
-		<tr><td>20</td><td>21</td><td>22</td><td>23</td></tr>
-		<tr><td colspan=4>&nbsp;</td></tr>
+		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
+		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
+		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>11<sup>th</sup> Month</th></tr>
@@ -209,19 +304,17 @@ During the height of the empire, the imperial administration maintained a 16-yea
 		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
 		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
 		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td colspan=2></td></tr>
-		<tr><td colspan=4>&nbsp;</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>12<sup>th</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td colspan=2></td><td>1</td><td>2</td></tr>
-		<tr><td>3</td><td>4</td><td>5</td><td>6</td></tr>
-		<tr><td>7</td><td>8</td><td>9</td><td>10</td></tr>
-		<tr><td>11</td><td>12</td><td>13</td><td>14</td></tr>
-		<tr><td>15</td><td>16</td><td>17</td><td>18</td></tr>
-		<tr><td>19</td><td>20</td><td>21</td><td>22</td></tr>
-		<tr><td colspan=4>&nbsp;</td></tr>
+		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
+		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
+		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>13<sup>th</sup> Month</th></tr>
@@ -231,30 +324,27 @@ During the height of the empire, the imperial administration maintained a 16-yea
 		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
 		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
 		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td></td></tr>
-		<tr><td colspan=4>&nbsp;</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>14<sup>th</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td colspan=3></td><td>1</td></tr>
-		<tr><td>2</td><td>3</td><td>4</td><td>5</td></tr>
-		<tr><td>6</td><td>7</td><td>8</td><td>9</td></tr>
-		<tr><td>10</td><td>11</td><td>12</td><td>13</td></tr>
-		<tr><td>14</td><td>15</td><td>16</td><td>17</td></tr>
-		<tr><td>18</td><td>19</td><td>20</td><td>21</td></tr>
-		<tr><td>22</td><td colspan=3>&nbsp;</td></tr>
+		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
+		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
+		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>15<sup>th</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>&nbsp;</td><td>1</td><td>2</td><td>3</td></tr>
-		<tr><td>4</td><td>5</td><td>6</td><td>7</td></tr>
-		<tr><td>8</td><td>9</td><td>10</td><td>11</td></tr>
-		<tr><td>12</td><td>13</td><td>14</td><td>15</td></tr>
-		<tr><td>16</td><td>17</td><td>18</td><td>19</td></tr>
-		<tr><td>20</td><td>21</td><td>22</td><td>23</td></tr>
-		<tr><td colspan=4>&nbsp;</td></tr>
+		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
+		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
+		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>16<sup>th</sup> Month</th></tr>
@@ -264,19 +354,17 @@ During the height of the empire, the imperial administration maintained a 16-yea
 		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
 		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
 		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td colspan=2></td></tr>
-		<tr><td colspan=4>&nbsp;</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>17<sup>th</sup> Month</th></tr>
 		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td colspan=2></td><td>1</td><td>2</td></tr>
-		<tr><td>3</td><td>4</td><td>5</td><td>6</td></tr>
-		<tr><td>7</td><td>8</td><td>9</td><td>10</td></tr>
-		<tr><td>11</td><td>12</td><td>13</td><td>14</td></tr>
-		<tr><td>15</td><td>16</td><td>17</td><td>18</td></tr>
-		<tr><td>19</td><td>20</td><td>21</td><td>22</td></tr>
-		<tr><td colspan=4>&nbsp;</td></tr>
+		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
+		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
+		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 	<table>
 		<tr><th colspan=4>18<sup>th</sup> Month</th></tr>
@@ -286,21 +374,13 @@ During the height of the empire, the imperial administration maintained a 16-yea
 		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
 		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
 		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td></td></tr>
-		<tr><td colspan=4>&nbsp;</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>19<sup>th</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td colspan=3></td><td>1</td></tr>
-		<tr><td>2</td><td>3</td><td>4</td><td>5</td></tr>
-		<tr><td>6</td><td>7</td><td>8</td><td>9</td></tr>
-		<tr><td>10</td><td>11</td><td>12</td><td>13</td></tr>
-		<tr><td>14</td><td>15</td><td>16</td><td>17</td></tr>
-		<tr><td>18</td><td>19</td><td>20</td><td>21</td></tr>
-		<tr><td>22</td><td colspan=3>&nbsp;</td></tr>
+		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
 	</table>
 </fieldset>
+
+### Elven Calendar (Dǿgnstal)
+
+The elves maintain their own calendar, which is a solar calendar. According to the Elvish calendar, the current year is ***Tykktið 11238***; none remember the meaning of the calendar era name. The year is divided into fourths, corresponding to the solstices and equinoxes. Days are counted rather than quarter-days.
 
 ## History
 
