@@ -68,9 +68,9 @@ Originate from [Nebo](/ecumene/heavens/#merodach--nebo), and are known for their
 
 ## Calendars
 
-Most humans on the Ecumene make use of some form of the Civic Calender, a lunisolar calendar established during the High Imperium. According to the Civic Calendar, the current year is ***7130***{: .ae} (*ab Egressu*, "Since the Landing", i.e. when the Elves first came to the Ecumene and brought civilization). Other, local calendar eras, commemorating ruling dynasties or other significant founding dates, also exist. The new year is marked at the first sighting of the New Elder Sister after the Spring Equinox. Notably, the Civic Calendar counts the quarter-days rather than the days.
+Most humans on the Ecumene make use of some form of the Civic Calender, established during the High Imperium. According to the Civic Calendar, the current year is ***7130***{: .ae}.
 
-The elves maintain their own calendar, which is a solar calendar. According to the Elvish calendar, the current year is ***Tykktið 11238***; none remember the meaning of the calendar era name. The year is divided into fourths, corresponding to the solstices and equinoxes. Days are counted rather than quarter-days.
+The elves maintain their own calendar, ***the Dögnstal***. According to the Elven calendar, the current year is ***Tykktið 11238***.
 
 ### The Civic Calendar
 
@@ -175,212 +175,28 @@ Instead of a year of 108/9 days, the Civic Calendar has a year of **432/6 quarte
 The names of the months are based upon the old Edramorian calendar, of which there were 19 (consisting of 22 or 23 days), which strictly followed the phases of the Ecumene's moon, the Elder Sister, and which had an intercalary 20th month added in order to keep the beginning of the year aligned with the Southern Spring Equinox. All of this required a priesthood with staff capable of observing and recording the movement of the heavens and to make pronouncements on when a month was "hollow" (22 days) or "full" (23 days), when a year was "common" (19 months) or "long" (20 months), and so on.
 
 <aside class="sidebox">
-	<p>=IF(TRUNC((B26-6000)*$A$3) - TRUNC((B26-6001)*$A$3)-108=0, "short", "long")</p>
+	<p>c &equals; current year &minus; 6000<br />y &equals; year length in days (~108 <sup>20371</sup>&frasl;<sub>31250</sub>)</p>
+	<p>&LeftFloor;c &times; y&RightFloor; - &LeftFloor;(c &minus; 1) &times; y&RightFloor; &equals; ?</p>
+	<p>&#9136; 109 : long<br />&#9137; 108 : short</p>
 </aside>
 
-Intercalation is handled according to a formula, in the form of a single day (four quarter-days) inserted between the Ninth and Tenth months.
+Intercalation in the Civic Calendar is handled according to a formula, in the form of a single day (four quarter-days) inserted between the Ninth and Tenth months. Direct observation, then, is used to supplement the calendar rather than dictate it, by verifying an accurate calculation.
+
+#### Years since The Landing
+
+The calendar era of the Civic Calendar marks years since the Elves first landed on the Ecumene and brought civilization to Mankind. According to surviving Elven records, this took place on **Pý 4 Köktyl Tykktið 4108**, approximately halfway between the Southern Spring Equinox and the Southern Summer Solstice.
 
 #### Indiction
 
 During the height of the empire, the imperial administration maintained a 20-year indiction cycle, used to track the reassessment of taxation rates on land et al. and later extended to include other civil service documentation. Following the Late Imperium Period, the indiction was only retained within the imperial core and eventually dropped during the reforms that began the Post-Imperium Period.
 
-#### Years since The Landing
-
-The calendar era of the Civic Calendar marks years since the Elves first landed on the Ecumene and brought civilization to Mankind.
-
-#### Civic Calendar, *7130*{: .ae } (Type 1, Long)
-
-<fieldset>
-	<table>
-		<tr><th colspan=4>1<sup>st</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>2<sup>nd</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>3<sup>rd</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>4<sup>th</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>5<sup>th</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>6<sup>th</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>7<sup>th</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>8<sup>th</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>9<sup>th</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>Intercalation</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>10<sup>th</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>11<sup>th</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>12<sup>th</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>13<sup>th</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>14<sup>th</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>15<sup>th</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>16<sup>th</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>17<sup>th</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-	<table>
-		<tr><th colspan=4>18<sup>th</sup> Month</th></tr>
-		<tr><th>R</th><th>A</th><th>W</th><th>W</th></tr>
-		<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
-		<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
-		<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
-		<tr><td>13</td><td>14</td><td>15</td><td>16</td></tr>
-		<tr><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-		<tr><td>21</td><td>22</td><td>23</td><td>24</td></tr>
-	</table>
-</fieldset>
-
-### Elven Calendar (Dǿgnstal)
+### Elven Calendar (Dögnstal)
 
 The elves maintain their own calendar, which is a solar calendar. According to the Elvish calendar, the current year is ***Tykktið 11238***; none remember the meaning of the calendar era name. The year is divided into fourths, corresponding to the solstices and equinoxes. Days are counted rather than quarter-days.
+
+#### Cycle of Days
+
+The year is divided into fourths, corresponding to the solstices and equinoxes. Days are counted rather than quarter-days.
 
 ## History
 
