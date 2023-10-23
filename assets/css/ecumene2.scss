@@ -348,21 +348,3 @@ aside.sidebox td:first-of-type {
 	color:						unset;
 }
 
-/*
- *	CALENDAR
- */
-
-fieldset.civic-calendar {
-	display:					grid;
-	grid-template-columns:		1fr 1fr 1fr;
-	padding:					0;
-	border-style:				none;
-	grid-gap:					1em;
-	font-size:					smaller;
-}
-fieldset.civic-calendar th, fieldset.civic-calendar td {
-	text-align:					right;
-}
-fieldset.civic-calendar table.full-row {
-	grid
-}
