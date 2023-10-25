@@ -88,26 +88,26 @@ Due to the Ecumene’s distinct cosmological arrangement, the Civic Calendar doe
 
 Instead of a year of 108/9 days, the Civic Calendar has a year of **432/6 quarter-days**. These quarter-days are organized into 18 months of 24 quarter-days.
 
-| Order | Name of Month |
-|-------|---------------|
-| 01    |               |
-| 02    |               |
-| 03    |               |
-| 04    |               |
-| 05    |               |
-| 06    |               |
-| 07    |               |
-| 08    |               |
-| 09    |               |
-| 10    |               |
-| 11    |               |
-| 12    |               |
-| 13    |               |
-| 14    |               |
-| 15    |               |
-| 16    |               |
-| 17    |               |
-| 18    |               |
+| Order | Name of Month (High Imperial) | (Low Imperial) | (Mayencien) |
+|-------|-------------------------------|----------------|-------------|
+| 01    |                               |                |             |
+| 02    |                               |                |             |
+| 03    |                               |                |             |
+| 04    |                               |                |             |
+| 05    | Fenarius                      | Fennaio        | Fenier      |
+| 06    |                               |                |             |
+| 07    |                               |                |             |
+| 08    |                               |                |             |
+| 09    |                               |                |             |
+| 10    |                               |                |             |
+| 11    |                               |                |             |
+| 12    |                               |                |             |
+| 13    |                               |                |             |
+| 14    |                               |                |             |
+| 15    |                               |                |             |
+| 16    |                               |                |             |
+| 17    |                               |                |             |
+| 18    |                               |                |             |
 
 The names of the months are based upon the old Edramorian calendar, of which there were 19 (consisting of 22 or 23 days), which strictly followed the phases of the Ecumene's moon, the Elder Sister, and which had an intercalary 20th month added in order to keep the beginning of the year aligned with the Southern Spring Equinox. All of this required a priesthood with staff capable of observing and recording the movement of the heavens and to make pronouncements on when a month was "hollow" (22 days) or "full" (23 days), when a year was "common" (19 months) or "long" (20 months), and so on.
 
@@ -121,11 +121,15 @@ Intercalation in the Civic Calendar is handled according to a formula, in the fo
 
 #### Years since The Landing
 
-The calendar era of the Civic Calendar marks years since the Elves first landed on the Ecumene and brought civilization to Mankind. According to surviving Elven records, this took place on **Pý 4 Köktyl Tykktið 4108**, approximately halfway between the Southern Spring Equinox and the Southern Summer Solstice. This functions as Year Zero for the Civic Calendar's predominant calendar era, *Ab Egressu* (AE).
+The calendar era of the Civic Calendar marks years since the Elves first landed on the Ecumene and brought civilization to Mankind. According to surviving Elven records, this took place on **Tykktið 4108 Köktyl Pý 4**, approximately halfway between the Southern Spring Equinox and the Southern Summer Solstice. This functions as Year Zero for the Civic Calendar's predominant calendar era, *Ab Egressu* (AE).
 
 #### Indiction
 
-During the height of the empire, the imperial administration maintained a 20-year indiction cycle, used to track the reassessment of taxation rates on land et al. and later extended to include other civil service documentation. Following the Late Imperium Period, the indiction was only retained within the imperial core and eventually dropped during the reforms that began the Post-Imperium Period.
+During the height of the empire, the imperial administration maintained a 20-year indiction cycle, used to track the reassessment of taxation rates on land et al. and later extended to include other civil service documentation. Following the Late Imperium Period, the indiction was only retained within the imperial core.
+
+#### Date Format
+
+Dates in the Civic Calendar are rendered **Day Month [Indiction] Year**, e.g. *9 Fenarii [10a Indictione] anno 7130 ab Egressu*. This can be shortened to *9 Fen [10I] 7130*{.ae}. Outside of the Imperium proper, the Indiction is no longer recorded.
 
 ### Elven Calendar
 
@@ -135,14 +139,16 @@ According to the Elvish calendar, the current year is ***Tykktið 11238***.
 
 #### Quarters of the Year
 
-The year is divided into fourths, corresponding to the solstices and equinoxes. Days are counted rather than quarter-days.
+The year is divided into fourths, corresponding to the time between solstices and equinoxes. Days are counted rather than quarter-days.
 
-| Name      | Period                                 |
-|-----------|----------------------------------------|
-| Jelnystin | Southward Equinox to Southern Solstice |
-| Óðkukva   | Southern Solstice to Northward Equinox |
-| Kǿktyl    | Northward Equinox to Northern Solstice |
-| Ýnpjøttva | Northern Solstice to Southward Equinox |
+| Name      | Initiating Event                  |
+|-----------|-----------------------------------|
+| Jelnystin | Southward Equinox (start of year) |
+| Óðkukva   | Southern Solstice                 |
+| Kǿktyl    | Northward Equinox                 |
+| Ýnpjøttva | Northern Solstice                 |
+
+These are not words for seasons and thus apply in either hemisphere (their meaning has been lost to time). The Elves maintain separate words when speaking of seasons, which are more specifically cultivated to the local climate.
 
 #### Cycles of Days
 
@@ -156,7 +162,7 @@ The twelve *Dögnsnöfn* do not have recognizable meanings within the Elven lang
 | Kúla      |
 | Hísr      |
 | Söta      |
-| Talø      |
+| Talö      |
 | Jǿrsa     |
 | Pý        |
 | Isjatta   |
@@ -167,17 +173,21 @@ The twelve *Dögnsnöfn* do not have recognizable meanings within the Elven lang
 
 The nine *Dögnsrím* are traditionally associated with the nine spiritual points of the body; Elven culture encourages one to meditate upon the associated point during that day, so that upon the completion of the cycle of day numbers, the whole body has been meditated upon.
 
-| Dögnsrím | Point of the Body                                            |
-|----------|--------------------------------------------------------------|
-| 01       | *Rót* "Root", at the base of the spine                       |
-| 02       | *Elfr* "River", midway between the base and behind the navel |
-| 03       | *Smuk* "Jewel", behind the navel                             |
-| 04       | *Hjarta* "Heart, behind the sternum                          |
-| 05       | *Skær* "Clear", behind the throat                            |
-| 06       | *Gómr*, "Palate", behind the nose                            |
-| 07       | *Heit* "Promise", behind the forehead                        |
-| 08       | *Ómandi* "Resounding", in the midst of the brain             |
-| 09       | *Baugr* "Umbo", the crown of the head                        |
+| Dögnsrím | Point of the Body                                     |
+|----------|-------------------------------------------------------|
+| 01       | *Rót* "Base", at the base of the spine                |
+| 02       | *Elfr* "River", midway between the base and the navel |
+| 03       | *Smuk* "Jewel", behind the navel                      |
+| 04       | *Hjarta* "Heart, behind the sternum                   |
+| 05       | *Skær* "Clear", behind the throat                     |
+| 06       | *Gómr*, "Palate", behind the nose                     |
+| 07       | *Heit* "Promise", behind the forehead                 |
+| 08       | *Ómandi* "Resounding", in the midst of the brain      |
+| 09       | *Baugr* "Umbo", the crown of the head                 |
+
+#### Date Format
+
+Dates in Dögnsbindi are rendered ***Year Quarter Day-Name Day-Number***, e.g. *Tykktið 11238 Jelnystin Lahir 1*, the first day of the current year.
 
 ## History
 
