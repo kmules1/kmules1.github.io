@@ -45,10 +45,7 @@ h1 {
 }
 h2 {	font-size:				2em;	}
 h3 {	font-size:				1.25em;	}
-h4 {
-	font-size:					1.25em;
-	font-style:					italic;
-}
+h4 {	font-size:				1em;	}
 h5 {	font-size:				1em;	}
 
 body {
@@ -74,7 +71,6 @@ a:hover {
 }
 
 a.to-top {
-	padding-left:				1rem;
 	text-decoration:			none;
 }
 
@@ -239,9 +235,9 @@ main > * {
 main h2 {
 	counter-increment:			headers;
 	display:					grid;
-	grid-template-columns:		2rem auto 2rem;
-	margin-inline:				unset;
-	max-width:					30rem;
+	grid-template-columns:		3rem auto 3rem;
+	margin-inline:				-1rem;
+	max-width:					32rem;
 }
 main h2:before {
 	display:					block;
@@ -250,13 +246,12 @@ main h2:before {
 
 main h3 {
 	display:					grid;
-	grid-gap:					2rem;
-	grid-template-columns:		25rem 2rem;
+	grid-template-columns:		auto 2rem;
+	max-width:					28rem;
 }
 
-main p,main ul,main fieldset, main table {
-	width:						100%;
-	max-width:					25rem;
+main p,main ul,main figure, main table {
+	max-width:					26rem;
 	text-align:					justify;
 }
 
@@ -279,7 +274,6 @@ main li::before {
  */
 
 main > figure {
-	max-width:					25rem;
 	margin-block:				2rem;
 	text-align:					center;
 }

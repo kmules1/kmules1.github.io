@@ -70,7 +70,7 @@ Originate from [Nebo](/ecumene/heavens/#merodach--nebo), and are known for their
 
 Most humans on the Ecumene make use of some form of the Civic Calender, established during the High Imperium. According to the Civic Calendar, the current year is ***7130***{: .ae}.
 
-The elves maintain their own calendar, ***the Dögnstal***. According to the Elven calendar, the current year is ***Tykktið 11238***.
+The elves maintain their own calendar, ***the Dögnsbindi***. According to the Elven calendar, the current year is ***Tykktið 11238***.
 
 ### The Civic Calendar
 
@@ -88,89 +88,26 @@ Due to the Ecumene’s distinct cosmological arrangement, the Civic Calendar doe
 
 Instead of a year of 108/9 days, the Civic Calendar has a year of **432/6 quarter-days**. These quarter-days are organized into 18 months of 24 quarter-days.
 
-<table>
-	<caption>List of Months</caption>
-	<thead>
-		<tr>
-			<th>Order</th>
-			<th>Name</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>01</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>02</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>03</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>04</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>05</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>06</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>07</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>08</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>09</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>10</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>11</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>12</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>13</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>14</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>15</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>16</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>17</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>18</td>
-			<td></td>
-		</tr>
-	</tbody>
-</table>
+| Order | Name of Month |
+|-------|---------------|
+| 01    |               |
+| 02    |               |
+| 03    |               |
+| 04    |               |
+| 05    |               |
+| 06    |               |
+| 07    |               |
+| 08    |               |
+| 09    |               |
+| 10    |               |
+| 11    |               |
+| 12    |               |
+| 13    |               |
+| 14    |               |
+| 15    |               |
+| 16    |               |
+| 17    |               |
+| 18    |               |
 
 The names of the months are based upon the old Edramorian calendar, of which there were 19 (consisting of 22 or 23 days), which strictly followed the phases of the Ecumene's moon, the Elder Sister, and which had an intercalary 20th month added in order to keep the beginning of the year aligned with the Southern Spring Equinox. All of this required a priesthood with staff capable of observing and recording the movement of the heavens and to make pronouncements on when a month was "hollow" (22 days) or "full" (23 days), when a year was "common" (19 months) or "long" (20 months), and so on.
 
@@ -184,19 +121,63 @@ Intercalation in the Civic Calendar is handled according to a formula, in the fo
 
 #### Years since The Landing
 
-The calendar era of the Civic Calendar marks years since the Elves first landed on the Ecumene and brought civilization to Mankind. According to surviving Elven records, this took place on **Pý 4 Köktyl Tykktið 4108**, approximately halfway between the Southern Spring Equinox and the Southern Summer Solstice.
+The calendar era of the Civic Calendar marks years since the Elves first landed on the Ecumene and brought civilization to Mankind. According to surviving Elven records, this took place on **Pý 4 Köktyl Tykktið 4108**, approximately halfway between the Southern Spring Equinox and the Southern Summer Solstice. This functions as Year Zero for the Civic Calendar's predominant calendar era, *Ab Egressu* (AE).
 
 #### Indiction
 
 During the height of the empire, the imperial administration maintained a 20-year indiction cycle, used to track the reassessment of taxation rates on land et al. and later extended to include other civil service documentation. Following the Late Imperium Period, the indiction was only retained within the imperial core and eventually dropped during the reforms that began the Post-Imperium Period.
 
-### Elven Calendar (Dögnstal)
+### Elven Calendar
 
-The elves maintain their own calendar, which is a solar calendar. According to the Elvish calendar, the current year is ***Tykktið 11238***; none remember the meaning of the calendar era name. The year is divided into fourths, corresponding to the solstices and equinoxes. Days are counted rather than quarter-days.
+The elves maintain their own calendar, the *Dögnsbindi* ("Day Tome"). The year is divided into fourths, corresponding to the solstices and equinoxes. Days are counted rather than quarter-days. Unlike in the Civic Calendar, days in the Dögnsbindi are reckoned according to two intertwines cycles of days, each incrementing together.
 
-#### Cycle of Days
+According to the Elvish calendar, the current year is ***Tykktið 11238***. 
+
+#### Quarters of the Year
 
 The year is divided into fourths, corresponding to the solstices and equinoxes. Days are counted rather than quarter-days.
+
+| Name      | Period                                 |
+|-----------|----------------------------------------|
+| Jelnystin | Southward Equinox to Southern Solstice |
+| Óðkukva   | Southern Solstice to Northward Equinox |
+| Kǿktyl    | Northward Equinox to Northern Solstice |
+| Ýnpjøttva | Northern Solstice to Southward Equinox |
+
+#### Cycles of Days
+
+Days of the year are reckoned according to two intertwined cycles of days, the *Dögnsnöfn* ("Day Names") and the *Dögnsrím* ("Day Numbers"). As each day progresses, the two cycles increment together, i.e. *1 Lahir* is followed by *2 Kúla*, then *3 Hísr*, and so on. With twelve day names and nine day numbers, this produces thirty-six combinations, ending in *9 Kjömr* before looping back to *1 Lahir*. This cycle is completed three times during the year to produce 108 days. The 109th day, which is sometimes skipped in order to maintain alignment with the yearly cycle of solstices and equinoxes, is called *0* with no associated day name.
+
+The twelve *Dögnsnöfn* do not have recognizable meanings within the Elven language.
+
+| Dögnsnafn |
+|-----------|
+| Lahir     |
+| Kúla      |
+| Hísr      |
+| Söta      |
+| Talø      |
+| Jǿrsa     |
+| Pý        |
+| Isjatta   |
+| Hjøkkja   |
+| Rúha      |
+| Séfn      |
+| Kjǿmr     |
+
+The nine *Dögnsrím* are traditionally associated with the nine spiritual points of the body; Elven culture encourages one to meditate upon the associated point during that day, so that upon the completion of the cycle of day numbers, the whole body has been meditated upon.
+
+| Dögnsrím | Point of the Body                                            |
+|----------|--------------------------------------------------------------|
+| 01       | *Rót* "Root", at the base of the spine                       |
+| 02       | *Elfr* "River", midway between the base and behind the navel |
+| 03       | *Smuk* "Jewel", behind the navel                             |
+| 04       | *Hjarta* "Heart, behind the sternum                          |
+| 05       | *Skær* "Clear", behind the throat                            |
+| 06       | *Gómr*, "Palate", behind the nose                            |
+| 07       | *Heit* "Promise", behind the forehead                        |
+| 08       | *Ómandi* "Resounding", in the midst of the brain             |
+| 09       | *Baugr* "Umbo", the crown of the head                        |
 
 ## History
 
