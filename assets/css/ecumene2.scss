@@ -34,6 +34,8 @@ $red:							#CF3A24;		//	緋		Ake			Scarlet (blood)
 	font-size:					16px;
 	font-size:					clamp(1rem,2vw,1.5rem);
 	line-height:				1.5;
+	
+	scroll-behavior:			smooth;
 }
 
 h1, h2, h3 {
@@ -184,16 +186,22 @@ nav section.double-column li {
 #toc {
 	margin:						2rem;
 	//column-count:				2;
+	width:						50%;
 }
 #toc ul {
 	padding-left:				unset;
-	grid-column:				2 / 3;
+	grid-column:				sub-ul;
 	margin:						0;
 	list-style:					none;
 }
+
+#toc ul ul {
+	counter-reset:				toc-subheaders;
+}
+
 #toc li {
 	grid-template-columns:		2rem auto;
-	grid-template-areas:		"counter link";
+	grid-template-areas:		"counter link" "counter sub-ul";
 	page-break-inside:			avoid;
 	break-inside:				avoid-column;
 }
@@ -201,6 +209,14 @@ nav section.double-column li {
 	display:					block;
 	grid-area:					counter;
 }
+
+#toc li li {
+	display:					grid;
+}
+#toc li li::before {
+	content:					counter(toc-headers) "." counter(toc-subheaders);
+}
+
 #toc a {
 	grid-area:					link;
 }
@@ -225,7 +241,7 @@ nav section.double-column li {
  */
 
 main {
-	counter-reset: 				headers;
+	counter-reset: 				main-headers;
 }
 
 main > * {
@@ -233,21 +249,29 @@ main > * {
 }
 
 main h2 {
-	counter-increment:			headers;
+	counter-increment:			main-headers;
+	counter-reset:				main-subheaders;
 	display:					grid;
 	grid-template-columns:		2rem auto;
 	margin-inline:				0;
 	max-width:					30rem;
 }
-main h2:before {
+main h2::before {
 	display:					block;
-	content:					counter(headers) ".\00a0";
+	content:					counter(main-headers) ".\00a0";
 }
 
 main h3 {
+	counter-increment:			main-subheaders;
 	display:					grid;
-	grid-template-columns:		auto 2rem;
+	grid-template-columns:		2rem auto;
 	max-width:					28rem;
+	margin-inline:				0;
+}
+
+main h3::before {
+	display:					block;
+	content:					counter(main-headers) "." counter(main-subheaders);
 }
 
 main p,main ul,main figure {
