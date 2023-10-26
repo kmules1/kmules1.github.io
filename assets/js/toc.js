@@ -67,7 +67,7 @@
     .each(function(_, header) {
       this_level = get_level(header);
       if (!settings.noBackToTopLinks && this_level === highest_level) {
-        //$(header).addClass('top-level-header').after(return_to_top);
+        $(header).addClass('top-level-header').after(return_to_top);
       }
       if (this_level === level) // same level as before; same indenting
         html += "<li class=\"" + settings.classes.item + "\">" + createLink(header);
@@ -97,8 +97,8 @@
     render[settings.showEffect]();
     
     //adding a link to top in each targetted header
-    headers.each(function() {
-        $(this).html('<span>' + $(this).html() + '</span><a href="#" class="to-top">&para;</a>');
-    });
+    //headers.each(function() {
+    //    $(this).html('<span>' + $(this).html() + '</span><a href="#" class="to-top">&para;</a>');
+    //});
   };
 })(jQuery);

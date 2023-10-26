@@ -20,6 +20,17 @@
 					em.html(date + 'ae');
 				});
 			});
+			
+			window.onscroll = function() {
+				$('#link-to-top').toggleClass('visible',
+					(document.body.scrollTop > 20 || document.documentElement.scrollTop > 20)
+				);
+			};
+			
+			function returnToTop() {
+				document.body.scrollTop = 0;
+				document.documentElement.scrollTop = 0;
+			};
 		</script>
 	</head>
 	<body>
@@ -76,5 +87,8 @@
 		<main>
 			{{ content }}
 		</main>
+		<footer>
+			 <button onclick="returnToTop()" id="link-to-top" title="Go to top">Top</button> 
+		</footer>
 	</body>
 </html>
