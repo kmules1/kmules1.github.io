@@ -88,26 +88,26 @@ Due to the Ecumene’s distinct cosmological arrangement, the Civic Calendar doe
 
 Instead of a year of 108/9 days, the Civic Calendar has a year of **432/6 quarter-days**. These quarter-days are organized into 18 months of 24 quarter-days.
 
-| Order | Name of Month (High Imperial) | (Low Imperial) | (Mayencien) |
-|-------|-------------------------------|----------------|-------------|
-| 01    |                               |                |             |
-| 02    |                               |                |             |
-| 03    |                               |                |             |
-| 04    |                               |                |             |
-| 05    | Fenarius                      | Fennaio        | Fenier      |
-| 06    |                               |                |             |
-| 07    |                               |                |             |
-| 08    |                               |                |             |
-| 09    |                               |                |             |
-| 10    |                               |                |             |
-| 11    |                               |                |             |
-| 12    |                               |                |             |
-| 13    |                               |                |             |
-| 14    |                               |                |             |
-| 15    |                               |                |             |
-| 16    |                               |                |             |
-| 17    |                               |                |             |
-| 18    |                               |                |             |
+| Order | High Imperial | Low Imperial | Mayencien |
+|-------|---------------|--------------|-----------|
+| 01    |               |              |           |
+| 02    |               |              |           |
+| 03    |               |              |           |
+| 04    |               |              |           |
+| 05    | Fenarius      | Fennaio      | Fenier    |
+| 06    |               |              |           |
+| 07    |               |              |           |
+| 08    |               |              |           |
+| 09    |               |              |           |
+| 10    |               |              |           |
+| 11    |               |              |           |
+| 12    |               |              |           |
+| 13    |               |              |           |
+| 14    |               |              |           |
+| 15    |               |              |           |
+| 16    |               |              |           |
+| 17    |               |              |           |
+| 18    |               |              |           |
 
 The names of the months are based upon the old Edramorian calendar, of which there were 19 (consisting of 22 or 23 days), which strictly followed the phases of the Ecumene's moon, the Elder Sister, and which had an intercalary 20th month added in order to keep the beginning of the year aligned with the Southern Spring Equinox. All of this required a priesthood with staff capable of observing and recording the movement of the heavens and to make pronouncements on when a month was "hollow" (22 days) or "full" (23 days), when a year was "common" (19 months) or "long" (20 months), and so on.
 
@@ -121,7 +121,7 @@ Intercalation in the Civic Calendar is handled according to a formula, in the fo
 
 #### Years since The Landing
 
-The calendar era of the Civic Calendar marks years since the Elves first landed on the Ecumene and brought civilization to Mankind. According to surviving Elven records, this took place on **Tykktið 4108 Köktyl Pý 4**, approximately halfway between the Southern Spring Equinox and the Southern Summer Solstice. This functions as Year Zero for the Civic Calendar's predominant calendar era, *Ab Egressu* (AE).
+The calendar era of the Civic Calendar marks years since the Elves first landed on the Ecumene and brought civilization to Mankind. According to surviving records, this took place on **Tykktið 4108 Köktyl Pý 4**, approximately halfway between the Southern Spring Equinox and the Southern Summer Solstice. This functions as Year Zero for the Civic Calendar's predominant calendar era, *Ab Egressu* (AE).
 
 #### Indiction
 
@@ -129,7 +129,7 @@ During the height of the empire, the imperial administration maintained a 20-yea
 
 #### Date Format
 
-Dates in the Civic Calendar are rendered **Day Month [Indiction] Year**, e.g. *9 Fenarii [10a Indictione] anno 7130 ab Egressu*. This can be shortened to *9 Fen [10I] 7130*{.ae}. Outside of the Imperium proper, the Indiction is no longer recorded.
+Dates in the Civic Calendar are rendered **Day Month [Indiction] Year**, e.g. *9 Fenarii [10a Indictione] anno 7130 ab Egressu*. This can be shortened to *9 Fen [10I] 7130*{: .ae}. Outside of the Imperium proper, the Indiction is no longer recorded.
 
 ### Elven Calendar
 
