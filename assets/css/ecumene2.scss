@@ -36,7 +36,7 @@ $red:							#CF3A24;		//	緋		Ake			Scarlet (blood)
 	line-height:				1.5;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3 {
 	color:						var(--red);
 }
 h1 {
@@ -349,16 +349,19 @@ aside.sidebox td:first-of-type {
 #link-to-top {
 	display:					none;
 	position:					fixed;
-	bottom:						1rem;
-	right:						2rem;
+	bottom:						2rem;
+	right:						4rem;
 	z-index:					99;
 	border:						none;
 	outline:					none;
-	background-color:			var(--red);
-	color:						white;
+	background-color:			var(--white);
+	color:						var(--red);
+	border:						2px solid var(--red);
 	cursor:						pointer;
 	padding:					.5rem;
 	border-radius:				.25rem;
+	
+	transition:					all 0.25s;
 }
 
 #link-to-top.visible {
@@ -366,5 +369,11 @@ aside.sidebox td:first-of-type {
 }
 
 #link-to-top:hover {
-	background-color:			var(--grey);
+	background-color:			var(--red);
+	color:						var(--white);
+	border-color:				var(--white);
+}
+#link-to-top:active {
+	background-color:			var(--black);
+	border-color:				var(--black);
 }

@@ -2,7 +2,7 @@
 (function($){
   $.fn.toc = function(options) {
     var defaults = {
-      noBackToTopLinks: false,
+      noBackToTopLinks: true,
       title: '',
       minimumHeaders: 3,
       headers: 'h1, h2, h3',
@@ -67,7 +67,7 @@
     .each(function(_, header) {
       this_level = get_level(header);
       if (!settings.noBackToTopLinks && this_level === highest_level) {
-        $(header).addClass('top-level-header').after(return_to_top);
+        $(header).addClass('top-level-header').append(return_to_top);
       }
       if (this_level === level) // same level as before; same indenting
         html += "<li class=\"" + settings.classes.item + "\">" + createLink(header);
