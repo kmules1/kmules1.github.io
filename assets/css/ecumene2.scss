@@ -312,10 +312,11 @@ figure img.hemisphere {
 	width:						12rem;
 }
 
-figure figcaption.hemisphere {
+figure.paired-images {
 	width:						12rem;
 	display:					inline-block;
 	font-size:					smaller;
+	vertical-align:				top;
 }
 
 /*
