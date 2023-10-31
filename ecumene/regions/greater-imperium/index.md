@@ -8,8 +8,10 @@ The Greater Imperium is the sociocultural region of the Ecumene that encompasses
 ## Geography
 
 <figure>
-    <img src="/assets/img/thrasu+acaman.png">
-	<figcaption>Thrasu (top) and Acaman (bottom).<br>Grey - Highlands, Red - Lethal Zone for Humans.</figcaption>
+	<img class="hemisphere" src="/assets/img/thrasu+acaman.png">
+	<img class="hemisphere" src="/assets/img/high-imperium.png">
+	<figcaption class="hemisphere">Thrasu (top) and Acaman (bottom).<br>Grey - Highlands.<br>Red - Lethal Zone for Humans.</figcaption>
+	<figcaption class="hemisphere">Territorial extent of the High Imperium, circa <em class="ae">6775ae</em>.</figcaption>
 </figure>
 
 The Greater Imperium is situated primarily on the continents of Thrasu and Acaman, with the region's frontiers reaching westward onto Agelae and eastwards into the islands that ring the Sea of Dayan. 

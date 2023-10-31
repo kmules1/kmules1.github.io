@@ -214,32 +214,17 @@ Nothing remains of the great cities, but the remains of minor settlements can be
 ## The Three Sisters
 
 <aside class="sidebox">
-	<table>
-		<thead>
-			<tr>
-				<th>Relationship</th>
-				<th>Resonance</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Great-Elder</td>
-				<td>5:28</td>
-			</tr>
-			<tr>
-				<td>Elder-Middle</td>
-				<td>9:11</td>
-			</tr>
-			<tr>
-				<td>Elder-Younger</td>
-				<td>6:11</td>
-			</tr>
-			<tr>
-				<td>Middle-Younger</td>
-				<td>2:3</td>
-			</tr>
-		</tbody>
-	</table>
+	<h5>Orbital Period Resonances</h5>
+	<dl>
+		<dt>Great-Elder</dt>
+		<dd>5:28</dd>
+		<dt>Elder-Middle</dt>
+		<dd>9:11</dd>
+		<dt>Elder-Younger</dt>
+		<dd>6:11</dd>
+		<dt>Middle-Younger</dt>
+		<dd>2:3</dd>
+	</dl>
 </aside>
 
 The three moons of Ecumene-Luhan are in orbital resonance with one another. The largest and closest, called the Elder Sister, is also in orbital resonance with the Ecumene-Luhan orbital period, resulting in a complex interaction between the five worlds.
