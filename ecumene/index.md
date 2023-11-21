@@ -4,7 +4,7 @@ title: Introduction
 ---
 
 <figure>
-    <img class="hemisphere" src="/assets/img/ecumene_nicolosi.png">
+    <img src="/assets/img/ecumene_nicolosi.png">
     <figcaption>The Ecumene. Nicolosi Globular Projection.</figcaption>
 </figure>
 
