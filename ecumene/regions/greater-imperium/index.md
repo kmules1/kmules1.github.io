@@ -18,13 +18,13 @@ The Greater Imperium is the sociocultural region of the Ecumene that encompasses
 
 The Greater Imperium is situated primarily on the continents of Thrasu and Acaman, with the region's frontiers reaching westward onto Agelae and eastwards into the islands that ring the Sea of Dayan. 
 
+## Society & Culture
+
 ## Politics
 
-## Culture
-
-## Religion
-
 ## Economy
+
+## Philosophy & Religion
 
 ## Technology
 

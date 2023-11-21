@@ -4,9 +4,8 @@ title: Introduction
 ---
 
 <figure>
-    <img class="hemisphere" src="/assets/img/ecumene_ortel_light.png">
-    <img class="hemisphere" src="/assets/img/ecumene_ortel_dark.png">
-    <figcaption>The Ecumene. Separated Ortelius Oval Projection.</figcaption>
+    <img class="hemisphere" src="/assets/img/ecumene_nicolosi.png">
+    <figcaption>The Ecumene. Nicolosi Globular Projection.</figcaption>
 </figure>
 
 Inspired by [Dungeon23](https://seanmccoy.substack.com/p/dungeon23) and its spinoffs (e.g. [Hex23](https://www.youtube.com/watch?v=eDZcY_PYvrk), [World23](https://www.reddit.com/r/worldbuilding/comments/zx7jtp/world23_a_daily_worldbuilding_challenge_for_2023/), etc), the Ecumene is my attempt at creating a campaign setting that may be used in the future in a TTRPG. It isn't intended to comport to any particular regular development schedule, but rather to explore the different fields of worldbuilding in a freeform manner, developing from first principles and developing depth in each field over time.
