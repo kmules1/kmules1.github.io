@@ -312,7 +312,7 @@ figure img.hemisphere {
 	width:						12rem;
 }
 
-figure.paired-images {
+figure.paired-figures {
 	width:						12rem;
 	display:					inline-block;
 	font-size:					smaller;
@@ -391,7 +391,6 @@ table {
 	margin-inline:				3rem;
 	max-width:					25rem;
 	width:						100%;
-	
 }
 
 th,td {
@@ -414,6 +413,11 @@ thead th:last-child {
 
 tbody tr:nth-child(2n+1) td {
 	background-color:			var(--white);
+}
+
+table.list td:first-child {
+	text-align:					right;
+	padding-right:				1rem;
 }
 
 /*

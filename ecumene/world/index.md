@@ -35,9 +35,8 @@ Its surface is predominantly ocean, which takes up eight-ninths of its surface a
 The Ecumene is in a tidally-locked orbit with its twin world, [Luhan](/ecumene/heavens/#luhan-the-great-mother), which is two-thirds the radius and two-fifths the mass. As a result, both worlds have an unusually long rotational period of 65.784 hours. Three moons, the Three Sisters, orbit the Ecumene-Luhan barycenter, which is located one-sixth of the distance between them.
 
 <figure>
-    <img class="hemisphere" src="/assets/img/ecumene_ortel_light.png">
-    <img class="hemisphere" src="/assets/img/ecumene_ortel_dark.png">
-    <figcaption>The Ecumene. Separated Ortelius Oval Projection.</figcaption>
+	<img src="/assets/img/ecumene_nicolosi.png">
+	<figcaption>The Ecumene. Nicolosi Globular Projection.</figcaption>
 </figure>
 
 ## Geography
@@ -68,9 +67,9 @@ Originate from [Nebo](/ecumene/heavens/#merodach--nebo), and are known for their
 
 ## Calendars
 
-Most humans on the Ecumene make use of some form of the Civic Calender, established during the High Imperium. According to the Civic Calendar, the current year is ***7130***{: .ae}.
+Most humans on the Ecumene make use of some form of the Civic Calender, established during the High Imperium. According to the Civic Calendar, the current year is *7130*{: .ae}.
 
-The elves maintain their own calendar, ***the Dögnsbindi***. According to the Elven calendar, the current year is ***Tykktið 11238***.
+The elves maintain their own calendar, the Dögnsbindi. According to the Elven calendar, the current year is *Tykktið 11238*.
 
 ### The Civic Calendar
 
@@ -88,28 +87,53 @@ Due to the Ecumene’s distinct cosmological arrangement, the Civic Calendar doe
 
 Instead of a year of 108/9 days, the Civic Calendar has a year of **432/6 quarter-days**. These quarter-days are organized into 18 months of 24 quarter-days.
 
-| Order | High Imperial | Low Imperial | Mayencien |
-|-------|---------------|--------------|-----------|
-| 01    |               |              |           |
-| 02    |               |              |           |
-| 03    |               |              |           |
-| 04    |               |              |           |
-| 05    | Fenarius      | Fennaio      | Fenier    |
-| 06    |               |              |           |
-| 07    |               |              |           |
-| 08    |               |              |           |
-| 09    |               |              |           |
-| 10    |               |              |           |
-| 11    |               |              |           |
-| 12    |               |              |           |
-| 13    |               |              |           |
-| 14    |               |              |           |
-| 15    |               |              |           |
-| 16    |               |              |           |
-| 17    |               |              |           |
-| 18    |               |              |           |
+The old Edramorian calendar, in contrast, consisted of 19 months of 22 or 23 quarter-days each, strictly following the phases of the Elder Sister, the largest of the Ecumene's three moons. An intercalary 20th months was added in order to keep the beginning of the year aligned with the Southern Spring Equinox, and done at the direction of the priesthood, whose astronomical observations directed whether a month was "hollow" (22 quarter-days) or "full" (23 quarter-days) and whether the year was "common" (19 months) or "long" (20 months).
 
-The names of the months are based upon the old Edramorian calendar, of which there were 19 (consisting of 22 or 23 days), which strictly followed the phases of the Ecumene's moon, the Elder Sister, and which had an intercalary 20th month added in order to keep the beginning of the year aligned with the Southern Spring Equinox. All of this required a priesthood with staff capable of observing and recording the movement of the heavens and to make pronouncements on when a month was "hollow" (22 days) or "full" (23 days), when a year was "common" (19 months) or "long" (20 months), and so on.
+<!--| Order | High Imperial | Low Imperial | Mayencien | Season          |
+|-------|---------------|--------------|-----------|-----------------|
+| I     | Carruca       | Carrozza     | Carrosse  | Budding         |
+| II    | Ecurrilis     | Ecorrile     | Ecourril  |                 |
+| III   | Ferocter      | Ferottere    | Féroctre  |                 |
+| IV    | Rosula        | Rosula       | Rosule    | Flowering       |
+| V     | Taurea        | Torea        | Taureau   |                 |
+| VI    |               |              |           |                 |
+| VII   | Tonitrualis   | Tonitroale   | Tonnerre  | Heat            |
+| VIII  | Fenarius      | Fennaio      | Fenier    |                 |
+| IX    |               |              |           |                 |
+| E     | Eccidium      | Scidio       | Écie      | *Intercalation* |
+| X     | Messilis      | Messile      | Moissil   | Harvest         |
+| XI    |               |              |           |                 |
+| XII   |               |              |           |                 |
+| XIII  | Noctosus      | Nottoso      | Nuiteuse  | Frost           |
+| XIV   | Fuscosus      | Foscoso      | Fusqueuse |                 |
+| XV    |               |              |           |                 |
+| XVI   | Veturialis    | Vietroale    | Vieril    | Quiet           |
+| XVII  |               |              |           |                 |
+| XVIII | Luellosus     | Luolloso     | Lolleuse  |                 |
+{: .list }
+
+
+| Order | High Imperial | Low Imperial | Mayencien | Season          |
+|-------|---------------|--------------|-----------|-----------------|
+| 01    | Ostiarius     | Usciere      | Huissier  | Budding         |
+| 02    | Ecurrilis     | Ecorrile     | Ecourrie  |                 |
+| 03    | Ferocter      | Ferottere    | Féroctre  |                 |
+| 04    |               |              |           | Flowering       |
+| 05    |               |              |           |                 |
+| 06    |               |              |           |                 |
+| 07    | Tonitrualis   | Tonitruale   | Tonnerre  | Heat            |
+| 08    | Fenarius      | Fennaio      | Fenier    |                 |
+| 09    |               |              |           |                 |
+| --    | Eccidium      | Scidio       | Écie      | *Intercalation* |
+| 10    | Messilis      | Messile      | Moissil   | Harvest         |
+| 11    |               |              |           |                 |
+| 12    |               |              |           |                 |
+| 13    | Noctosus      | Nottoso      | Nuiteuse  | Frost           |
+| 14    | Fuscosus      | Foscoso      | Fusqueuse |                 |
+| 15    |               |              |           |                 |
+| 16    |               |              |           | Quiet           |
+| 17    |               |              |           |                 |
+| 18    | Luellosus     | Luolloso     | Lolleuse  |                 | -->
 
 <aside class="sidebox">
 	<p>c &equals; current year &minus; 6000<br />y &equals; year length in days (~108 <sup>20371</sup>&frasl;<sub>31250</sub>)</p>
@@ -117,7 +141,7 @@ The names of the months are based upon the old Edramorian calendar, of which the
 	<p>&#9136; 109 : long<br />&#9137; 108 : short</p>
 </aside>
 
-Intercalation in the Civic Calendar is handled according to a formula, in the form of a single day (four quarter-days) inserted between the Ninth and Tenth months. Direct observation, then, is used to supplement the calendar rather than dictate it, by verifying an accurate calculation.
+Intercalation in the Civic Calendar, on the other hand, is handled according to a formula, in the form of a single day (four quarter-days) inserted between the Ninth and Tenth months. Direct observation, then, is used to supplement the calendar rather than dictate it, by verifying an accurate calculation.
 
 #### Years since The Landing
 
@@ -129,7 +153,7 @@ During the height of the empire, the imperial administration maintained a 20-yea
 
 #### Date Format
 
-Dates in the Civic Calendar are rendered **Day Month [Indiction] Year**, e.g. *9 Fenarii [10a Indictione] anno 7130 ab Egressu*. This can be shortened to *9 Fen [10I] 7130*{: .ae}. Outside of the Imperium proper, the Indiction is no longer recorded.
+Dates in the Civic Calendar are rendered **Day Month [Indiction] Year**, e.g. *9 Octilis [10a Indictione] anno 7130 ab Egressu*. This can be shortened to *9 Oct [10I] 7130*{: .ae}. Outside of the Imperium proper, the Indiction is no longer recorded.
 
 ### Elven Calendar
 
