@@ -89,6 +89,29 @@ Instead of a year of 108/9 days, the Civic Calendar has a year of **432/6 quarte
 
 The old Edramorian calendar, in contrast, consisted of 19 months of 22 or 23 quarter-days each, strictly following the phases of the Elder Sister, the largest of the Ecumene's three moons. An intercalary 20th months was added in order to keep the beginning of the year aligned with the Southern Spring Equinox, and done at the direction of the priesthood, whose astronomical observations directed whether a month was "hollow" (22 quarter-days) or "full" (23 quarter-days) and whether the year was "common" (19 months) or "long" (20 months).
 
+| Order | Determinative Star | Season          |
+|-------|--------------------|-----------------|
+| I     |                    | Budding         |
+| II    |                    |                 |
+| III   |                    |                 |
+| IV    |                    | Flowering       |
+| V     |                    |                 |
+| VI    |                    |                 |
+| VII   |                    | Heat            |
+| VIII  |                    |                 |
+| IX    |                    |                 |
+| E     |                    | *Intercalation* |
+| X     |                    | Harvest         |
+| XI    |                    |                 |
+| XII   |                    |                 |
+| XIII  |                    | Frost           |
+| XIV   |                    |                 |
+| XV    |                    |                 |
+| XVI   |                    | Quiet           |
+| XVII  |                    |                 |
+| XVIII |                    |                 |
+{: .list }
+
 <!--| Order | High Imperial | Low Imperial | Mayencien | Season          |
 |-------|---------------|--------------|-----------|-----------------|
 | I     | Carruca       | Carrozza     | Carrosse  | Budding         |
