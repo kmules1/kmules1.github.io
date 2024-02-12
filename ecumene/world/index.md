@@ -93,28 +93,28 @@ In the old Edramorian calendar, there were 19 months of 22 or 23 quarter-days ea
 
 Under the Civic Calendar, all months are 24 quarter-days each, and the year is composed of 18 months, each associated with an asterism located on or near the ecliptic.
 
-| Order | Determinative Asterism | High Imperial    | Low Imperial              | Mayencien             | Season          |
-|-------|------------------------|------------------|---------------------------|-----------------------|-----------------|
-| I     | The Wolves             | Lupi             | i Lupi                    | les Loups             | Budding         |
-| II    | The Dancing (Buffalo)  | Ballans          | il Ballànte               | le Ballant            |                 |
-| III   | The Rising (Eagle)     | Surgens          | il Sorgènte               | le Surgissant         |                 |
-| IV    | Great Fortune          | Magna Fortuna    | Magna Fortuna             | Grand Fortune         | Flowering       |
-| V     | The Falling (Eagle)    | Cadens           | il Cadènte                | le Chéant             |                 |
-| VI    | The Signs              | Signa            | i Segni                   | les Signes            |                 |
-| VII   | Head of the Lamb       | Capitis Agni     | il Capo dell'Agno         | le Chef de l'Agneau   | Heat            |
-| VIII  | Belly of the Lamb      | Venter Agni      | il Ventre dell'Agno       | le Ventre de l'Agneau |                 |
-| IX    | The Abundance          | Abundantia       | l'Abbondanza              | l'Abondance           |                 |
-| E     |                        |                  |                           |                       | *Intercalation* |
-| X     | The Follower           | Sequens          | il Seguente               | le Suivant            | Harvest         |
-| XI    | The Braids             | Trichiae         | le Trecce                 | les Tresses           |                 |
-| XII   | The Belt               | Cinctura         | la Cintura                | la Ceinture           |                 |
-| XIII  | The Bow                | Arcus            | l'Arco                    | l'Arc                 | Frost           |
-| XIV   | The Empty              | Vacuus           | il Vuoto                  | le Vide               |                 |
-| XV    | The Fishes             | Pisces           | i Pesci                   | Les Poissons          |                 |
-| XVI   | Crown of the Serpent   | Summus Serpentis | il Cocuzzolo del Serpente | Sommet du Serpent     | Quiet           |
-| XVII  | Heart of the Serpent   | Cor Serpentis    | il Cuore del Serpente     | le Cœur du Serpent    |                 |
-| XVIII | Tail of the Serpent    | Cauda Serpentis  | la Coda del Serpente      | la Queue du Serpent   |                 |
-{: .list }
+| Order | Determinative Asterism (High Imperial) | Low Imperial/Mayencien/Meaning                                            | Season          |
+|-------|----------------------------------------|---------------------------------------------------------------------------|-----------------|
+| I     | Lupi                                   | i Lupi<br>les Loups<br>The Wolves                                         | Budding         |
+| II    | Ballans (Bubalus)                      | il Ballànte<br>le Ballant<br>The Dancing (Buffalo)                        |                 |
+| III   | Surgens (Aquila)                       | la Sorgènte<br>le Surgissant<br>The Rising (Eagle)                        |                 |
+| IV    | Magna Fortuna                          | Magna Fortuna<br>Grand Fortune<br>Great Fortune                           | Flowering       |
+| V     | Cadens (Aquila)                        | la Cadènte<br>le Chéant<br>The Falling (Eagle)                            |                 |
+| VI    | Signa                                  | i Segni<br>les Signes<br>The Signs                                        |                 |
+| VII   | Capitis Agni                           | il Capo dell'Agno<br>le Chef de l'Agneau<br>Head of the Lamb              | Heat            |
+| VIII  | Venter Agni                            | il Ventre dell'Agno<br>le Ventre de l'Agneau<br>Belly of the Lamb         |                 |
+| IX    | Abundantia                             | l'Abbondanza<br>l'Abondance<br>The Abundance                              |                 |
+| E     |                                        |                                                                           | *Intercalation* |
+| X     | Sequens                                | il Seguente<br>le Suivant<br>The Follower                                 | Harvest         |
+| XI    | Trichiae                               | le Trecce<br>les Tresses<br>The Braids                                    |                 |
+| XII   | Cinctura                               | la Cintura<br>la Ceinture<br>The Belt                                     |                 |
+| XIII  | Arcus                                  | l'Arco<br>l'Arc<br>The Bow                                                | Frost           |
+| XIV   | Vacuus                                 | il Vuoto<br>le Vide<br>The Empty                                          |                 |
+| XV    | Pisces                                 | i Pesci<br>Les Poissons<br>The Fishes                                     |                 |
+| XVI   | Summus Serpentis                       | il Cocuzzolo del Serpente<br>le Sommet du Serpent<br>Crown of the Serpent | Quiet           |
+| XVII  | Cor Serpentis                          | il Cuore del Serpente<br>le Cœur du Serpent<br>Heart of the Serpent       |                 |
+| XVIII | Cauda Serpentis                        | la Coda del Serpente<br>la Queue du Serpent<br>Tail of the Serpent        |                 |
+{: .list.wide }
 
 <aside class="sidebox">
 	<p>c &equals; current year &minus; 6000<br />y &equals; year length in days (~108 <sup>20371</sup>&frasl;<sub>31250</sub>)</p>
@@ -137,7 +137,7 @@ During the height of the empire, the imperial administration maintained a 20-yea
 Dates in the Civic Calendar are rendered **<Day> of <Month's Determinative Asterism> in the year <Year> since the Landing**. For example, the 9th Day of the 9th Month of the Year *7130*{.ae}:
 - (High Imperial) *9 Abundantiae [10a Indictione] anno 7130 ab Egressu*
 - (Low Imperial) *il 9 dell'Abbondanza dell'anno 7130 dall'Egress*
-- (Mayencien) *le 9 de l'Abondance en l'an 7130 de notre ère*{.ae}
+- (Mayencien) *le 9 de l'Abondance en l'an 7130 depuis l'Egrès*
 
 Shortened, this can be rendered as *9 ABU 7130*{.ae}
 
