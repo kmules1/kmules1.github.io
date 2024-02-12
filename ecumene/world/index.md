@@ -73,90 +73,48 @@ The elves maintain their own calendar, the Dögnsbindi. According to the Elven c
 
 ### The Civic Calendar
 
-The Civic Calendar was established by Axius Otho, the first Venerable Autocrator. It was based upon the old Edramorian calendar, which during the last years of the Old Commonwealth had been abused as part of the overall political disorder. Traditionally the purview of the high priesthood to determine the timing of seasons and whether or not to insert intercalary months, Axius Otho's reform removed that authority by enacting a perpetual calendar. The adoption of the Civic Calendar also coincided with the adoption of a new calendar era, *Ab Egressu* ("Since the Landing").
+The Civic Calendar was established by Axius Otho, the first Venerable Autocrator. It was based upon the old Edramorian calendar, which during the last years of the Old Commonwealth had been abused as part of the overall political disorder. Traditionally, it was the purview of the high priesthood to determine the timing of seasons and whether or not to insert intercalary months, an authority which could be corrupted to benefit political factions. Axius Otho's reform removed that authority by enacting a perpetual calendar.
 
-The process of reforming the old calendar and producing the Civic Calendar relied heavily upon surviving Elven astronomy and chronicles.
+The adoption of the Civic Calendar also coincided with the adoption of a new calendar era, *Ab Egressu* ("Since the Landing"). The process of reforming the old calendar and producing the Civic Calendar relied heavily upon surviving Elven astronomy and chronicles.
 
-#### Days, Quarter-Days, and Months
+#### Days and Quarter-Days
 
-Due to the Ecumene’s distinct cosmological arrangement, the Civic Calendar does not count days but rather quarter-days:
+Due to the Ecumene’s distinct astronomical arrangement, the Civic Calendar does not count days but rather quarter-days:
 - Forenoon (dawn to zenith)
 - Afternoon (zenith to dusk)
 - Waxing (nighttime before Luhan reaches maximum brightness)
 - Waning (nighttime after Luhan reaches maximum brightness)
 
-Instead of a year of 108/9 days, the Civic Calendar has a year of **432/6 quarter-days**. These quarter-days are organized into 18 months of 24 quarter-days.
+Instead of a year of 108/9 days, the Civic Calendar has a year of **432/6 quarter-days**. These quarter-days are organized into 18 months of 24 quarter-days. A full day-night cycle is treated as a sort of week.
 
-The old Edramorian calendar, in contrast, consisted of 19 months of 22 or 23 quarter-days each, strictly following the phases of the Elder Sister, the largest of the Ecumene's three moons. An intercalary 20th months was added in order to keep the beginning of the year aligned with the Southern Spring Equinox, and done at the direction of the priesthood, whose astronomical observations directed whether a month was "hollow" (22 quarter-days) or "full" (23 quarter-days) and whether the year was "common" (19 months) or "long" (20 months).
+#### Months
 
-| Order | Determinative Star | Season          |
-|-------|--------------------|-----------------|
-| I     |                    | Budding         |
-| II    |                    |                 |
-| III   |                    |                 |
-| IV    |                    | Flowering       |
-| V     |                    |                 |
-| VI    |                    |                 |
-| VII   |                    | Heat            |
-| VIII  |                    |                 |
-| IX    |                    |                 |
-| E     |                    | *Intercalation* |
-| X     |                    | Harvest         |
-| XI    |                    |                 |
-| XII   |                    |                 |
-| XIII  |                    | Frost           |
-| XIV   |                    |                 |
-| XV    |                    |                 |
-| XVI   |                    | Quiet           |
-| XVII  |                    |                 |
-| XVIII |                    |                 |
+In the old Edramorian calendar, there were 19 months of 22 or 23 quarter-days each, strictly following the phases of the Elder Sister, the largest of the three moons. An intercalary 20th month was added in order to maintain alignment between the monthly cycle and the beginning of the year, the Southern Spring Equinox. Astronomical observations that indicated whether a month was "hollow" (22 quarter-days) or "full" (23 quarter-days) and whether the year was "common" (19 months) or "long" (20 months) fell under the purview of the priesthood.
+
+Under the Civic Calendar, all months are 24 quarter-days each, and the year is composed of 18 months, each associated with an asterism located on or near the ecliptic.
+
+| Order | Determinative Asterism | High Imperial    | Low Imperial              | Mayencien             | Season          |
+|-------|------------------------|------------------|---------------------------|-----------------------|-----------------|
+| I     | The Wolves             | Lupi             | i Lupi                    | les Loups             | Budding         |
+| II    | The Dancing (Buffalo)  | Ballans          | il Ballànte               | le Ballant            |                 |
+| III   | The Rising (Eagle)     | Surgens          | il Sorgènte               | le Surgissant         |                 |
+| IV    | Great Fortune          | Magna Fortuna    | Magna Fortuna             | Grand Fortune         | Flowering       |
+| V     | The Falling (Eagle)    | Cadens           | il Cadènte                | le Chéant             |                 |
+| VI    | The Signs              | Signa            | i Segni                   | les Signes            |                 |
+| VII   | Head of the Lamb       | Capitis Agni     | il Capo dell'Agno         | le Chef de l'Agneau   | Heat            |
+| VIII  | Belly of the Lamb      | Venter Agni      | il Ventre dell'Agno       | le Ventre de l'Agneau |                 |
+| IX    | The Abundance          | Abundantia       | l'Abbondanza              | l'Abondance           |                 |
+| E     |                        |                  |                           |                       | *Intercalation* |
+| X     | The Follower           | Sequens          | il Seguente               | le Suivant            | Harvest         |
+| XI    | The Braids             | Trichiae         | le Trecce                 | les Tresses           |                 |
+| XII   | The Belt               | Cinctura         | la Cintura                | la Ceinture           |                 |
+| XIII  | The Bow                | Arcus            | l'Arco                    | l'Arc                 | Frost           |
+| XIV   | The Empty              | Vacuus           | il Vuoto                  | le Vide               |                 |
+| XV    | The Fishes             | Pisces           | i Pesci                   | Les Poissons          |                 |
+| XVI   | Crown of the Serpent   | Summus Serpentis | il Cocuzzolo del Serpente | Sommet du Serpent     | Quiet           |
+| XVII  | Heart of the Serpent   | Cor Serpentis    | il Cuore del Serpente     | le Cœur du Serpent    |                 |
+| XVIII | Tail of the Serpent    | Cauda Serpentis  | la Coda del Serpente      | la Queue du Serpent   |                 |
 {: .list }
-
-<!--| Order | High Imperial | Low Imperial | Mayencien | Season          |
-|-------|---------------|--------------|-----------|-----------------|
-| I     | Carruca       | Carrozza     | Carrosse  | Budding         |
-| II    | Ecurrilis     | Ecorrile     | Ecourril  |                 |
-| III   | Ferocter      | Ferottere    | Féroctre  |                 |
-| IV    | Rosula        | Rosula       | Rosule    | Flowering       |
-| V     | Taurea        | Torea        | Taureau   |                 |
-| VI    |               |              |           |                 |
-| VII   | Tonitrualis   | Tonitroale   | Tonnerre  | Heat            |
-| VIII  | Fenarius      | Fennaio      | Fenier    |                 |
-| IX    |               |              |           |                 |
-| E     | Eccidium      | Scidio       | Écie      | *Intercalation* |
-| X     | Messilis      | Messile      | Moissil   | Harvest         |
-| XI    |               |              |           |                 |
-| XII   |               |              |           |                 |
-| XIII  | Noctosus      | Nottoso      | Nuiteuse  | Frost           |
-| XIV   | Fuscosus      | Foscoso      | Fusqueuse |                 |
-| XV    |               |              |           |                 |
-| XVI   | Veturialis    | Vietroale    | Vieril    | Quiet           |
-| XVII  |               |              |           |                 |
-| XVIII | Luellosus     | Luolloso     | Lolleuse  |                 |
-{: .list }
-
-
-| Order | High Imperial | Low Imperial | Mayencien | Season          |
-|-------|---------------|--------------|-----------|-----------------|
-| 01    | Ostiarius     | Usciere      | Huissier  | Budding         |
-| 02    | Ecurrilis     | Ecorrile     | Ecourrie  |                 |
-| 03    | Ferocter      | Ferottere    | Féroctre  |                 |
-| 04    |               |              |           | Flowering       |
-| 05    |               |              |           |                 |
-| 06    |               |              |           |                 |
-| 07    | Tonitrualis   | Tonitruale   | Tonnerre  | Heat            |
-| 08    | Fenarius      | Fennaio      | Fenier    |                 |
-| 09    |               |              |           |                 |
-| --    | Eccidium      | Scidio       | Écie      | *Intercalation* |
-| 10    | Messilis      | Messile      | Moissil   | Harvest         |
-| 11    |               |              |           |                 |
-| 12    |               |              |           |                 |
-| 13    | Noctosus      | Nottoso      | Nuiteuse  | Frost           |
-| 14    | Fuscosus      | Foscoso      | Fusqueuse |                 |
-| 15    |               |              |           |                 |
-| 16    |               |              |           | Quiet           |
-| 17    |               |              |           |                 |
-| 18    | Luellosus     | Luolloso     | Lolleuse  |                 | -->
 
 <aside class="sidebox">
 	<p>c &equals; current year &minus; 6000<br />y &equals; year length in days (~108 <sup>20371</sup>&frasl;<sub>31250</sub>)</p>
@@ -164,7 +122,7 @@ The old Edramorian calendar, in contrast, consisted of 19 months of 22 or 23 qua
 	<p>&#9136; 109 : long<br />&#9137; 108 : short</p>
 </aside>
 
-Intercalation in the Civic Calendar, on the other hand, is handled according to a formula, in the form of a single day (four quarter-days) inserted between the Ninth and Tenth months. Direct observation, then, is used to supplement the calendar rather than dictate it, by verifying an accurate calculation.
+An intercalary day (4 quarter-days) is inserted between the ninth and tenth months according to a formula. Direct observation, thereafter, has been used to supplement the calendar rather than dictate it, to verify that the formula remains an accurate method for determining intercalations.
 
 #### Years since The Landing
 
@@ -176,7 +134,14 @@ During the height of the empire, the imperial administration maintained a 20-yea
 
 #### Date Format
 
-Dates in the Civic Calendar are rendered **Day Month [Indiction] Year**, e.g. *9 Octilis [10a Indictione] anno 7130 ab Egressu*. This can be shortened to *9 Oct [10I] 7130*{: .ae}. Outside of the Imperium proper, the Indiction is no longer recorded.
+Dates in the Civic Calendar are rendered **<Day> of <Month's Determinative Asterism> in the year <Year> since the Landing**. For example, the 9th Day of the 9th Month of the Year *7130*{.ae}:
+- (High Imperial) *9 Abundantiae [10a Indictione] anno 7130 ab Egressu*
+- (Low Imperial) *il 9 dell'Abbondanza dell'anno 7130 dall'Egress*
+- (Mayencien) *le 9 de l'Abondance en l'an 7130 de notre ère*{.ae}
+
+Shortened, this can be rendered as *9 ABU 7130*{.ae}
+
+Outside of the Imperium proper, the Indiction is no longer recorded.
 
 ### Elven Calendar
 
