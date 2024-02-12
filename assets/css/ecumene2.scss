@@ -388,7 +388,6 @@ table {
 	border-collapse:			separate;
 	border-spacing:				0;
 	border-radius:				0.5rem;
-	margin-inline:				3rem;
 	max-width:					25rem;
 	width:						100%;
 }
@@ -421,7 +420,7 @@ table.list td:first-child {
 }
 
 table.wide {
-	max-width:					unset;
+	max-width:					30rem;
 }
 
 /*

@@ -91,29 +91,29 @@ Instead of a year of 108/9 days, the Civic Calendar has a year of **432/6 quarte
 
 In the old Edramorian calendar, there were 19 months of 22 or 23 quarter-days each, strictly following the phases of the Elder Sister, the largest of the three moons. An intercalary 20th month was added in order to maintain alignment between the monthly cycle and the beginning of the year, the Southern Spring Equinox. Astronomical observations that indicated whether a month was "hollow" (22 quarter-days) or "full" (23 quarter-days) and whether the year was "common" (19 months) or "long" (20 months) fell under the purview of the priesthood.
 
-Under the Civic Calendar, all months are 24 quarter-days each, and the year is composed of 18 months, each associated with an asterism located on or near the ecliptic.
+Under the Civic Calendar, all months are 24 quarter-days each, and the year is composed of 18 months, each associated with an asterism located on or near the ecliptic. Because of their common nature, the asterisms are often referred to in the local vernacular language.
 
-| Order | Determinative Asterism (High Imperial) | Low Imperial/Mayencien/Meaning                                            | Season          |
-|-------|----------------------------------------|---------------------------------------------------------------------------|-----------------|
-| I     | Lupi                                   | i Lupi<br>les Loups<br>The Wolves                                         | Budding         |
-| II    | Ballans (Bubalus)                      | il Ballànte<br>le Ballant<br>The Dancing (Buffalo)                        |                 |
-| III   | Surgens (Aquila)                       | la Sorgènte<br>le Surgissant<br>The Rising (Eagle)                        |                 |
-| IV    | Magna Fortuna                          | Magna Fortuna<br>Grand Fortune<br>Great Fortune                           | Flowering       |
-| V     | Cadens (Aquila)                        | la Cadènte<br>le Chéant<br>The Falling (Eagle)                            |                 |
-| VI    | Signa                                  | i Segni<br>les Signes<br>The Signs                                        |                 |
-| VII   | Capitis Agni                           | il Capo dell'Agno<br>le Chef de l'Agneau<br>Head of the Lamb              | Heat            |
-| VIII  | Venter Agni                            | il Ventre dell'Agno<br>le Ventre de l'Agneau<br>Belly of the Lamb         |                 |
-| IX    | Abundantia                             | l'Abbondanza<br>l'Abondance<br>The Abundance                              |                 |
-| E     |                                        |                                                                           | *Intercalation* |
-| X     | Sequens                                | il Seguente<br>le Suivant<br>The Follower                                 | Harvest         |
-| XI    | Trichiae                               | le Trecce<br>les Tresses<br>The Braids                                    |                 |
-| XII   | Cinctura                               | la Cintura<br>la Ceinture<br>The Belt                                     |                 |
-| XIII  | Arcus                                  | l'Arco<br>l'Arc<br>The Bow                                                | Frost           |
-| XIV   | Vacuus                                 | il Vuoto<br>le Vide<br>The Empty                                          |                 |
-| XV    | Pisces                                 | i Pesci<br>Les Poissons<br>The Fishes                                     |                 |
-| XVI   | Summus Serpentis                       | il Cocuzzolo del Serpente<br>le Sommet du Serpent<br>Crown of the Serpent | Quiet           |
-| XVII  | Cor Serpentis                          | il Cuore del Serpente<br>le Cœur du Serpent<br>Heart of the Serpent       |                 |
-| XVIII | Cauda Serpentis                        | la Coda del Serpente<br>la Queue du Serpent<br>Tail of the Serpent        |                 |
+| Order | Determinative Asterism | Low Imperial<br>Mayencien<br>Meaning                                      | Season          |
+|-------|------------------------|---------------------------------------------------------------------------|-----------------|
+| I     | Lupi                   | i Lupi<br>les Loups<br>The Wolves                                         | Budding         |
+| II    | Ballans (Bubalus)      | il Ballànte<br>le Ballant<br>The Dancing (Buffalo)                        |                 |
+| III   | Surgens (Aquila)       | la Sorgènte<br>le Surgissant<br>The Rising (Eagle)                        |                 |
+| IV    | Magna Fortuna          | Gran Fortuna<br>Grand Fortune<br>Great Fortune                            | Flowering       |
+| V     | Cadens (Aquila)        | la Cadènte<br>le Chéant<br>The Falling (Eagle)                            |                 |
+| VI    | Signa                  | i Segni<br>les Signes<br>The Signs                                        |                 |
+| VII   | Capitis Agni           | il Capo dell'Agno<br>le Chef de l'Agneau<br>Head of the Lamb              | Heat            |
+| VIII  | Venter Agni            | il Ventre dell'Agno<br>le Ventre de l'Agneau<br>Belly of the Lamb         |                 |
+| IX    | Abundantia             | l'Abbondanza<br>l'Abondance<br>The Abundance                              |                 |
+| E     |                        |                                                                           | *Intercalation* |
+| X     | Sequens                | il Seguente<br>le Suivant<br>The Follower                                 | Harvest         |
+| XI    | Trichiae               | le Trecce<br>les Tresses<br>The Braids                                    |                 |
+| XII   | Cinctura               | la Cintura<br>la Ceinture<br>The Belt                                     |                 |
+| XIII  | Arcus                  | l'Arco<br>l'Arc<br>The Bow                                                | Frost           |
+| XIV   | Vacuus                 | il Vuoto<br>le Vide<br>The Empty                                          |                 |
+| XV    | Pisces                 | i Pesci<br>Les Poissons<br>The Fishes                                     |                 |
+| XVI   | Summus Serpentis       | il Cocuzzolo del Serpente<br>le Sommet du Serpent<br>Crown of the Serpent | Quiet           |
+| XVII  | Cor Serpentis          | il Cuore del Serpente<br>le Cœur du Serpent<br>Heart of the Serpent       |                 |
+| XVIII | Cauda Serpentis        | la Coda del Serpente<br>la Queue du Serpent<br>Tail of the Serpent        |                 |
 {: .list.wide }
 
 <aside class="sidebox">
