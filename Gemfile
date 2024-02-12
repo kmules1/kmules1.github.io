@@ -33,4 +33,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # GitHub Dependabot updates
   gem "kramdown", ">= 2.3.1"
   gem "activesupport", ">= 7.0.7.1"
-  gem "nokogiri", ">= 1.14.3"
+  gem "nokogiri", ">= 1.16.2"

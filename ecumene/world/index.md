@@ -114,7 +114,7 @@ Under the Civic Calendar, all months are 24 quarter-days each, and the year is c
 | XVI   | Summus Serpentis       | il Cocuzzolo del Serpente<br>le Sommet du Serpent<br>Crown of the Serpent | Quiet           |
 | XVII  | Cor Serpentis          | il Cuore del Serpente<br>le Cœur du Serpent<br>Heart of the Serpent       |                 |
 | XVIII | Cauda Serpentis        | la Coda del Serpente<br>la Queue du Serpent<br>Tail of the Serpent        |                 |
-{: .list.wide }
+{: .list }
 
 <aside class="sidebox">
 	<p>c &equals; current year &minus; 6000<br />y &equals; year length in days (~108 <sup>20371</sup>&frasl;<sub>31250</sub>)</p>

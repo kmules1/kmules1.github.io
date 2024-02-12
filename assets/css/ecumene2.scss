@@ -388,7 +388,7 @@ table {
 	border-collapse:			separate;
 	border-spacing:				0;
 	border-radius:				0.5rem;
-	max-width:					25rem;
+	max-width:					28rem;
 	width:						100%;
 }
 
@@ -417,10 +417,6 @@ tbody tr:nth-child(2n+1) td {
 table.list td:first-child {
 	text-align:					right;
 	padding-right:				1rem;
-}
-
-table.wide {
-	max-width:					30rem;
 }
 
 /*
