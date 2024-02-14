@@ -15,8 +15,11 @@
 				$('#toc').toc();
 				
 				$.each($('em.ae'),function(k,v) {
-					var em = $(v);
-					var date = em.html();em.attr('title', 'anno ' + date + ' ab egressū / ' + (7130 - date) + ' years before present');
+					let em = $(v);
+					let date = em.html().split(' ');
+					date = date[date.length-1];
+					
+					em.attr('title', 'anno ' + date + ' ab egressū / ' + (7130 - date) + ' years before present');
 					em.html(date + 'ae');
 				});
 			});

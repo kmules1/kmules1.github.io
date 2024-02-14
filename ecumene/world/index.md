@@ -11,7 +11,7 @@ title: The World
 		<dt>Eccentricity</dt>
 		<dd>0.0167</dd>
 		<dt>Orbital Period</dt>
-		<dd>0.815 years<sub>🜨</sub></dd>
+		<dd>0.892 years<sub>🜨</sub></dd>
 		<dd>108.65 days<sub>œ</sub></dd>
 	</dl>
 	
@@ -24,7 +24,7 @@ title: The World
 		<dt>Obliquity</dt>
 		<dd>26.19°</dd>
 		<dt>Rotational Period</dt>
-		<dd>2.784d<sub>🜨</sub></dd>
+		<dd>~3d<sub>🜨</sub></dd>
 	</dl>
 </aside>
 
@@ -51,7 +51,11 @@ Due to its deep history, it has long become home for additional species that ori
 
 ### Mankind
 
+The dominant kind on the Ecumene, to which it is indigenous.
+
 ### Elfkind
+
+The few survivors who resettled onto the Ecumene from Luhan, its twin world. Long-lived but slow to reproduce, 
 
 ### Halflingkind
 
@@ -114,7 +118,7 @@ Under the Civic Calendar, all months are 24 quarter-days each, and the year is c
 | XVI   | Summus Serpentis       | il Cocuzzolo del Serpente<br>le Sommet du Serpent<br>Crown of the Serpent | Quiet           |
 | XVII  | Cor Serpentis          | il Cuore del Serpente<br>le Cœur du Serpent<br>Heart of the Serpent       |                 |
 | XVIII | Cauda Serpentis        | la Coda del Serpente<br>la Queue du Serpent<br>Tail of the Serpent        |                 |
-{: .list }
+{: .list.wide }
 
 <aside class="sidebox">
 	<p>c &equals; current year &minus; 6000<br />y &equals; year length in days (~108 <sup>20371</sup>&frasl;<sub>31250</sub>)</p>
@@ -130,18 +134,16 @@ The calendar era of the Civic Calendar marks years since the Elves first landed 
 
 #### Indiction
 
-During the height of the empire, the imperial administration maintained a 20-year indiction cycle, used to track the reassessment of taxation rates on land et al. and later extended to include other civil service documentation. Following the Late Imperium Period, the indiction was only retained within the imperial core.
+During the High Imperium, the imperial administration maintained a 20-year indiction cycle, used to track the reassessment of taxation rates on land et al. and later extended to include other civil service documentation. After the Late Imperium, the indiction cycle was only retained within the imperial core, and generally only for the imperial bureaucracy.
 
 #### Date Format
 
-Dates in the Civic Calendar are rendered **<Day> of <Month's Determinative Asterism> in the year <Year> since the Landing**. For example, the 9th Day of the 9th Month of the Year *7130*{.ae}:
+Dates in the Civic Calendar are rendered **&lt;Quarter-Day&gt; of &lt;Month's Determinative Asterism&gt; in the year &lt;Year&gt; since the Landing**. For example, the 9th Day of the 9th Month of the Year *7130*{: .ae}:
 - (High Imperial) *9 Abundantiae [10a Indictione] anno 7130 ab Egressu*
 - (Low Imperial) *il 9 dell'Abbondanza dell'anno 7130 dall'Egress*
 - (Mayencien) *le 9 de l'Abondance en l'an 7130 depuis l'Egrès*
 
-Shortened, this can be rendered as *9 ABU 7130*{.ae}
-
-Outside of the Imperium proper, the Indiction is no longer recorded.
+In shortened notation, this can be rendered as *9 ABU 7130*{: .ae}.
 
 ### Elven Calendar
 
