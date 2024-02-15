@@ -20,7 +20,7 @@ The Ecumene is located within a binary star system, with planets orbiting each s
 						<div class="surface"></div>
 						<div class="companion"></div>
 					</div>
-					<p>G9V Yellow-Orange Main Sequence Dwarf Star</p>
+					<p>G5V Yellow Main Sequence Dwarf Star</p>
 				</aside>
 				<ul>
 					<li>
@@ -51,7 +51,7 @@ The Ecumene is located within a binary star system, with planets orbiting each s
 								<dd>Terrestrial, Habitable</dd>
 								<dd>Mass: 1 M<sub>œ</sub></dd>
 								<dd>Orbital Period: 108.65 d<sub>œ</sub></dd>
-								<dd>Rotational Period: 65.784 h</dd>
+								<dd>Rotational Period: 72 h</dd>
 							</dl>
 							<p>Wispy White Clouds over Water Surface with Brown-to-Green Land.</p>
 						</aside>
@@ -67,7 +67,7 @@ The Ecumene is located within a binary star system, with planets orbiting each s
 								<dd>Terrestrial, Formerly Habitable</dd>
 								<dd>Mass: 0.210 M<sub>œ</sub></dd>
 								<dd>Orbital Period: 1 d<sub>œ</sub></dd>
-								<dd>Rotational Period: 65.784 h</dd>
+								<dd>Rotational Period: 72 h</dd>
 							</dl>
 							<p>Khaki-Grey Land with Brown Seas pocked with white-rayed craters.</p>
 						</aside>

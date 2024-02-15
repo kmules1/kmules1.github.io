@@ -7,7 +7,7 @@ title: The World
 	<h5>Orbital Characteristics</h5>
 	<dl>
 		<dt>Semi-Major Axis</dt>
-		<dd>0.83 AU</dd>
+		<dd>0.908 AU</dd>
 		<dt>Eccentricity</dt>
 		<dd>0.0167</dd>
 		<dt>Orbital Period</dt>
