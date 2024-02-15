@@ -129,7 +129,7 @@ Under the Civic Calendar, all months are 24 quarter-days each, and the year is c
 <aside class="sidebox">
 	<p>c &equals; current year &minus; 6000<br />y &equals; year length in days (~108 <sup>20371</sup>&frasl;<sub>31250</sub>)</p>
 	<p>&LeftFloor;c &times; y&RightFloor; - &LeftFloor;(c &minus; 1) &times; y&RightFloor; &equals; ?</p>
-	<p>&#9136; 109 : long<br />&#9137; 108 : short</p>
+	<p style="line-height:0.8">&#9136; 109 : long<br />&#9137; 108 : short</p>
 </aside>
 
 An intercalary day (4 quarter-days) is inserted between the ninth and tenth months according to a formula. Direct observation, thereafter, has been used to supplement the calendar rather than dictate it, to verify that the formula remains an accurate method for determining intercalations.
@@ -145,7 +145,7 @@ During the High Imperium, the imperial administration maintained a 20-year indic
 #### Date Format
 
 Dates in the Civic Calendar are rendered **&lt;Quarter-Day&gt; of &lt;Month's Determinative Asterism&gt; in the year &lt;Year&gt; since the Landing**. For example, the 9th Day of the 9th Month of the Year *6999*{: .ae}:
-- (High Imperial) *9 Abundantiae [10a Indictione] anno 7130 ab Egressu*
+- (High Imperial) *9 Abundantiae [10a Indictióne] annó 7130 ab Egressú*
 - (Low Imperial) *il 9 dell'Abbondanza dell'anno 7130 dall'Egress*
 - (Mayencien) *le 9 de l'Abondance en l'an 7130 depuis l'Egrès*
 
