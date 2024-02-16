@@ -47,7 +47,7 @@ Ten major continents, eight minor continents, and countless islands. Most of the
 
 The Ecumene is home to several sapient species. By far the most populous of these is Mankind, which is indigenous to the Ecumene and has a dominant role in its histories and societies. Other indigenous Thinking Kinds include Halflings and Goblins.
 
-Due to its deep history, it has long become home for additional species that originate from the other worlds in the Ador-Ayn Star System. A significantly less populous but historically critical kind is Elfkind, whose first arrival to the Ecumene marks the beginning of the most common calendar era, (AE *ab Egressu* "since the Landing") and who evacuated to the Ecumene following the Cataclysm of *2791*{: .ae}, when their homeworld became uninhabitable.
+Due to its deep history, it has long become home for additional species that originate from the other worlds in the Ador-Ayn Star System. A significantly less populous but historically critical kind is Elfkind, whose first arrival to the Ecumene marks the beginning of the most common calendar era, (AE *Ab Egressú* "since the Landing") and who evacuated to the Ecumene following the Cataclysm of *2791*{: .ae}, when their homeworld became uninhabitable.
 
 ### Mankind
 
@@ -85,7 +85,7 @@ The elves maintain their own calendar, the Dögnsbindi. According to the Elven c
 
 The Civic Calendar was established by Axius Otho, the first Venerable Autocrator. It was based upon the old Edramorian calendar, which during the last years of the Old Commonwealth had been abused as part of the overall political disorder. Traditionally, it was the purview of the high priesthood to determine the timing of seasons and whether or not to insert intercalary months, an authority which could be corrupted to benefit political factions. Axius Otho's reform removed that authority by enacting a perpetual calendar.
 
-The adoption of the Civic Calendar also coincided with the adoption of a new calendar era, *Ab Egressu* ("Since the Landing"). The process of reforming the old calendar and producing the Civic Calendar relied heavily upon surviving Elven astronomy and chronicles.
+The adoption of the Civic Calendar also coincided with the adoption of a new calendar era, *Ab Egressú* ("Since the Landing"). The process of reforming the old calendar and producing the Civic Calendar relied heavily upon surviving Elven astronomy and chronicles.
 
 #### Days and Quarter-Days
 
@@ -136,7 +136,7 @@ An intercalary day (4 quarter-days) is inserted between the ninth and tenth mont
 
 #### Years since The Landing
 
-The calendar era of the Civic Calendar marks years since the Elves first landed on the Ecumene and brought civilization to Mankind. According to surviving records, this took place on **Tykktið 4108 Köktyl Pý 4**, approximately halfway between the Southern Spring Equinox and the Southern Summer Solstice. This functions as Year Zero for the Civic Calendar's predominant calendar era, *Ab Egressu* (AE).
+The calendar era of the Civic Calendar marks years since the Elves first landed on the Ecumene and brought civilization to Mankind. According to surviving records, this took place on **Tykktið 4108 Köktyl Pý 4**, approximately halfway between the Southern Spring Equinox and the Southern Summer Solstice. This functions as Year Zero for the Civic Calendar's predominant calendar era, *Ab Egressú* (AE).
 
 #### Indiction
 
