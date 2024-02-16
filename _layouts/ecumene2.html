@@ -51,10 +51,10 @@
 				</section>
 				<section class="left-column">
 					<ul>
-						<li class="{% if "/ecumene/heavens/" == page.url %}active{% endif %}">
-							<a href="/ecumene/heavens/" alt="The Heavens">The Heavens</a>
+						<li>
+							On the World
 							<ul>
-								{% for item in site.data.navigation.heavens %}
+								{% for item in site.data.navigation.world %}
 								<li><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
 								{% endfor %}
 							</ul>
@@ -64,10 +64,10 @@
 				<hr />
 				<section class="right-column">
 					<ul>
-						<li class="{% if "/ecumene/world/" == page.url %}active{% endif %}">
-							<a href="/ecumene/world/" alt="The World">The World</a>
+						<li>
+							On the Peoples
 							<ul>
-								{% for item in site.data.navigation.world %}
+								{% for item in site.data.navigation.people %}
 								<li><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
 								{% endfor %}
 							</ul>

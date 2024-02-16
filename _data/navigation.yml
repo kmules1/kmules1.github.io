@@ -1,27 +1,19 @@
-heavens:
-- title: Ador & Ayn
-  url: /ecumene/heavens/#ador--ayn
-- title: Luhan, The Great Mother
-  url: /ecumene/heavens/#luhan-the-great-mother
-- title: The Three Sisters
-  url: /ecumene/heavens/#the-three-sisters
-- title: Merodach & Nebo
-  url: /ecumene/heavens/#merodach--nebo
 world:
-- title: Geography
-  url: /ecumene/world/#geography
-- title: Thinking Kinds
-  url: /ecumene/world/#thinking-kinds
-- title: Calendars
-  url: /ecumene/world/#calendars
-- title: History
-  url: /ecumene/world/#history
-regions:
+- title: The Heavens
+  url: /ecumene/heavens
+- title: The Inhabited World
+  url: /ecumene/world
 - title: The Greater Imperium
-  url: /ecumene/regions/greater-imperium
-- title: Dattanese Kingdoms
-  url: 
-- title: The Fourteen of Greenstone
-  url: 
-- title: The Sea of Dayan
-  url: 
+  url: /ecumene/greater-imperium
+people:
+- title: Thinking Kinds
+  url: /ecumene/thinking-kinds
+- title: History
+  url: /ecumene/history
+- title: Belief Systems
+  url: /ecumene/beliefs
+reference:
+- title: Calendars
+  url: /ecumene/calendars
+- title: Currency
+  url: /ecumene/currency
