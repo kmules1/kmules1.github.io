@@ -55,7 +55,9 @@
 							On the World
 							<ul>
 								{% for item in site.data.navigation.world %}
-								<li><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
+								<li class="{% if "/ecumene/" == page.url %}active{% endif %}">
+									<a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
+								</li>
 								{% endfor %}
 							</ul>
 						</li>
@@ -68,7 +70,9 @@
 							On the Peoples
 							<ul>
 								{% for item in site.data.navigation.people %}
-								<li><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
+								<li class="{% if "/ecumene/" == page.url %}active{% endif %}">
+									<a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
+								</li>
 								{% endfor %}
 							</ul>
 						</li>
@@ -78,7 +82,9 @@
 				<section class="double-column">
 					<ul>
 						{% for item in site.data.navigation.reference %}
-						<li class="{% if item.url == page.url %}active{% endif %}"><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
+						<li class="{% if item.url == page.url %}active{% endif %}">
+							<a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
+						</li>
 						{% endfor %}
 					</ul>
 				</section>

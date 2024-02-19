@@ -103,6 +103,11 @@ header subtitle-block {
 	text-align:					justify;
 }
 
+header > subtitle-block, header > nav {
+	max-width:					28rem;
+	margin-inline:				2rem;
+}
+
 /*
  *	NAV
  */
@@ -140,7 +145,7 @@ nav hr.double-column {
 	flex-basis:					100%;
 	border-left:				unset;
 	border-top:					2px solid;
-	margin:						0 1rem 0;
+	margin:						0 -2rem 0;
 }
 
 nav ul {

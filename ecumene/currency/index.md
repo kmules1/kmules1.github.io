@@ -3,7 +3,7 @@ layout: ecumene2
 title: Currency
 ---
 
-### Silver Dirham
+## Silver Dirham
 
 <table>
 	<caption>Standard Coins</caption>

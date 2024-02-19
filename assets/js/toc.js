@@ -4,7 +4,7 @@
     var defaults = {
       noBackToTopLinks: true,
       title: '',
-      minimumHeaders: 3,
+      minimumHeaders: 1,
       headers: 'h1, h2, h3',
       listType: 'ul', // values: [ol|ul]
       showEffect: 'none', // values: [show|slideDown|fadeIn|none]
