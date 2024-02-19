@@ -77,7 +77,7 @@
 				<hr class="double-column" />
 				<section class="double-column">
 					<ul>
-						{% for item in site.data.navigation.regions %}
+						{% for item in site.data.navigation.reference %}
 						<li class="{% if item.url == page.url %}active{% endif %}"><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
 						{% endfor %}
 					</ul>
