@@ -1,7 +1,7 @@
 ---
 layout: ecumene2
 title: The Inhabited World
-permalink: /ecumene/inhabited-world
+permalink: /ecumene/inhabited-world/
 ---
 
 <aside class="sidebox">

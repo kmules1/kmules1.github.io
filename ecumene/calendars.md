@@ -1,7 +1,7 @@
 ---
 layout: ecumene2
 title: Calendars
-permalink: /ecumene/calendar
+permalink: /ecumene/calendars/
 ---
 
 Most humans on the Ecumene make use of some form of the Civic Calender, established during the High Imperium. According to the Civic Calendar, the current year is *7130*{: .ae}.

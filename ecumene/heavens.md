@@ -1,7 +1,7 @@
 ---
 layout: ecumene2
 title: The Heavens
-permalink: /ecumene/heavens
+permalink: /ecumene/heavens/
 ---
 
 <figure>

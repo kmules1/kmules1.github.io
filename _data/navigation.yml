@@ -1,19 +1,19 @@
 world:
 - title: The Heavens
-  url: /ecumene/heavens
+  url: /ecumene/heavens/
 - title: The Inhabited World
-  url: /ecumene/world
+  url: /ecumene/inhabited-world/
 - title: The Greater Imperium
-  url: /ecumene/greater-imperium
+  url: /ecumene/greater-imperium/
 people:
 - title: Thinking Kinds
-  url: /ecumene/thinking-kinds
+  url: /ecumene/thinking-kinds/
 - title: History
-  url: /ecumene/history
+  url: /ecumene/history/
 - title: Belief Systems
-  url: /ecumene/beliefs
+  url: /ecumene/beliefs/
 reference:
 - title: Calendars
-  url: /ecumene/calendars
+  url: /ecumene/calendars/
 - title: Currency
-  url: /ecumene/currency
+  url: /ecumene/currency/
