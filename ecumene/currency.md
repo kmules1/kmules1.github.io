@@ -1,6 +1,7 @@
 ---
 layout: ecumene2
 title: Currency
+permalink: /ecumene/currency/
 ---
 
 ## Silver Dirham

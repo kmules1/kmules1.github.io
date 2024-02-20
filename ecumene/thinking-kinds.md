@@ -1,6 +1,7 @@
 ---
 layout: ecumene2
 title: Thinking Kinds
+permalink: /ecumene/thinking-kinds
 ---
 
 The Ecumene is home to several sapient species. By far the most populous of these is Mankind, which is indigenous to the Ecumene and has a dominant role in its histories and societies. Other indigenous Thinking Kinds include Halflings and Goblins.
