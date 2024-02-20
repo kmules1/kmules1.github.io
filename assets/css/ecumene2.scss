@@ -85,7 +85,7 @@ em.ae {
  */
 
 header {
-	border-bottom:				0.125rem solid var(--red);
+	border-bottom:				0.2rem solid var(--red);
 }
 
 header title-block {
@@ -136,7 +136,7 @@ nav section.right-column {
 nav hr {
 	height:						unset;
 	color:						var(--red);
-	border-left:				2px solid;
+	border-left:				0.125rem solid;
 	margin:						1rem 0 0;
 }
 
@@ -144,7 +144,7 @@ nav hr.double-column {
 	flex:						2;
 	flex-basis:					100%;
 	border-left:				unset;
-	border-top:					2px solid;
+	border-top:					0.125rem solid;
 	margin:						0 -2rem 0;
 }
 
@@ -261,7 +261,7 @@ main h2 {
 	grid-template-columns:		2rem auto;
 	margin-inline:				0;
 	max-width:					40rem;
-	border-block-start:			0.125rem solid var(--red);
+	border-block-start:			0.2rem solid var(--red);
 }
 main h2::before {
 	display:					block;
@@ -426,6 +426,14 @@ table.list td:first-child {
 
 table.wide {
 	max-width:					36rem;
+}
+
+/*
+ *	TABLE CELL STYLES
+ */
+
+td.barberpole-black {
+
 }
 
 /*
