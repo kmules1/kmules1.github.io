@@ -4,7 +4,10 @@ title: Class Availability
 permalink: /ecumene/classes/
 ---
 
-The Ecumene, as a setting, makes available only a subset of playable ancestries in **Pathfinder 2e**. These are *Humans*, *Halflings*, *Kobolds*, *Goblins*, and *Elves*. Other player ancestries may be chosen, but will need an explanation to be developed in order to integrate them into the setting. Additionally, as part of this being a low-magic setting, caster classes and subclasses are limited, both in its probability of appearance and the availability per character ancestry.
+The Ecumene, as a setting, makes available only a subset of playable ancestries in **Pathfinder 2e**. These are *Humans*, *Halflings*, *Kobolds*, *Goblins*, and *Elves*. Alternative player ancestries would need an explanation to be developed in order to place them into the setting. Additionally, as a low-magic setting, caster classes and subclasses are restricted (in terms of probability) and fragmented (in terms of availability per character ancestry).
+
+In brief:
+- Arcane Magic is restricted to Elven and Kobold ancestry, as well as those with the Half-Elf heritage
 
 In short:
 - Arcane Magic can only be accessed by Elven and Kobold ancestry, though Humans have varying degrees of Elven blood that can manifest in the emergence of Arcane power
@@ -13,10 +16,139 @@ In short:
 
 <table>
 	<tr>
+		<th></th>
 		<th>Human</th>
 		<th>Halfling</th>
 		<th>Goblin</th>
 		<th>Kobold</th>
 		<th>Elf</th>
+	</tr>
+	<tr>
+		<th>Alchemist</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Barbarian</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Bard</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Champion</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Cleric</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Druid</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Fighter</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Investigator</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Monk</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Oracle</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Ranger</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Rogue</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Sorcerer</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Swashbuckler</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Witch</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>Wizard</th>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 </table>
