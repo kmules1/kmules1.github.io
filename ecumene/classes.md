@@ -14,7 +14,7 @@ In short:
 - Occult and Primal Magic can be accessed by Humans, Halflings, and Goblins
 - Divine Magic can be accessed by any ancestry
 
-<table class="wide">
+<table id="class-availability" class="wide">
 	<thead>
 		<tr>	<th></th>				<th>Human</th>				<th>Halfling</th>				<th>Goblin</th>					<th>Kobold</th>					<th>Elf</th>					</tr>
 	</thead>

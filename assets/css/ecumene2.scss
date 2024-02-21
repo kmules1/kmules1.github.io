@@ -28,6 +28,7 @@ $red:							#CF3A24;		//	緋		Ake			Scarlet (blood)
 	--red:						#CF3A24;
 	--black:					#2E211B;
 	--grey:						#2E211B1A;
+	--dark-grey:				#2E211BBF;
 	--white:					#FFF;
 	
 	font-family:				'Golden Type';
@@ -445,6 +446,7 @@ table#class-availability {
 
 #class-availability th,
 #class-availability td {
+	border:						1px solid var(--red);
 	text-align:					center;
 }
 #class-availability td::after {
@@ -469,14 +471,11 @@ table#class-availability {
 }
 
 #class-availability .rare {
-	background:					repeating-linear-gradient(45deg, var(--grey), var(--grey) 10px, var(--black) 10px, var(--black) 20px);
-	color:						var(--red)
+	background:					var(--dark-grey);
+	color:						var(--white);
 }
 #class-availability .rare::after {
 	content:					"Rare";
-    background:					repeating-linear-gradient(-45deg, var(--red), var(--red) 10px, var(--white) 10px, var(--white) 20px);
-    -webkit-background-clip:	text;
-    -webkit-text-fill-color:	transparent;
 }
 
 #class-availability .unavailable {
