@@ -14,141 +14,26 @@ In short:
 - Occult and Primal Magic can be accessed by Humans, Halflings, and Goblins
 - Divine Magic can be accessed by any ancestry
 
-<table>
-	<tr>
-		<th></th>
-		<th>Human</th>
-		<th>Halfling</th>
-		<th>Goblin</th>
-		<th>Kobold</th>
-		<th>Elf</th>
-	</tr>
-	<tr>
-		<th>Alchemist</th>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th>Barbarian</th>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th>Bard</th>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th>Champion</th>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th>Cleric</th>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th>Druid</th>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th>Fighter</th>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th>Investigator</th>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th>Monk</th>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th>Oracle</th>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th>Ranger</th>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th>Rogue</th>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th>Sorcerer</th>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th>Swashbuckler</th>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th>Witch</th>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th>Wizard</th>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
+<table class="wide">
+	<thead>
+		<tr>	<th></th>				<th>Human</th>				<th>Halfling</th>				<th>Goblin</th>					<th>Kobold</th>					<th>Elf</th>					</tr>
+	</thead>
+	<tbody>
+		<tr>	<th>Alchemist</th>		<td class="common"></td>	<td class="common"></td>		<td class="common"></td>		<td class="unusual"></td>		<td class="rare"></td>			</tr>
+		<tr>	<th>Barbarian</th>		<td class="common"></td>	<td class="unusual"></td>		<td class="rare"></td>			<td class="rare"></td>			<td class="rare"></td>			</tr>
+		<tr>	<th>Bard</th>			<td class="rare"></td>		<td class="unusual"></td>		<td class="common"></td>		<td class="common"></td>		<td class="rare"></td>			</tr>
+		<tr>	<th>Champion</th>		<td class="rare"></td>		<td class="rare"></td>			<td class="rare"></td>			<td class="rare"></td>			<td class="rare"></td>			</tr>
+		<tr>	<th>Cleric</th>			<td class="rare"></td>		<td class="rare"></td>			<td class="rare"></td>			<td class="rare"></td>			<td class="rare"></td>			</tr>
+		<tr>	<th>Druid</th>			<td class="rare"></td>		<td class="rare"></td>			<td class="rare"></td>			<td class="unavailable"></td>	<td class="unavailable"></td>	</tr>
+		<tr>	<th>Fighter</th>		<td class="common"></td>	<td class="common"></td>		<td class="common"></td>		<td class="common"></td>		<td class="common"></td>		</tr>
+		<tr>	<th>Investigator</th>	<td class="common"></td>	<td class="common"></td>		<td class="unusual"></td>		<td class="unusual"></td>		<td class="common"></td>		</tr>
+		<tr>	<th>Monk</th>			<td class="common"></td>	<td class="unusual"></td>		<td class="rare"></td>			<td class="rare"></td>			<td class="unusual"></td>		</tr>
+		<tr>	<th>Oracle</th>			<td class="rare"></td>		<td class="rare"></td>			<td class="rare"></td>			<td class="rare"></td>			<td class="unavailable"></td>	</tr>
+		<tr>	<th>Ranger</th>			<td class="common"></td>	<td class="common"></td>		<td class="common"></td>		<td class="rare"></td>			<td class="common"></td>		</tr>
+		<tr>	<th>Rogue</th>			<td class="common"></td>	<td class="common"></td>		<td class="common"></td>		<td class="common"></td>		<td class="common"></td>		</tr>
+		<tr>	<th>Sorcerer</th>		<td class="rare"></td>		<td class="unavailable"></td>	<td class="unavailable"></td>	<td class="common"></td>		<td class="common"></td>		</tr>
+		<tr>	<th>Swashbuckler</th>	<td class="common"></td>	<td class="common"></td>		<td class="common"></td>		<td class="unusual"></td>		<td class="unusual"></td>		</tr>
+		<tr>	<th>Witch</th>			<td class="rare"></td>		<td class="rare"></td>			<td class="rare"></td>			<td class="unavailable"></td>	<td class="unavailable"></td>	</tr>
+		<tr>	<th>Wizard</th>			<td class="rare"></td>		<td class="unavailable"></td>	<td class="unavailable"></td>	<td class="unusual"></td>		<td class="common"></td>		</tr>
+	</tbody>
 </table>

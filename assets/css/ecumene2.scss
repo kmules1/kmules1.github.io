@@ -137,6 +137,7 @@ nav hr {
 	height:						unset;
 	color:						var(--red);
 	border-width:				0 0.125rem 0 0;
+	border-style:				solid;
 	margin:						1rem 0 0;
 }
 
@@ -414,6 +415,13 @@ thead th:last-child {
 	border-start-end-radius:	0.25rem;
 }
 
+tbody th {
+	background-color:			var(--red);
+	color:						var(--white);
+	text-align:					right;
+	padding-inline-end:			0.5ch;
+}
+
 tbody tr:nth-child(2n+1) td {
 	background-color:			var(--white);
 }
@@ -428,11 +436,55 @@ table.wide {
 }
 
 /*
- *	TABLE CELL STYLES
+ *	CLASS AVAILABILITY TABLE
  */
 
-td.barberpole-black {
+table#class-availability {
+	table-layout:				fixed;
+}
 
+#class-availability th,
+#class-availability td {
+	text-align:					center;
+}
+#class-availability td::after {
+	display:					block;
+	font-weight:				bold;
+}
+
+#class-availability .common {
+	background:					var(--white);
+	color:						var(--red);
+}
+#class-availability .common::after {
+	content:					"Common"
+}
+
+#class-availability .unusual {
+	background:					var(--grey);
+	color:						var(--red);
+}
+#class-availability .unusual::after {
+	content:					"Unusual"
+}
+
+#class-availability .rare {
+	background:					repeating-linear-gradient(45deg, var(--grey), var(--grey) 10px, var(--black) 10px, var(--black) 20px);
+	color:						var(--red)
+}
+#class-availability .rare::after {
+	content:					"Rare";
+    background:					repeating-linear-gradient(-45deg, var(--red), var(--red) 10px, var(--white) 10px, var(--white) 20px);
+    -webkit-background-clip:	text;
+    -webkit-text-fill-color:	transparent;
+}
+
+#class-availability .unavailable {
+	background:					var(--black);
+	color:						var(--white);
+}
+#class-availability .unavailable::after {
+	content:					"Unavailable"
 }
 
 /*
