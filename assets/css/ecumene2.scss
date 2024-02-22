@@ -446,7 +446,6 @@ table#class-availability {
 
 #class-availability th,
 #class-availability td {
-	border:						1px solid var(--red);
 	text-align:					center;
 }
 #class-availability td::after {
@@ -456,7 +455,7 @@ table#class-availability {
 
 #class-availability .common {
 	background:					var(--white);
-	color:						var(--red);
+	color:						var(--black);
 }
 #class-availability .common::after {
 	content:					"Common"

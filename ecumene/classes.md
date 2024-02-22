@@ -9,7 +9,6 @@ The Ecumene, as a setting, makes available only a subset of playable ancestries 
 In brief:
 - Arcane Magic is restricted to Elven and Kobold ancestry, as well as those with a partial Elven heritage
 - Primal Magic is restricted to Human, Halfling, and Goblin ancestry
-- Caster classes are generally **Rare** or **Unavailable**, except for Elves, who are themselves **Rare**
 
 Note, these restrictions does not apply to *Witches* and *Oracles*, who are granted access to their magical tradition through their patron or mystery.
 
@@ -141,7 +140,7 @@ Note, these restrictions does not apply to *Witches* and *Oracles*, who are gran
 </table>
 
 Legend:
-- Common: prevalent and openly available.
-- Uncommon: available with discussion. Prone to be misunderstood by society.
-- Rare: **Need GM Approval**. Likely to provoke fear and/or hatred.
-- Unavailable: **Need GM Approval**. Otherwise incompatible with the setting, will need an explanation crafted.
+- **Common**: Openly available. People think they know what you do.
+- **Uncommon**: *Discuss with GM*. Misunderstood by society.
+- **Rare**: *Need GM Approval*. Likely to provoke fear and/or hatred.
+- **Unavailable**: *Need GM Approval*. Otherwise incompatible with the setting, will need an explanation crafted in order to integrate this.
