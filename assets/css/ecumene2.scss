@@ -454,12 +454,20 @@ table#class-availability {
 	font-weight:				bold;
 }
 
-#class-availability .available {
+#class-availability .common {
 	background:					var(--white);
 	color:						var(--red);
 }
-#class-availability .available::after {
+#class-availability .common::after {
 	content:					"Common"
+}
+
+#class-availability .uncommon {
+	background:					var(--grey);
+	color:						var(--red);
+}
+#class-availability .uncommon::after {
+	content:					"Uncommon"
 }
 
 #class-availability .rare {
