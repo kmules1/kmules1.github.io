@@ -58,7 +58,7 @@
 							<a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
 							{% if item.subitems[0] %}
 								<ul>
-									{% for subitem in entry.subitems %}
+									{% for subitem in item.subitems %}
 									<li><a href="{{ subitem.url }}">{{ subitem.title }}</a></li>
 									{% endfor %}
 								</ul>
