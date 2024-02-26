@@ -179,18 +179,22 @@ nav ul ul li {
 	font-size:					0.8rem;
 }
 
-nav section.introduction li {
-	font-size:					1.25rem;
-	font-weight:				bold;
-	font-style:					normal;
-}
-
 nav section.double-column ul {
 	display:					flex;
 	flex-direction:				row;
 	flex-wrap:					wrap;
 	gap:						1rem;
 	justify-content:			center;
+}
+
+nav section.introduction li {
+	font-size:					1.25rem;
+	font-weight:				bold;
+	font-style:					normal;
+}
+
+nav section.reference li {
+	font-style:					normal;
 }
 
 /*

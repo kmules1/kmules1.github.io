@@ -42,7 +42,7 @@
 			<subtitle-block>A worldbuilding exercise for a low-magic TTRPG setting.</subtitle-block>
 			
 			<nav>
-				<section class="introduction">
+				<section class="double-column introduction">
 					<ul>
 						<li class="{% if "/ecumene/" == page.url %}active{% endif %}">
 							<a href="/ecumene/" alt="Introduction">Introduction</a>
@@ -87,7 +87,7 @@
 					</ul>
 				</section>
 				<hr class="double-column" />
-				<section class="double-column">
+				<section class="double-column reference">
 					<ul>
 						{% for item in site.data.navigation.reference %}
 						<li class="{% if item.url == page.url %}active{% endif %}">
