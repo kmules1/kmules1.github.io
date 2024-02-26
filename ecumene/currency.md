@@ -4,10 +4,8 @@ title: Currency
 permalink: /ecumene/currency/
 ---
 
-## Silver Dirham
-
 <table>
-	<caption>Standard Coins</caption>
+	<caption>Standard Coinage in the Greater Imperium</caption>
 	<thead>
 		<tr>
 			<th>Name</th>

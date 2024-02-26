@@ -104,7 +104,8 @@ header subtitle-block {
 	text-align:					justify;
 }
 
-header > subtitle-block, header > nav {
+header subtitle-block,
+header nav {
 	max-width:					28rem;
 	margin-inline:				2rem;
 }
@@ -124,6 +125,7 @@ nav section {
 	flex:						2;
 	flex-basis:					100%;
 	text-align:					center;
+	margin-block:				1rem;
 }
 nav section.left-column {
 	flex:						1;
@@ -132,6 +134,11 @@ nav section.left-column {
 nav section.right-column {
 	flex:						1;
 	text-align:					left;
+}
+
+nav h3 {
+	margin:						0;
+	color:						var(--black);
 }
 
 nav hr {
@@ -150,13 +157,14 @@ nav hr.double-column {
 }
 
 nav ul {
+	margin:						unset;
 	padding:					unset;
 	list-style:					none;
 }
 
 nav li {
-	font-size:					1.25rem;
-	font-weight:				bold;
+	font-style:					italic;
+	font-size:					1rem;
 }
 nav li.active > a {
 	color:						var(--black);
@@ -167,9 +175,14 @@ nav ul ul {
 }
 
 nav ul ul li {
-	font-style:					italic;
-	font-weight:				normal;
-	font-size:					1rem;
+	font-style:					normal;
+	font-size:					0.8rem;
+}
+
+nav section.introduction li {
+	font-size:					1.25rem;
+	font-weight:				bold;
+	font-style:					normal;
 }
 
 nav section.double-column ul {
@@ -178,11 +191,6 @@ nav section.double-column ul {
 	flex-wrap:					wrap;
 	gap:						1rem;
 	justify-content:			center;
-}
-
-nav section.double-column li {
-	font-size:					unset;
-	font-weight:				normal;
 }
 
 /*
@@ -447,6 +455,7 @@ table#class-availability {
 #class-availability th,
 #class-availability td {
 	text-align:					center;
+	border-inline:				.1rem solid var(--red);
 }
 #class-availability td::after {
 	display:					block;

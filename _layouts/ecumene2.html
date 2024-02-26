@@ -42,7 +42,7 @@
 			<subtitle-block>A worldbuilding exercise for a low-magic TTRPG setting.</subtitle-block>
 			
 			<nav>
-				<section>
+				<section class="introduction">
 					<ul>
 						<li class="{% if "/ecumene/" == page.url %}active{% endif %}">
 							<a href="/ecumene/" alt="Introduction">Introduction</a>
@@ -50,32 +50,40 @@
 					</ul>
 				</section>
 				<section class="left-column">
+					<h3>On the World</h3>
+					
 					<ul>
-						<li>
-							On the World
-							<ul>
-								{% for item in site.data.navigation.world %}
-								<li class="{% if item.url == page.url %}active{% endif %}">
-									<a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
-								</li>
-								{% endfor %}
-							</ul>
+						{% for item in site.data.navigation.world %}
+						<li class="{% if item.url == page.url %}active{% endif %}">
+							<a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
+							{% if item.subitems[0] %}
+								<ul>
+									{% for subitem in entry.subitems %}
+									<li><a href="{{ subitem.url }}">{{ subitem.title }}</a></li>
+									{% endfor %}
+								</ul>
+							{% endif %}
 						</li>
+						{% endfor %}
 					</ul>
 				</section>
 				<hr />
 				<section class="right-column">
+					<h3>On the Peoples</h3>
+					
 					<ul>
-						<li>
-							On the Peoples
-							<ul>
-								{% for item in site.data.navigation.people %}
-								<li class="{% if item.url == page.url %}active{% endif %}">
-									<a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
-								</li>
-								{% endfor %}
-							</ul>
+						{% for item in site.data.navigation.people %}
+						<li class="{% if item.url == page.url %}active{% endif %}">
+							<a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
+							{% if item.subitems[0] %}
+								<ul>
+									{% for subitem in entry.subitems %}
+									<li><a href="{{ subitem.url }}">{{ subitem.title }}</a></li>
+									{% endfor %}
+								</ul>
+							{% endif %}
 						</li>
+						{% endfor %}
 					</ul>
 				</section>
 				<hr class="double-column" />

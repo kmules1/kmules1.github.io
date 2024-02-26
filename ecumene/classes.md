@@ -141,6 +141,6 @@ Note, these restrictions does not apply to *Witches* and *Oracles*, who are gran
 
 Legend:
 - **Common**: Openly available. People think they know what you do.
-- **Uncommon**: *Discuss with GM*. Misunderstood by society.
+- **Uncommon**: *Discuss with GM*. May be misunderstood or mistrusted.
 - **Rare**: *Need GM Approval*. Likely to provoke fear and/or hatred.
-- **Unavailable**: *Need GM Approval*. Otherwise incompatible with the setting, will need an explanation crafted in order to integrate this.
+- **Unavailable**: *Need GM Approval*. Generally incompatible with the setting, will need an explanation crafted in order to integrate this.
