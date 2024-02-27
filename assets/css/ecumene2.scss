@@ -57,7 +57,7 @@ body {
 }
 
 body > * {
-	max-width:					40rem;
+	max-width:					80ch;
 	margin-inline:				auto;
 }
 
@@ -265,7 +265,7 @@ main {
 
 main > * {
 	margin-inline:				2rem;
-	width:						50ch;
+	width:						54ch;
 }
 
 main h2 {
@@ -368,10 +368,11 @@ figure.paired-figures {
 aside.sidebox {
 	display:					block;
 	float:						right;
-	width:						28ch;
+	width:						25ch;
 	clear:						both;
-	margin-inline-end:			0;
+	margin-inline:				0;
 	font-size:					0.8rem;
+	white-space:				nowrap;
 }
 
 aside.sidebox.table {

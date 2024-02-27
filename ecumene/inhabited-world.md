@@ -12,8 +12,8 @@ permalink: /ecumene/inhabited-world/
 		<dt>Eccentricity</dt>
 		<dd>0.0167</dd>
 		<dt>Orbital Period</dt>
-		<dd>0.892 years<sub>🜨</sub></dd>
-		<dd>108.65 days<sub>œ</sub></dd>
+		<dd>325.8 yr<sub>🜨</sub></dd>
+		<dd>108.65 d<sub>œ</sub></dd>
 	</dl>
 	
 	<h5>Physical Characteristics</h5>
@@ -25,7 +25,7 @@ permalink: /ecumene/inhabited-world/
 		<dt>Obliquity</dt>
 		<dd>26.19°</dd>
 		<dt>Rotational Period</dt>
-		<dd>~3d<sub>🜨</sub></dd>
+		<dd>2.998 d<sub>🜨</sub></dd>
 	</dl>
 </aside>
 
