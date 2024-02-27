@@ -295,28 +295,33 @@ main h3::before {
 	content:					counter(main-headers) "." counter(main-subheaders);
 }
 
-main section {
-	columns:					2;
-	column-gap:					2ch;
-}
-
 main p,main ul {
 	text-align:					justify;
 	margin:						0;
 }
 
-main p::before {
+main section {
+	columns:					2;
+	column-gap:					2ch;
+}
+
+main section p,
+main section ul {
+	margin:						0;
+}
+main section p::before {
+	display:					inline-block;
 	content:					"¶";
 	color:						var(--red);
 	width:						2ch;
 }
-main p:first-of-type::before, main :not(p) + p::before {
+main section p:first-of-type::before,
+main section :not(p) + p::before {
 	display:					none;
 }
 
 main ul {
 	list-style:					none;
-	margin-inline:				2rem;
 	padding-left:				0;
 }
 
@@ -327,6 +332,11 @@ main li::before {
 	width:						2em;
 	margin-left:				-2em;
 	font-size:					0.75em;
+}
+
+main .wide {
+	width:						70ch;
+	max-width:					unset;
 }
 
 /*
@@ -424,6 +434,7 @@ table {
 	border-radius:				0.5rem;
 	max-width:					28rem;
 	width:						100%;
+	margin:						2rem 0;
 }
 
 th,td {
@@ -458,10 +469,6 @@ tbody tr:nth-child(2n+1) td {
 table.list td:first-child {
 	text-align:					right;
 	padding-right:				1rem;
-}
-
-table.wide {
-	max-width:					36rem;
 }
 
 /*
