@@ -265,6 +265,7 @@ main {
 
 main > * {
 	margin-inline:				2rem;
+	width:						50ch;
 }
 
 main h2 {
@@ -273,7 +274,7 @@ main h2 {
 	display:					grid;
 	grid-template-columns:		2rem auto;
 	margin-inline:				0;
-	max-width:					40rem;
+	width:						100%;
 	border-block-start:			0.125rem solid var(--red);
 }
 main h2::before {
@@ -294,13 +295,28 @@ main h3::before {
 	content:					counter(main-headers) "." counter(main-subheaders);
 }
 
-main p,main ul,main figure {
-	max-width:					28rem;
+main section {
+	columns:					2;
+	column-gap:					2ch;
+}
+
+main p,main ul {
 	text-align:					justify;
+	margin:						0;
+}
+
+main p::before {
+	content:					"¶";
+	color:						var(--red);
+	width:						2ch;
+}
+main p:first-of-type::before, main :not(p) + p::before {
+	display:					none;
 }
 
 main ul {
 	list-style:					none;
+	margin-inline:				2rem;
 	padding-left:				0;
 }
 
@@ -344,9 +360,9 @@ figure.paired-figures {
 aside.sidebox {
 	display:					block;
 	float:						right;
-	min-width:					10rem;
+	width:						28ch;
 	clear:						both;
-	margin-inline-start:		2rem;
+	margin-inline-end:			0;
 	font-size:					0.8rem;
 }
 
