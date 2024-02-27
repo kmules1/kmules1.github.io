@@ -50,7 +50,7 @@ Ten major continents, eight minor continents, and countless islands. Most of the
 
 ## History
 
-<section>
+<section markdown="1">
 The history of the Ecumene is commonly divided into two periods: the Era of Elves and the Era of Humanity.
 
 The former is a primordial period for the Ecumene, during which the Elves established their own global civilization, then bridged the distance between planets and taught civilization to the peoples of the worlds. Its high period ended in a sudden cataclysm, which forced the survivors to colonize the Ecumene more intensely. In doing so, the Elves further accelerated the civilizing of humanity and paved the road for their own displacement by the realms of mankind.

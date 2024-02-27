@@ -297,7 +297,6 @@ main h3::before {
 
 main p,main ul {
 	text-align:					justify;
-	margin:						0;
 }
 
 main section {
@@ -336,7 +335,6 @@ main li::before {
 
 main .wide {
 	width:						70ch;
-	max-width:					unset;
 }
 
 /*
@@ -432,9 +430,7 @@ table {
 	border-collapse:			separate;
 	border-spacing:				0;
 	border-radius:				0.5rem;
-	max-width:					28rem;
-	width:						100%;
-	margin:						2rem 0;
+	margin-block:				2rem;
 }
 
 th,td {
