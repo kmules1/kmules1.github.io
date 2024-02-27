@@ -4,7 +4,7 @@ title: The Heavens
 permalink: /ecumene/heavens/
 ---
 
-<figure>
+<figure class="wide">
     <img src="/assets/img/system.png">
 </figure>
 

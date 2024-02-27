@@ -12,7 +12,7 @@ permalink: /ecumene/inhabited-world/
 		<dt>Eccentricity</dt>
 		<dd>0.0167</dd>
 		<dt>Orbital Period</dt>
-		<dd>325.8 yr<sub>🜨</sub></dd>
+		<dd>325.80 d<sub>🜨</sub></dd>
 		<dd>108.65 d<sub>œ</sub></dd>
 	</dl>
 	
