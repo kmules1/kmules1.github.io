@@ -217,7 +217,7 @@ Nothing remains of the great cities, but the remains of minor settlements can be
 <aside class="sidebox">
 	<h5>Orbital Period Resonances</h5>
 	<dl>
-		<dt>Great-Elder</dt>
+		<dt>Luhan-Elder</dt>
 		<dd>5:28</dd>
 		<dt>Elder-Middle</dt>
 		<dd>9:11</dd>
@@ -228,9 +228,7 @@ Nothing remains of the great cities, but the remains of minor settlements can be
 	</dl>
 </aside>
 
-The three moons of Ecumene-Luhan are in orbital resonance with one another. The largest and closest, called the Elder Sister, is also in orbital resonance with the Ecumene-Luhan orbital period, resulting in a complex interaction between the five worlds.
-
-The Elder Sister's orbital period is precisely 5.6 days on the Ecumene, and is used as the basis for the month in most calendars.
+Three moons, the Three Sisters, orbit the Ecumene-Luhan barycenter, which is located one-sixth of the distance between them. The Three Sisters form a complex network of orbital resonances, resulting in the Elder Sister's orbital period being precisely 5.6 days on the Ecumene.
 
 ## Merodach & Nebo
 
