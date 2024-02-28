@@ -43,7 +43,6 @@ h1, h2, h3 {
 	color:						var(--red);
 }
 h1 {
-	margin-inline:				2rem;
 	font-size:					2.5rem;
 }
 h2 {	font-size:				1.5rem;	}
@@ -57,7 +56,7 @@ body {
 }
 
 body > * {
-	max-width:					80ch;
+	max-width:					35rem;
 	margin-inline:				auto;
 }
 
@@ -86,7 +85,9 @@ em.ae {
  */
 
 header {
-	border-bottom:				0.125rem solid var(--red);
+	border-block-end:			0.125rem solid var(--red);
+	margin-block-end:			2rem;
+	padding-block-end:			2rem;
 }
 
 header title-block {
@@ -95,19 +96,12 @@ header title-block {
 	font-size:					min(15vw,7rem);
 	color:						var(--red);
 	text-align:					center;
+	margin-inline:				-2rem;
 }
 
 header subtitle-block {
 	display:					block;
-	width:						80%;
-	margin:						auto;
-	text-align:					justify;
-}
-
-header subtitle-block,
-header nav {
-	max-width:					28rem;
-	margin-inline:				2rem;
+	text-align:					center;
 }
 
 /*
@@ -153,7 +147,7 @@ nav hr.double-column {
 	flex:						2;
 	flex-basis:					100%;
 	border-width:				0.125rem 0 0 0;
-	margin:						0 -2rem 0;
+	margin:						0;
 }
 
 nav ul {
@@ -202,9 +196,7 @@ nav section.reference li {
  */
 
 #toc {
-	margin:						2rem;
-	//column-count:				2;
-	width:						50%;
+
 }
 #toc ul {
 	padding-left:				unset;
@@ -264,8 +256,7 @@ main {
 }
 
 main > * {
-	margin-inline:				2rem;
-	width:						54ch;
+	width:						22rem;
 }
 
 main h2 {
@@ -273,9 +264,7 @@ main h2 {
 	counter-reset:				main-subheaders;
 	display:					grid;
 	grid-template-columns:		2rem auto;
-	margin-inline:				0;
-	width:						100%;
-	border-block-start:			0.125rem solid var(--red);
+	margin-inline-start:		-2rem;
 }
 main h2::before {
 	display:					block;
@@ -286,8 +275,7 @@ main h3 {
 	counter-increment:			main-subheaders;
 	display:					grid;
 	grid-template-columns:		2rem auto;
-	max-width:					28rem;
-	margin-inline:				0;
+	margin-inline-start:		-2rem;
 }
 
 main h3::before {
@@ -295,27 +283,18 @@ main h3::before {
 	content:					counter(main-headers) "." counter(main-subheaders);
 }
 
-main p,main ul {
+main p, main ul {
 	text-align:					justify;
-}
-
-main section {
-	columns:					2;
-	column-gap:					2ch;
-}
-
-main section p,
-main section ul {
 	margin:						0;
 }
-main section p::before {
-	display:					inline-block;
-	content:					"¶";
+
+main p::before {
+	content:					"¶  ";
 	color:						var(--red);
-	width:						2ch;
+	opacity:					0;
 }
-main section p:first-of-type::before,
-main section :not(p) + p::before {
+main p:first-of-type::before,
+main :not(p) + p::before {
 	display:					none;
 }
 
@@ -334,7 +313,7 @@ main li::before {
 }
 
 main .wide {
-	width:						70ch;
+	width:						100%;
 }
 
 /*
@@ -368,7 +347,7 @@ figure.paired-figures {
 aside.sidebox {
 	display:					block;
 	float:						right;
-	width:						25ch;
+	width:						10rem;
 	clear:						both;
 	margin-inline:				0;
 	font-size:					0.8rem;
