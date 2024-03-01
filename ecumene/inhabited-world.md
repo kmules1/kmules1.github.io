@@ -31,7 +31,7 @@ permalink: /ecumene/inhabited-world/
 
 The Ecumene is a habitable planet, which serves as the primary world for this setting. The home to several intelligent species, referred to as the [Thinking Kinds](/ecumene/thinking-kinds/) (some indigenous, others who migrated thousand years ago), its name is well-earned: ***œcúmené*** "that which is inhabited".
 
-In many ways, it resembles a smaller Earth: eight-ninths of its surface is liquid water, much of its land is covered by vegetation, and it is encircled by white vaporous clouds. In other ways, it is very different: it is tidally-locked to a twin world, [Luhan](/ecumene/heavens/#luhan-the-great-mother), its day-night cycle lasts 72 hours, and the twin worlds are joined by three small moons, the [Three Sisters](/ecumene/heavens/).
+In many ways, it resembles a smaller Earth: eight-ninths of its surface is liquid water, much of its land is covered by vegetation, and it is encircled by white vaporous clouds. In other ways, it is very different: it is tidally-locked to a twin world, [Luhan](/ecumene/heavens/#luhan-or-the-great-mother), its day-night cycle lasts 72 hours, and the twin worlds are joined by three small moons, the [Three Sisters](/ecumene/heavens/).
 
 <figure>
 	<img src="/assets/img/ecumene_nicolosi.png">

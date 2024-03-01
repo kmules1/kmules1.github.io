@@ -180,13 +180,13 @@ The Ecumene is located within a binary star system, with planets orbiting each s
 
 Sed velit dignissim sodales ut eu sem integer. Erat nam at lectus urna. Tincidunt lobortis feugiat vivamus at augue eget arcu dictum. Dignissim enim sit amet venenatis urna cursus. Laoreet id donec ultrices tincidunt arcu non sodales. Viverra vitae congue eu consequat ac felis. Id diam vel quam elementum pulvinar etiam non quam. Nec sagittis aliquam malesuada bibendum. Id porta nibh venenatis cras sed felis eget. Semper risus in hendrerit gravida rutrum quisque non. Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Viverra suspendisse potenti nullam ac. Varius sit amet mattis vulputate enim nulla aliquet porttitor lacus. Mi in nulla posuere sollicitudin. Semper viverra nam libero justo laoreet sit amet cursus sit.
 
-## Luhan, the Great Mother
+## Luhan or the Great Mother
 
 <aside class="sidebox">
 	<h5>Characteristics</h5>
 	<dl>
 		<dt>Orbital Separation</dt>
-		<dd>68,000km</dd>
+		<dd>72,000km</dd>
 		<dt>Radius</dt>
 		<dd>3257km</dd>
 		<dt>Gravity</dt>
@@ -194,17 +194,17 @@ Sed velit dignissim sodales ut eu sem integer. Erat nam at lectus urna. Tincidun
 	</dl>
 </aside>
 
-Luhan is a formerly habitable world, having undergone a planetary cataclysm (in *2791*{: .ae}) which rendered its surface uninhabitable to all known life. Overall, its surface has a khaki-grey color with large grey-brown splotches and pocked all over with bright, white craters. 
+Luhan is a formerly habitable planet, tidally-locked to its larger twin, [The Ecumene](/ecumene/the-inhabited-world). The homeworld of the Elves, Luhan underwent a planetary cataclysm in *2791*{: .ae}, which rendered its surface uninhabitable to all known life. Due to its relative size and proximity to the Ecumene, surface features are readily identifiable; Luhan's overall surface has a khaki-grey color, with large brown regions believed to be seas, and pocked all over with bright, white craters.
 
-The Elves refer to Luhan as *Great Mother*. The world has many other names: *Luhan* means the Shining One; *Didyme* or *Toma*, i.e. the Twin; *Elfmother* in recognition of the Elves' adoration towards it; *Maranthisa*, meaning the Wasted Away; *Olomene*, meaning the Ruined One.
+The Elves refer to Luhan as *Great Mother* and are said to worship it as a god. The world has many other names: *Luhan* means the Shining One; *Didyme* or *Toma*, i.e. the Twin; *Elfmother* in recognition of the Elves' adoration towards it; *Maranthisa*, meaning that which Wasted Away; *Olomene*, meaning that which was Ruined.
 
-### Ever-Present in the Sky
+### Fixed in the Sky
 
 Despite its relatively dull appearance, its immense size within the Ecumene's sky (on average, an angular diameter of 2.744 degrees, i.e. 5.2 times as wide as Earth's Moon) means that Luhan reflects sufficient light for outdoor activities at night and banishes the deep darkness of the Ecumene's long night.
 
 Due to the two worlds being tidally locked with one another, only one side of the Ecumene is granted this benefit, called the Near Side or the Light Side of the Ecumene. The Far Side, also called the Dark Side, of the Ecumene suffers from a lengthy and complete darkness (only broken when Ayn makes it close approach).
 
-### Visiting the Dead World
+### Travel to the Dead World
 
 According to surviving lore, Luhan's visible geographic features are all named and attributed. The large dark-brown splotches are seas, while the pockmark craters are the sites of once-great cities whose populations had once reached into the millions.
 

@@ -308,6 +308,12 @@ main li::before {
 	font-size:					0.75em;
 }
 
+main hr {
+	color:						var(--red);
+	border-width:				0 0 0.125rem;
+	margin:						2rem 0;
+}
+
 main .wide {
 	width:						100%;
 }
