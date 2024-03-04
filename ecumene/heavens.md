@@ -194,9 +194,9 @@ Sed velit dignissim sodales ut eu sem integer. Erat nam at lectus urna. Tincidun
 	</dl>
 </aside>
 
-Luhan is a formerly habitable planet, tidally-locked to its larger twin, [The Ecumene](/ecumene/the-inhabited-world). The homeworld of the Elves, Luhan underwent a planetary cataclysm in *2791*{: .ae}, which rendered its surface uninhabitable to all known life. Due to its relative size and proximity to the Ecumene, surface features are readily identifiable; Luhan's overall surface has a khaki-grey color, with large brown regions believed to be seas, and pocked all over with bright, white craters.
+Luhan is a formerly habitable planet, tidally-locked to its larger twin, [The Ecumene](/ecumene/inhabited-world). The homeworld of the Elves, Luhan underwent a planetary cataclysm in *2791*{: .ae}, which rendered its entire surface uninhabitable to all known life. Due to its relative size and proximity to the Ecumene, Luhan's surface features are readily identifiable; its overall surface has a khaki-grey color, with large dark-brown regions are believed to be seas. The surface is pocked all over with bright, white craters; Elven lore describes these as the debris fields of destroyed population centers.
 
-The Elves refer to Luhan as *Great Mother* and are said to worship it as a god. The world has many other names: *Luhan* means the Shining One; *Didyme* or *Toma*, i.e. the Twin; *Elfmother* in recognition of the Elves' adoration towards it; *Maranthisa*, meaning that which Wasted Away; *Olomene*, meaning that which was Ruined.
+Its standard name, *Luhan*, means "Bright". The Elves refer to Luhan as *Hetjuvold*, often translated as "Great Mother", and are said to worship it as a god. It has many other names of various meanings: *Luhan* means the Shining One; *Didymé*, *Gemella*, or *Tewmiya*, meaning the Twin; *Elfmother* in recognition of the Elves' adoration towards it; *Maranthisa*, meaning that which Wasted Away.
 
 ### Fixed in the Sky
 
