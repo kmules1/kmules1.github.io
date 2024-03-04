@@ -4,6 +4,11 @@ title: The Inhabited World
 permalink: /ecumene/inhabited-world/
 ---
 
+<figure class="wide">
+	<img src="/assets/img/ecumene_nicolosi.png">
+	<figcaption>The Ecumene. Nicolosi Globular Projection.</figcaption>
+</figure>
+
 <aside class="sidebox">
 	<h5>Orbital Characteristics</h5>
 	<dl>
@@ -33,10 +38,7 @@ The Ecumene is a habitable planet, which serves as the primary world for this se
 
 In many ways, it resembles a smaller Earth: eight-ninths of its surface is liquid water, much of its land is covered by vegetation, and it is encircled by white vaporous clouds. In other ways, it is very different: it is tidally-locked to a twin world, [Luhan](/ecumene/heavens/#luhan-or-the-great-mother), its day-night cycle lasts 72 hours, and the twin worlds are joined by three small moons, the [Three Sisters](/ecumene/heavens/).
 
-<figure>
-	<img src="/assets/img/ecumene_nicolosi.png">
-	<figcaption>The Ecumene. Nicolosi Globular Projection.</figcaption>
-</figure>
+
 
 ## Geography
 
