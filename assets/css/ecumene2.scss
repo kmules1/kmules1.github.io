@@ -401,6 +401,15 @@ aside.sidebox td:first-of-type {
 	color:						unset;
 }
 
+aside.round {
+	width:						24rem;
+	height:						24rem;
+	shape-outside:				circle();
+}
+aside.round figure {
+	margin:						0;
+}
+
 /*
  *	TABLES
  */

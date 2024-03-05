@@ -4,11 +4,27 @@ title: The Heavens
 permalink: /ecumene/heavens/
 ---
 
-<figure class="wide">
-    <img src="/assets/img/system.png">
-</figure>
+<aside class="sidebox round">
+	<figure>
+		<img src="/assets/img/system_ador.png">
+	</figure>
+</aside>
+<aside class="sidebox round">
+	<figure>
+		<img src="/assets/img/system_ayn.png">
+	</figure>
+</aside>
 
-The Ecumene is located within a binary star system, with planets orbiting each star. The two stars, Ador and Ayn, have an orbital period of 82.6 Ecumene years. The planets of the Ador-Ayn System experience a cycle of global warming and cooling as the stars approach and recede from one another. From the Ecumene's perspective, Ayn is an especially bright, slowly wandering star, quickly brightening as the two stars reach periapsis, becoming bright enough to read at night.
+
+Multiplicity begins from the expansion of Monad into Dyad. Likewise, within the Sphere of Fixed Stars, there are found two encampments of heavenly spheres, each rooted upon and warmed by the Greater and Lesser Suns, that is, **Ador** and **Ayn**.
+
+That [The Ecumene](/ecumene/inhabited-world) is located within the encampment of the greater, being of the **Second Sphere of Ador**, and is also the greater world within that second sphere, we may see that the motions of the heavenly bodies do confirm the motions of Fortune.
+
+The two encampments encircle the very center of the **Sphere of Fixed Stars**, approaching then retreating from one another without touching, once every eighty-two years.
+
+At their closest approach, The Ecumene undergoes **Judgment**, receiving both the greater warmth of Ador and the lesser warmth of Ayn; Judgment visited upon the Encampment of Ayn is that much greater, as they are unaccustomed to the greater warmth that Ador brings.
+
+During Judgment, the combined light of Ador, Ayn, and Luhan conspire to prevent any study of the Sphere of Fixed Stars.
 
 <ul class="tree">
 	<li><a style="font-weight:bold">Ador-Ayn System</a>
@@ -21,7 +37,7 @@ The Ecumene is located within a binary star system, with planets orbiting each s
 						<div class="surface"></div>
 						<div class="companion"></div>
 					</div>
-					<p>G5V Yellow Main Sequence Dwarf Star</p>
+					<p>G5.4V Yellow Main Sequence Dwarf Star</p>
 				</aside>
 				<ul>
 					<li>
@@ -134,7 +150,7 @@ The Ecumene is located within a binary star system, with planets orbiting each s
 								<dd>Mass: 2.55 M<sub>œ</sub></dd>
 								<dd>Orbital Period: 17.19 d<sub>œ</sub></dd>
 							</dl>
-							<p>Called <em>Źibdeṃtsʰallu</em> "Red Peace" by the Bdenri.</p>
+							<p>Called <em>Xibdekhrak</em> by the Bdenri.</p>
 						</aside>
 					</li>
 					<li>
@@ -146,12 +162,11 @@ The Ecumene is located within a binary star system, with planets orbiting each s
 								<div class="moon"></div>
 							</div>
 							<dl>
-								<dd>Gas Giant</dd>
+								<dd>Gas Giant (II: Water Clouds)</dd>
 								<dd>Mass: 31.85 M<sub>œ</sub></dd>
 								<dd>Orbital Period: 48.91 d<sub>œ</sub></dd>
 							</dl>
-							<p>Gas Giant (~15M🜨)</p>
-							<p>Banded Blue and White (Class II: Water Clouds)</p>
+							<p>Called <em>Rlungrgyaqenm</em> by the Bdenri.</p>
 						</aside>
 						<ul>
 							<li>
@@ -162,7 +177,8 @@ The Ecumene is located within a binary star system, with planets orbiting each s
 										<dd>Terrestrial, Habitable</dd>
 										<dd>Mass: 1.274 M<sub>œ</sub></dd>
 									</dl>
-									<p>High volcanism, thick atmosphere keeps it warm. Homeworld of the Bdenri.</p>
+									<p>High volcanism, thick atmosphere keeps it warm.</p>
+									<p>Homeworld of the Bdenri, called <em>Mngonbxad</em>.</p>
 								</aside>
 							</li>
 						</ul>
@@ -194,7 +210,7 @@ Sed velit dignissim sodales ut eu sem integer. Erat nam at lectus urna. Tincidun
 	</dl>
 </aside>
 
-Luhan is a formerly habitable planet, tidally-locked to its larger twin, [The Ecumene](/ecumene/inhabited-world). The homeworld of the Elves, Luhan underwent a planetary cataclysm in *2791*{: .ae}, which rendered its entire surface uninhabitable to all known life. Due to its relative size and proximity to the Ecumene, Luhan's surface features are readily identifiable; its overall surface has a khaki-grey color, with large dark-brown regions are believed to be seas. The surface is pocked all over with bright, white craters; Elven lore describes these as the debris fields of destroyed population centers.
+Luhan is a formerly habitable world, tidally-locked to its larger twin, [The Ecumene](/ecumene/inhabited-world). The homeworld of the Elves, Luhan underwent a worldwide cataclysm in *2791*{: .ae}, which rendered its entire surface uninhabitable to all known life. Due to its relative size and proximity to the Ecumene, Luhan's surface features are readily identifiable; its overall surface has a khaki-grey color, with large dark-brown regions are believed to be seas. The surface is pocked all over with bright, white craters; Elven lore describes these as the debris fields of destroyed population centers.
 
 Its standard name, *Luhan*, means "Bright". The Elves refer to Luhan as *Hetjuvold*, often translated as "Great Mother", and are said to worship it as a god. It has many other names of various meanings: *Luhan* means the Shining One; *Didymé*, *Gemella*, or *Tewmiya*, meaning the Twin; *Elfmother* in recognition of the Elves' adoration towards it; *Maranthisa*, meaning that which Wasted Away.
 
