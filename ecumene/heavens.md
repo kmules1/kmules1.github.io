@@ -198,6 +198,11 @@ Sed velit dignissim sodales ut eu sem integer. Erat nam at lectus urna. Tincidun
 
 ## Luhan or the Great Mother
 
+<figure class="wide">
+	<img src="/assets/img/luhan_nicolosi.png">
+	<figcaption>Luhan. Nicolosi Globular Projection.</figcaption>
+</figure>
+
 <aside class="sidebox">
 	<h5>Characteristics</h5>
 	<dl>
