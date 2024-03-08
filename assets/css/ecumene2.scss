@@ -269,6 +269,7 @@ main h2 {
 	top:						0;
 	width:						calc(100% + 4rem);
 	border-block-start:			0.125rem solid var(--red);
+	background-color:			var(--white);
 }
 main h2::before {
 	display:					block;
