@@ -194,6 +194,17 @@ During Judgment, the combined light of Ador, Ayn, and Luhan conspire to prevent 
 
 ## Ador & Ayn
 
+<aside class="sidebox">
+	<figure>
+	<img src="/assets/img/ador.png">
+	<figcaption>Ador, the Greater Sun.</figcaption>
+	</figure>
+<figure>
+	<img src="/assets/img/ayn.png">
+	<figcaption>Ayn, the Lesser Sun.</figcaption>
+	</figure>
+</aside>
+
 Sed velit dignissim sodales ut eu sem integer. Erat nam at lectus urna. Tincidunt lobortis feugiat vivamus at augue eget arcu dictum. Dignissim enim sit amet venenatis urna cursus. Laoreet id donec ultrices tincidunt arcu non sodales. Viverra vitae congue eu consequat ac felis. Id diam vel quam elementum pulvinar etiam non quam. Nec sagittis aliquam malesuada bibendum. Id porta nibh venenatis cras sed felis eget. Semper risus in hendrerit gravida rutrum quisque non. Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Viverra suspendisse potenti nullam ac. Varius sit amet mattis vulputate enim nulla aliquet porttitor lacus. Mi in nulla posuere sollicitudin. Semper viverra nam libero justo laoreet sit amet cursus sit.
 
 ## Luhan or the Great Mother
@@ -234,6 +245,12 @@ Very few have had the means, the temerity, and the luck to visit Luhan's surface
 Nothing remains of the great cities, but the remains of minor settlements can be visited. Even thousands of years later, dessicated and weathered corpses can be found at these settlements, having been made sterile and not subject to decomposition through the same process that had caused the Cataclysm.
 
 ## The Three Sisters
+
+<aside class="sidebox">
+	<figure>
+		<img src="/assets/img/three-sisters.png">
+	</figure>
+</aside>
 
 <aside class="sidebox">
 	<h5>Orbital Period Resonances</h5>
