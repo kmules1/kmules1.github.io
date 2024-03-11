@@ -517,6 +517,42 @@ table#class-availability {
 }
 
 /*
+ *	CALENDAR GRID
+ */
+.calendar-grid {
+	border-block-end-width:		unset;
+	border-collapse:			collapse;
+	font-size:					0.8rem;
+	background-color:			unset;
+}
+.calendar-grid th {
+	background-color:			unset;
+	color:						var(--red);
+	text-align:					center;
+	border:						0.125rem solid var(--red);
+	vertical-align:				bottom;
+}
+.calendar-grid td {
+	border-inline:				0.125rem solid var(--red);
+	vertical-align:				top;
+	padding:					0;
+	text-align:					right;
+}
+.calendar-grid tr:nth-child(2n+1) td {
+	background-color:			unset;
+}
+.calendar-grid dl {
+	margin:						0;
+}
+.calendar-grid dt {
+	font-weight:				bold;
+	padding:					0.125rem;
+}
+.calendar-grid dt:nth-child(2n) {
+	background-color:			var(--grey);
+}
+
+/*
  *	FOOTER
  */
 
