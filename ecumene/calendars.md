@@ -38,7 +38,7 @@ Under the Civic Calendar, all months are 24 quarter-days each, and the year is c
 | IV    | Magna Fortuna          | Gran Fortuna<br>Grand Fortune<br>Great Fortune                            | Flowering       |
 | V     | Cadens (Aquila)        | la Cadènte<br>le Chéant<br>The Falling (Eagle)                            |                 |
 | VI    | Signa                  | i Segni<br>les Signes<br>The Signs                                        |                 |
-| VII   | Capitis Agni           | il Capo dell'Agno<br>le Chef de l'Agneau<br>Head of the Lamb              | Heat            |
+| VII   | Caput Agni             | il Capo dell'Agno<br>le Chef de l'Agneau<br>The Head (of the Lamb)        | Heat            |
 | VIII  | Venter Agni            | il Ventre dell'Agno<br>le Ventre de l'Agneau<br>Belly of the Lamb         |                 |
 | IX    | Abundantia             | l'Abbondanza<br>l'Abondance<br>The Abundance                              |                 |
 | E     |                        |                                                                           | *Intercalation* |
@@ -56,7 +56,7 @@ Under the Civic Calendar, all months are 24 quarter-days each, and the year is c
 <aside class="sidebox">
 	<p>c &equals; current year &minus; 6000<br />y &equals; year length in days (~108 <sup>20371</sup>&frasl;<sub>31250</sub>)</p>
 	<p>&LeftFloor;c &times; y&RightFloor; - &LeftFloor;(c &minus; 1) &times; y&RightFloor; &equals; ?</p>
-	<p style="line-height:0.8">&#9136; 109 : long<br />&#9137; 108 : short</p>
+	<p>&#9136; 109 : long<br />&#9137; 108 : short</p>
 </aside>
 
 An intercalary day (4 quarter-days) is inserted between the ninth and tenth months according to a formula. Direct observation, thereafter, has been used to supplement the calendar rather than dictate it, to verify that the formula remains an accurate method for determining intercalations.
@@ -77,6 +77,75 @@ Dates in the Civic Calendar are rendered **&lt;Quarter-Day&gt; of &lt;Month's De
 - (Mayencien) *le 9 de l'Abondance en l'an 7130 depuis l'Egrès*
 
 In shortened notation, this can be rendered as *9 ABU 7130*{: .ae}.
+
+### Example: *7130*{: .ae}
+
+<table>
+	<thead>
+		<tr>
+			<th colspan="3">Germinandí</th>
+			<th colspan="3">Floréscendí</th>
+			<th colspan="3">Calendí</th>
+			<th></th>
+			<th colspan="3">Metendí</th>
+			<th colspan="3">Glaciandí</th>
+			<th colspan="3">Pácandí</th>
+		</tr>
+		<tr>
+			<th>LUP</th>
+			<th>BAL</th>
+			<th>SUR</th>
+			<th>MAG</th>
+			<th>CAD</th>
+			<th>SIG</th>
+			<th>CAP</th>
+			<th>VEN</th>
+			<th>ABU</th>
+			<th>MED</th>
+			<th>SEQ</th>
+			<th>TRI</th>
+			<th>CIN</th>
+			<th>ARC</th>
+			<th>VAC</th>
+			<th>PIS</th>
+			<th>SUM</th>
+			<th>COR</th>
+			<th>CAU</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td>
+			<td>1</td>
+			<td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td>
+		</tr>
+		<tr>
+			<td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td>
+			<td>2</td>
+			<td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td>
+		</tr>
+		<tr>
+			<td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td>
+			<td>3</td>
+			<td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td>
+		</tr>
+		<tr>
+			<td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td>
+			<td>4</td>
+			<td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td>
+		</tr>
+		<tr>
+			<td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td>
+			<td></td>
+			<td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td>
+		</tr>
+		<tr>
+			<td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td>
+			<td></td>
+			<td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Elven Calendar
 
