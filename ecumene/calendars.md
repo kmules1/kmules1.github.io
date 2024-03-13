@@ -83,520 +83,789 @@ In shortened notation, this can be rendered as *9 ABU 7130*{: .ae}.
 <table class="calendar-grid">
 	<thead>
 		<tr>
-			<th colspan="3">Germinandí</th>
-			<th colspan="3">Floréscendí</th>
-			<th colspan="3">Calendí</th>
-			<th rowspan="2">MED</th>
-			<th colspan="3">Metendí</th>
-			<th colspan="3">Glaciandí</th>
-			<th colspan="3">Pácandí</th>
+			<th colspan="9">Germinandí</th>
+			<th colspan="9">Floréscendí</th>
+			<th colspan="9">Calendí</th>
 		</tr>
 		<tr>
-			<th>LUP</th><th>BAL</th><th>SUR</th><th>MAG</th><th>CAD</th><th>SIG</th><th>CAP</th><th>VEN</th><th>ABU</th>
+			<th colspan="3">LUP</th>
+			<th colspan="3">BAL</th>
+			<th colspan="3">SUR</th>
 			
-			<th>SEQ</th><th>TRI</th><th>CIN</th><th>ARC</th><th>VAC</th><th>PIS</th><th>SUM</th><th>COR</th><th>CAU</th>
+			<th colspan="3">MAG</th>
+			<th colspan="3">CAD</th>
+			<th colspan="3">SIG</th>
+			
+			<th colspan="3">CAP</th>
+			<th colspan="3">VEN</th>
+			<th colspan="3">ABU</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td>
-			<td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td><td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td><td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td><td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td><td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td><td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td><td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td><td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td>
-			<td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-				</dl>
-			</td>
-			<td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td>
-			<td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td><td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td><td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td><td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td><td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td><td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td><td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td><td>
-				<dl>
-					<dt>1</dt>
-					<dt>2</dt>
-					<dt>3</dt>
-					<dt>4</dt>
-					<dt>5</dt>
-					<dt>6</dt>
-					<dt>7</dt>
-					<dt>8</dt>
-					<dt>9</dt>
-					<dt>10</dt>
-					<dt>11</dt>
-					<dt>12</dt>
-					<dt>13</dt>
-					<dt>14</dt>
-					<dt>15</dt>
-					<dt>16</dt>
-					<dt>17</dt>
-					<dt>18</dt>
-					<dt>19</dt>
-					<dt>20</dt>
-					<dt>21</dt>
-					<dt>22</dt>
-					<dt>23</dt>
-					<dt>24</dt>
-				</dl>
-			</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="calendar-grid">
+	<tbody>
+		<tr>
+			<th colspan="9">Germinandí</th>
+			<th colspan="9">Floréscendí</th>
+			<th colspan="9">Calendí</th>
+		</tr>
+		<tr>
+			<th colspan="3">LUP</th>
+			<th colspan="3">BAL</th>
+			<th colspan="3">SUR</th>
+			
+			<th colspan="3">MAG</th>
+			<th colspan="3">CAD</th>
+			<th colspan="3">SIG</th>
+			
+			<th colspan="3">CAP</th>
+			<th colspan="3">VEN</th>
+			<th colspan="3">ABU</th>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<th colspan="3">MED</th>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>N</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<th colspan="9">Metendí</th>
+			<th colspan="9">Glaciandí</th>
+			<th colspan="9">Pácandí</th>
+		</tr>
+		<tr>
+			<th colspan="3">SEQ</th>
+			<th colspan="3">TRI</th>
+			<th colspan="3">CIN</th>
+			
+			<th colspan="3">ARC</th>
+			<th colspan="3">VAC</th>
+			<th colspan="3">PIS</th>
+			
+			<th colspan="3">SUM</th>
+			<th colspan="3">COR</th>
+			<th colspan="3">CAU</th>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+			<td>2</td>	<td>N</td>	<td>N</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+			<td>3</td>	<td>N</td>	<td>N</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+			<td></td>	<td>M</td>	<td>E</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+			<td></td>	<td>M</td>	<td>N</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+			<td>5</td>	<td>N</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+			<td>6</td>	<td>N</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+			<td></td>	<td>M</td>	<td>C</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
+			<td></td>	<td>E</td>	<td>C</td>
 		</tr>
 	</tbody>
 </table>

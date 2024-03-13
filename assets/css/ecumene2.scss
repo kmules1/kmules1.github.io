@@ -519,37 +519,33 @@ table#class-availability {
 /*
  *	CALENDAR GRID
  */
-.calendar-grid {
-	border-block-end-width:		unset;
-	border-collapse:			collapse;
-	font-size:					0.8rem;
-	background-color:			unset;
+table.calendar-grid {
+	border-collapse:	collapse;
+	font-size:			0.8rem;
+	width:				100%;
 }
-.calendar-grid th {
-	background-color:			unset;
-	color:						var(--red);
-	text-align:					center;
-	border:						0.125rem solid var(--red);
-	vertical-align:				bottom;
+table.calendar-grid th {
+	border:				0.125rem solid var(--red);
+	color:				var(--red);
 }
-.calendar-grid td {
-	border-inline:				0.125rem solid var(--red);
-	vertical-align:				top;
-	padding:					0;
-	text-align:					right;
+
+table.calendar-grid th,
+table.calendar-grid td {
+	vertical-align:		top;
 }
-.calendar-grid tr:nth-child(2n+1) td {
-	background-color:			unset;
+table.calendar-grid td:nth-of-type(3n+1) {
+	border-inline-start:	0.125rem solid var(--red);
+	text-align:			right;
 }
-.calendar-grid dl {
-	margin:						0;
+table.calendar-grid td:nth-of-type(3n+2) {
+	text-align:			right;
 }
-.calendar-grid dt {
-	font-weight:				bold;
-	padding:					0.125rem;
+table.calendar-grid td:nth-of-type(3n+3) {
+	border-inline-end:	0.125rem solid var(--red);
 }
-.calendar-grid dt:nth-child(2n) {
-	background-color:			var(--grey);
+
+table.calendar-grid tr:last-child td {
+	border-block-end:	0.125rem solid var(--red);
 }
 
 /*
