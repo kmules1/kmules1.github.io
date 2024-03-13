@@ -520,32 +520,36 @@ table#class-availability {
  *	CALENDAR GRID
  */
 table.calendar-grid {
-	border-collapse:	collapse;
-	font-size:			0.8rem;
-	width:				100%;
+	border-collapse:			collapse;
+	font-size:					0.7rem;
+	width:						100%;
+	border:						0;
+	background-color:			unset;
 }
 table.calendar-grid th {
-	border:				0.125rem solid var(--red);
-	color:				var(--red);
+	border:						0.125rem solid var(--red);
+	background-color:			unset;
+	color:						var(--red);
+	text-align:					center;
 }
 
 table.calendar-grid th,
 table.calendar-grid td {
-	vertical-align:		top;
+	vertical-align:				top;
 }
 table.calendar-grid td:nth-of-type(3n+1) {
-	border-inline-start:	0.125rem solid var(--red);
-	text-align:			right;
+	border-inline-start:		0.125rem solid var(--red);
+	text-align:					right;
 }
 table.calendar-grid td:nth-of-type(3n+2) {
-	text-align:			right;
+	text-align:					right;
 }
 table.calendar-grid td:nth-of-type(3n+3) {
-	border-inline-end:	0.125rem solid var(--red);
+	border-inline-end:			0.125rem solid var(--red);
 }
 
 table.calendar-grid tr:last-child td {
-	border-block-end:	0.125rem solid var(--red);
+	border-block-end:			0.125rem solid var(--red);
 }
 
 /*
