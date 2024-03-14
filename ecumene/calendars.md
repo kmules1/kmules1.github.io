@@ -81,39 +81,20 @@ In shortened notation, this can be rendered as *9 ABU 7130*{: .ae}.
 ### Example: annó 7130 ab Egressú
 
 <table class="calendar-grid">
+	
 	<tbody>
 		<tr>
-			<th colspan="9">Germinandí</th>
-			<th colspan="9">Floréscendí</th>
-			<th colspan="9">Calendí</th>
-		</tr>
-		<tr>
-			<th colspan="3">LUP</th>
-			<th colspan="3">BAL</th>
-			<th colspan="3">SUR</th>
+			<td>1</td>	<td>N</td>	<td>F KAL LUP</td>
+			<td>1</td>	<td>N</td>	<td>F KAL BAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL SUR</td>
 			
-			<th colspan="3">MAG</th>
-			<th colspan="3">CAD</th>
-			<th colspan="3">SIG</th>
+			<td>1</td>	<td>N</td>	<td>F KAL MAG</td>
+			<td>1</td>	<td>N</td>	<td>F KAL CAD</td>
+			<td>1</td>	<td>N</td>	<td>F KAL SIG</td>
 			
-			<th colspan="3">CAP</th>
-			<th colspan="3">VEN</th>
-			<th colspan="3">ABU</th>
-		</tr>
-	</tbody>
-	<tbody>
-		<tr>
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-			
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-			
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL CAP</td>
+			<td>1</td>	<td>N</td>	<td>F KAL VEN</td>
+			<td>1</td>	<td>N</td>	<td>F KAL ABU</td>
 		</tr>
 		<tr>
 			<td></td>	<td>M</td>	<td>N</td>
@@ -220,17 +201,17 @@ In shortened notation, this can be rendered as *9 ABU 7130*{: .ae}.
 			<td></td>	<td>E</td>	<td>C</td>
 		</tr>
 		<tr>
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD LUP</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD BAL</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD SUR</td>
 			
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD MAG</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD CAD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD SIG</td>
 			
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD CAP</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD VEN</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD ABU</td>
 		</tr>
 		<tr>
 			<td></td>	<td>M</td>	<td>N</td>
@@ -337,55 +318,32 @@ In shortened notation, this can be rendered as *9 ABU 7130*{: .ae}.
 			<td></td>	<td>E</td>	<td>C</td>
 		</tr>
 	</tbody>
+	
 	<tbody>
 		<tr>
-			<th colspan="3">MED</th>
+			<td>1</td>	<td>N</td>	<td>F MED</td>
+		</tr>
+		<tr>
+			<td></td>	<td>M</td>	<td>N</td>
+		</tr>
+		<tr>
+			<td></td>	<td>E</td>	<td>F</td>
 		</tr>
 	</tbody>
+	
 	<tbody>
 		<tr>
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-		</tr>
-		<tr>
-			<td></td>	<td>M</td>	<td>N</td>
-		</tr>
-		<tr>
-			<td></td>	<td>E</td>	<td>C</td>
-		</tr>
-	</tbody>
-	<tbody>
-		<tr>
-			<th colspan="9">Metendí</th>
-			<th colspan="9">Glaciandí</th>
-			<th colspan="9">Pácandí</th>
-		</tr>
-		<tr>
-			<th colspan="3">SEQ</th>
-			<th colspan="3">TRI</th>
-			<th colspan="3">CIN</th>
+			<td>1</td>	<td>N</td>	<td>F KAL SEQ</td>
+			<td>1</td>	<td>N</td>	<td>F KAL TRI</td>
+			<td>1</td>	<td>N</td>	<td>F KAL CIN</td>
 			
-			<th colspan="3">ARC</th>
-			<th colspan="3">VAC</th>
-			<th colspan="3">PIS</th>
+			<td>1</td>	<td>N</td>	<td>F KAL ARC</td>
+			<td>1</td>	<td>N</td>	<td>F KAL VAC</td>
+			<td>1</td>	<td>N</td>	<td>F KAL PIS</td>
 			
-			<th colspan="3">SUM</th>
-			<th colspan="3">COR</th>
-			<th colspan="3">CAU</th>
-		</tr>
-	</tbody>
-	<tbody>
-		<tr>
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-			
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-			
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
-			<td>1</td>	<td>N</td>	<td>F KAL</td>
+			<td>1</td>	<td>N</td>	<td>F KAL SUM</td>
+			<td>1</td>	<td>N</td>	<td>F KAL COR</td>
+			<td>1</td>	<td>N</td>	<td>F KAL CAU</td>
 		</tr>
 		<tr>
 			<td></td>	<td>M</td>	<td>N</td>
@@ -492,17 +450,17 @@ In shortened notation, this can be rendered as *9 ABU 7130*{: .ae}.
 			<td></td>	<td>E</td>	<td>C</td>
 		</tr>
 		<tr>
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD SEQ</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD TRI</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD CIN</td>
 			
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD ARC</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD VAC</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD PIS</td>
 			
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD SUM</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD COR</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD CAU</td>
 		</tr>
 		<tr>
 			<td></td>	<td>M</td>	<td>N</td>
