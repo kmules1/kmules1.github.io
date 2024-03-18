@@ -24,7 +24,7 @@ The two encampments encircle the very center of the **Sphere of Fixed Stars**, a
 
 At their closest approach, The Ecumene undergoes **Judgment**, receiving both the greater warmth of Ador and the lesser warmth of Ayn; Judgment visited upon the Encampment of Ayn is that much greater, as they are unaccustomed to the greater warmth that Ador brings.
 
-During Judgment, the combined light of Ador, Ayn, and Luhan conspire to prevent any study of the Sphere of Fixed Stars.
+During Judgment, the combined light of Ador, Ayn, and Luhan conspire to prevent the study of the Sphere of Fixed Stars.
 
 <ul class="tree">
 	<li><a style="font-weight:bold">Ador-Ayn System</a>

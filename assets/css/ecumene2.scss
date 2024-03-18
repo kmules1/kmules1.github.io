@@ -2,9 +2,16 @@
 ---
 												
 $white:							#fff;			//	https://w.wiki/_7gc
-$black:							#2E211B;		//	憲法染	Kenpōzome	Legal dye
+$black:							#2E211B;		//	憲法染	Kenpōzome		Legal dye
 $grey:							#2E211B1A;		//	same as above at 0.1 opacity
-$red:							#CF3A24;		//	緋		Ake			Scarlet (blood)
+$red:							#CF3A24;		//	緋		Ake				Scarlet (blood)
+
+$green:							#6B9362;		//	若竹色	Wakatake-iro	Young bamboo color 
+$blue:							#5D8CAE;		//	群青色	Gunjō-iro		Ultramarine color 
+
+$violet:						#875F9A;		//	藤紫	Fujimurasaki	Wisteria purple 
+$cyan:							#86ABA5;		//	水色	Mizu-iro		Aqua Blue color 
+$yellow:						#F3C13A;		//	黄蘗	Kihada			Amur cork tree 
 
 @import "normalize";
 
@@ -30,6 +37,10 @@ $red:							#CF3A24;		//	緋		Ake			Scarlet (blood)
 	--grey:						#2E211B1A;
 	--dark-grey:				#2E211BBF;
 	--white:					#FFF;
+	
+	--violet:					#875F9A;
+	--cyan:						#48929B;
+	--yellow:					#F3C13A;
 	
 	font-family:				'Golden Type';
 	font-size:					16px;
