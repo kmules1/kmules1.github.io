@@ -84,17 +84,17 @@ In shortened notation, this can be rendered as *9 ABU 7130*{: .ae}.
 	
 	<tbody>
 		<tr>
-			<td>1</td>	<td>N</td>	<td>F KAL LUP</td>
-			<td>1</td>	<td>N</td>	<td>F KAL BAL</td>
-			<td>1</td>	<td>N</td>	<td>F KAL SUR</td>
+			<td>1</td>	<td>N</td>	<td>F K.LUP</td>
+			<td>1</td>	<td>N</td>	<td>F K.BAL</td>
+			<td>1</td>	<td>N</td>	<td>F K.SUR</td>
 			
-			<td>1</td>	<td>N</td>	<td>F KAL MAG</td>
-			<td>1</td>	<td>N</td>	<td>F KAL CAD</td>
-			<td>1</td>	<td>N</td>	<td>F KAL SIG</td>
+			<td>1</td>	<td>N</td>	<td>F K.MAG</td>
+			<td>1</td>	<td>N</td>	<td>F K.CAD</td>
+			<td>1</td>	<td>N</td>	<td>F K.SIG</td>
 			
-			<td>1</td>	<td>N</td>	<td>F KAL CAP</td>
-			<td>1</td>	<td>N</td>	<td>F KAL VEN</td>
-			<td>1</td>	<td>N</td>	<td>F KAL ABU</td>
+			<td>1</td>	<td>N</td>	<td>F K.CAP</td>
+			<td>1</td>	<td>N</td>	<td>F K.VEN</td>
+			<td>1</td>	<td>N</td>	<td>F K.ABU</td>
 		</tr>
 		<tr>
 			<td></td>	<td>M</td>	<td>N</td>
@@ -201,17 +201,17 @@ In shortened notation, this can be rendered as *9 ABU 7130*{: .ae}.
 			<td></td>	<td>E</td>	<td>C</td>
 		</tr>
 		<tr>
-			<td>4</td>	<td>N</td>	<td>F ÍD LUP</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD BAL</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD SUR</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.LUP</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.BAL</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.SUR</td>
 			
-			<td>4</td>	<td>N</td>	<td>F ÍD MAG</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD CAD</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD SIG</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.MAG</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.CAD</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.SIG</td>
 			
-			<td>4</td>	<td>N</td>	<td>F ÍD CAP</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD VEN</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD ABU</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.CAP</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.VEN</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.ABU</td>
 		</tr>
 		<tr>
 			<td></td>	<td>M</td>	<td>N</td>
@@ -319,7 +319,7 @@ In shortened notation, this can be rendered as *9 ABU 7130*{: .ae}.
 		</tr>
 	</tbody>
 	
-	<tbody>
+	<tbody class="med">
 		<tr>
 			<td>1</td>	<td>N</td>	<td>F MED</td>
 		</tr>
@@ -333,17 +333,17 @@ In shortened notation, this can be rendered as *9 ABU 7130*{: .ae}.
 	
 	<tbody>
 		<tr>
-			<td>1</td>	<td>N</td>	<td>F KAL SEQ</td>
-			<td>1</td>	<td>N</td>	<td>F KAL TRI</td>
-			<td>1</td>	<td>N</td>	<td>F KAL CIN</td>
+			<td>1</td>	<td>N</td>	<td>F K.SEQ</td>
+			<td>1</td>	<td>N</td>	<td>F K.TRI</td>
+			<td>1</td>	<td>N</td>	<td>F K.CIN</td>
 			
-			<td>1</td>	<td>N</td>	<td>F KAL ARC</td>
-			<td>1</td>	<td>N</td>	<td>F KAL VAC</td>
-			<td>1</td>	<td>N</td>	<td>F KAL PIS</td>
+			<td>1</td>	<td>N</td>	<td>F K.ARC</td>
+			<td>1</td>	<td>N</td>	<td>F K.VAC</td>
+			<td>1</td>	<td>N</td>	<td>F K.PIS</td>
 			
-			<td>1</td>	<td>N</td>	<td>F KAL SUM</td>
-			<td>1</td>	<td>N</td>	<td>F KAL COR</td>
-			<td>1</td>	<td>N</td>	<td>F KAL CAU</td>
+			<td>1</td>	<td>N</td>	<td>F K.SUM</td>
+			<td>1</td>	<td>N</td>	<td>F K.COR</td>
+			<td>1</td>	<td>N</td>	<td>F K.CAU</td>
 		</tr>
 		<tr>
 			<td></td>	<td>M</td>	<td>N</td>
@@ -450,17 +450,17 @@ In shortened notation, this can be rendered as *9 ABU 7130*{: .ae}.
 			<td></td>	<td>E</td>	<td>C</td>
 		</tr>
 		<tr>
-			<td>4</td>	<td>N</td>	<td>F ÍD SEQ</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD TRI</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD CIN</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.SEQ</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.TRI</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.CIN</td>
 			
-			<td>4</td>	<td>N</td>	<td>F ÍD ARC</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD VAC</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD PIS</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.ARC</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.VAC</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.PIS</td>
 			
-			<td>4</td>	<td>N</td>	<td>F ÍD SUM</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD COR</td>
-			<td>4</td>	<td>N</td>	<td>F ÍD CAU</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.SUM</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.COR</td>
+			<td>4</td>	<td>N</td>	<td>F ÍD.CAU</td>
 		</tr>
 		<tr>
 			<td></td>	<td>M</td>	<td>N</td>
