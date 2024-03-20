@@ -4,7 +4,7 @@ title: Beliefs and Practices
 permalink: /ecumene/beliefs/
 ---
 
-## 'Ima
+## Ima
 
 
 
