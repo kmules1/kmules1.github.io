@@ -27,11 +27,7 @@ The Greater Imperium is situated primarily on the continents of Thrasu and Acama
 
 ## Philosophy & Religion
 
-**'Ima** is the majority belief system within the Greater Imperium.
-
-Its roots are found southeast of the Encircled Sea, among the Sweyriet; it began to enter mainstream society once the Sweyriet began to be recruited as auxiliaries into the army. Their religious practices, called *'Ima* ("Veneration") or *'Ima tal-Iva* ("Veneration of the Iva"), influenced and was influenced by the religious and philosophical milieu of the Imperium to produce the form it has taken in its present day. With the Autocrators as a consistent benefactor since the late High Imperium, 'Ima has become well-integrated into the social fabric all across the Greater Imperium.
-
-In spite of this, folk practices persist, either having absorbed some aspects of 'Ima or having reformulated themselves in opposition to it.
+**[Ima](/ecumene/beliefs/]** is the majority belief system within the Greater Imperium, having developed from an imported cult originating among the Sweyriet and a local philosophical trend within the Imperium towards monotheism. In spite of this, prior folk practices persist, either having absorbed some aspects of Ima or having reformulated themselves in opposition to it.
 
 ## Technology
 
