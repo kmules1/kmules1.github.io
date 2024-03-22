@@ -27,7 +27,7 @@ The Greater Imperium is situated primarily on the continents of Thrasu and Acama
 
 ## Philosophy & Religion
 
-**[Ima](/ecumene/beliefs/#Ima)** is the majority belief system within the Greater Imperium, having developed from an imported cult originating among the Sweyriet and a local philosophical trend within the Imperium towards monotheism. In spite of this, prior folk practices persist, either having absorbed some aspects of Ima or having reformulated themselves in opposition to it.
+**[Ima](/ecumene/Ima/)** is the majority belief system within the Greater Imperium, having developed from an imported cult originating among the Sweyriet and a local philosophical trend within the Imperium towards monotheism. In spite of this, prior folk practices persist, either having absorbed some aspects of Ima or having reformulated themselves in opposition to it.
 
 ## Technology
 

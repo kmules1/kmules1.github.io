@@ -4,15 +4,19 @@ title: Ima
 permalink: /ecumene/ima/
 ---
 
-***Ima*** ("Worship") is the prevailing religious tradition of the Greater Imperium, having emerged from the meeting of early Imperial philosophy and a foreign cult introduced midway through the High Imperium. It was introduced into the seat of power with the ascension of the Dascar Dynasty, which enabled its rapid spread and adoption throughout and beyond the Imperium.
+***Ima***, from the Sweyriet word for "worship", is the prevailing religious tradition of the Greater Imperium, having emerged from the meeting of early Imperial philosophy and a foreign cult introduced midway through the High Imperium. It was introduced into the seat of power with the ascension of the Dascar Dynasty, which enabled its rapid spread and adoption throughout and beyond the Imperium.
 
 ## Origins
 
-The ancient religion of the Sweyriet consisted of worship of the *Idwal*, the Most Luminous, the leader of a divine council composed of other luminaries, great and small, each with their own portfolios and personalities. By the time of its introduction into the Imperium, their beliefs and practices had become definitively more monarchical in nature, with the other *dawlin* ("luminous ones") fully subordinated to the will of the Idwal.
+The ancient religion of the Sweyriet consisted of worship of the **Idwal**, the Most Luminous, the leader of a divine council composed of the **Dawlin**, the Luminous Ones, great and small, each with their own portfolios and personalities. They call their religion **`Ima tal-Idwal**, Worship of the Most Luminous.
 
-This early cult, called *Ima Talidwala*, was introduced into the Imperium through the recruitment of Sweyriet cavaliers to serve as auxiliaries in the imperial army during the later years of the Attarin Dynasty. Within this new context, the Sweyriet auxiliaries formed fraternal organizations within which to continue their traditional religious practices, to which non-Sweyriet soldiers and officers also joined. Thereafter, it was introduced to the merchants and middling officials that made up the High Imperium's middle class, opening it to influence from the High Imperium's diverse philosophical and religious milieu. In the absence of a central authority, many different schools developed within *Ima Talidwala*.
+Within the early High Imperium, a lack of religious cohesion, beyond state-mandated annual sacrifices to **Tanar** as Protector of the Imperium (in effect, a community-based oath of loyalty to the state), provided a vacuum for the flowering of philosophical schools and syncretic mystery cults. For them, the overarching trend over time was towards interpreting various local gods as reflections of a higher, unified reality.
 
-Dascar Thalna, a general who would prevail in the civil war to succeed the Attarins, was an initiate of one particular school, called *Ima Taliva*. Upon his succession to the Imperium, he would become a generous patron, elevating this one school to political prominence. Under his successors and beyond, *Ima Taliva* would grow and mature, integrating into the social fabric of the Greater Imperium and displacing earlier local religious practices and pantheons with a unified religion.
+### Mysteries of the Idwal
+
+In the later years of the Attarin Dynasty, Sweyriet cavaliers were recruited to serve as auxiliaries in the imperial army. Within this new context, they formed fraternal organizations to continue their traditional practices, to which non-Sweyriet soldiers and officers would, in time, be invited to join. Entry into the High Imperium's middle class caused an eruption into several different schools that drew from the surrounding philosophical and religious milieu.
+
+Dascar Thalna, a general who would prevail in the civil war to succeed the Attarins, was an initiate of one school called *Ima Taliva*. Upon his succession to the Imperium, he would become a generous patron, elevating this one school to political prominence. Under his successors and beyond, *Ima Taliva* would grow and mature, integrating into the social fabric of the Greater Imperium and displacing earlier local religious practices and pantheons with a unified religion.
 
 ## Core Teachings
 
