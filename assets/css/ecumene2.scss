@@ -312,9 +312,19 @@ main p + p::before {
 	opacity:					0;
 }
 
+/*
+ *	LISTS
+ */
+
 main ul {
 	list-style:					none;
 	padding-left:				0;
+	margin-block-end:			1em;
+	margin-inline-start:		1em;
+}
+
+main ul.small-list {
+	font-size:					0.75rem;
 }
 
 main li::before {
@@ -322,7 +332,7 @@ main li::before {
 	color:						var(--red);
 	display:					inline-block;
 	width:						2em;
-	margin-left:				-2em;
+	margin-left:				-3em;
 	font-size:					0.75em;
 }
 
